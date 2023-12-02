@@ -26,6 +26,11 @@
     "irsyad",
     "react-icons"
   ],
+  "repository": {
+    "directory": "@irsyadadl/paranoid",
+    "type": "git",
+    "url": "git+"
+  },
   "devDependencies": {
     "@babel/plugin-transform-runtime": "^7.23.4",
     "@babel/preset-env": "^7.23.5",
