@@ -1,4 +1,4 @@
-Paranoid is a package for inserting any icon set for react. This project is cooked by [irsyadadl](https://irsyad.co).
+A library of beautifully crafted react icons, perfect for enhancing the visual appeal and user experience of your web applications. This project is cooked by [irsyadadl](https://irsyad.co).
 
 ## Installation
 
