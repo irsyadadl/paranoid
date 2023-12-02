@@ -1,5 +1,7 @@
 
 
+## [0.0.36](https://github.com/irsyadadl/paranoid/compare/0.0.35...0.0.36) (2023-12-02)
+
 ## [0.0.35](https://github.com/irsyadadl/paranoid/compare/0.0.34...0.0.35) (2023-12-02)
 
 
