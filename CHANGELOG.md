@@ -1,5 +1,12 @@
 
 
+## [0.0.37](https://github.com/irsyadadl/paranoid/compare/0.0.36...0.0.37) (2023-12-02)
+
+
+### Bug Fixes
+
+* fix bug on the package.json ([2aa1445](https://github.com/irsyadadl/paranoid/commit/2aa144558857ac8cac99b08c044a1f71a85fc769))
+
 ## [0.0.36](https://github.com/irsyadadl/paranoid/compare/0.0.35...0.0.36) (2023-12-02)
 
 ## [0.0.35](https://github.com/irsyadadl/paranoid/compare/0.0.34...0.0.35) (2023-12-02)
