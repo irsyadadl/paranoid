@@ -68,6 +68,9 @@
           "fix": {
             "description": "Fix bugs"
           },
+          "pubslished": {
+            "description": "Published new version"
+          },
           "chore": {
             "description": "Build process or auxiliary tool changes"
           },
