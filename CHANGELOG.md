@@ -1,5 +1,12 @@
 
 
+## [0.0.35](https://github.com/irsyadadl/paranoid/compare/0.0.34...0.0.35) (2023-12-02)
+
+
+### Bug Fixes
+
+* add correct url to the package.json ([a1ce97c](https://github.com/irsyadadl/paranoid/commit/a1ce97ceb4129b64fb2ba2e723af8704cbe12757))
+
 ## [0.0.34](https://example.com///compare/0.0.33...0.0.34) (2023-12-02)
 
 
