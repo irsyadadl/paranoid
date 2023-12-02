@@ -1,5 +1,12 @@
 
 
+## [0.0.25](https://github.com/irsyadadl/paranoid/compare/0.0.3...0.0.25) (2023-12-02)
+
+
+### Bug Fixes
+
+* fix the version on npmjs ([116d0af](https://github.com/irsyadadl/paranoid/commit/116d0afa40221dbb6c41cd218abba5c91ae25ece))
+
 ## [0.0.3](https://github.com/irsyadadl/paranoid/compare/0.0.2...0.0.3) (2023-12-02)
 
 ## [0.0.2](https://github.com/irsyadadl/paranoid/compare/0.0.1...0.0.2) (2023-12-02)
