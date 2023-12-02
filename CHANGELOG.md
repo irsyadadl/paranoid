@@ -1,5 +1,12 @@
 
 
+## [0.0.34](https://example.com///compare/0.0.33...0.0.34) (2023-12-02)
+
+
+### Bug Fixes
+
+* connect to the github repo ([412bf9d](https://example.com///commit/412bf9d8b4cd4078afdd6f27ed47989977e1b3b6))
+
 ## [0.0.33](https://github.com/irsyadadl/paranoid/compare/0.0.26...0.0.33) (2023-12-02)
 
 
