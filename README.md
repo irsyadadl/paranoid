@@ -19,10 +19,10 @@ npm i @irsyadadl/paranoid
 This package is a collection of ico icon from [irsyadadl](https://irsyad.co). You can use it like this:
 
 ```jsx
-import { IconBag2 } from "@irsyadadl/paranoid";
+import { IconBag } from "@irsyadadl/paranoid";
 
 const App = () => {
-  return <IconBag2 />;
+  return <IconBag />;
 };
 
 export default App;
