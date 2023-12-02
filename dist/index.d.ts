@@ -9,6 +9,12 @@ export declare const IconArrowBottom: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconArrowLeft: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconArrowRight: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconArrowTop: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconArrowWallDown: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconArrowWallLeft: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconArrowWallRight: React.FC<
+  React.SVGProps<SVGSVGElement>
+>;
+export declare const IconArrowWallUp: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBackspace: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBackspaceFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBag: React.FC<React.SVGProps<SVGSVGElement>>;
@@ -144,6 +150,8 @@ export declare const IconDotsVertical: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDownload: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDuplicate: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDuplicateFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconEnter: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconEnterFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconEye: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconEyeFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconEyeOff: React.FC<React.SVGProps<SVGSVGElement>>;
@@ -192,6 +200,8 @@ export declare const IconFullscreenFill: React.FC<
 >;
 export declare const IconGallery: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconGalleryFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconGear: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconGearFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconGift: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconGiftFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconGlobe: React.FC<React.SVGProps<SVGSVGElement>>;
@@ -275,6 +285,8 @@ export declare const IconQrCodeFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconReceipt: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconReceiptFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconRefresh: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconRepeat: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconRepeatFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconRocket: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconRocketFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSdCard: React.FC<React.SVGProps<SVGSVGElement>>;
@@ -313,6 +325,12 @@ export declare const IconStore: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconStoreFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSun: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSwitchHorizontal: React.FC<
+  React.SVGProps<SVGSVGElement>
+>;
+export declare const IconSwitchVertical: React.FC<
+  React.SVGProps<SVGSVGElement>
+>;
+export declare const IconSwitchVerticalFill: React.FC<
   React.SVGProps<SVGSVGElement>
 >;
 export declare const IconTelephone: React.FC<React.SVGProps<SVGSVGElement>>;
