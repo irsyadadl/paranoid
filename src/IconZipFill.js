@@ -14,7 +14,7 @@ const SvgIconZipFill = ({ title, titleId, ...props }) => (
     <path
       fill="currentColor"
       fillRule="evenodd"
-      d="M3 6.75A3.75 3.75 0 0 1 6.75 3h10.5A3.75 3.75 0 0 1 21 6.75v10.5A3.75 3.75 0 0 1 17.25 21H6.75A3.75 3.75 0 0 1 3 17.25zM9.75 5a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5zM9 9.75A.75.75 0 0 1 9.75 9h4.5a.75.75 0 0 1 0 1.5h-4.5A.75.75 0 0 1 9 9.75M9.75 13a.75.75 0 0 0-.75.75V16a3 3 0 1 0 6 0v-2.25a.75.75 0 0 0-.75-.75z"
+      d="M21 3v18H3V3zM9 5v1.5h6V5zm0 4h6v1.5H9zm0 4v3a3 3 0 1 0 6 0v-3z"
       clipRule="evenodd"
     />
   </svg>

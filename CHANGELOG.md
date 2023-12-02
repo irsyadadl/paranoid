@@ -1,43 +1,36 @@
-
-
 ## [0.0.37](https://github.com/irsyadadl/paranoid/compare/0.0.36...0.0.37) (2023-12-02)
-
 
 ### Bug Fixes
 
-* fix bug on the package.json ([2aa1445](https://github.com/irsyadadl/paranoid/commit/2aa144558857ac8cac99b08c044a1f71a85fc769))
+- fix bug on the package.json ([2aa1445](https://github.com/irsyadadl/paranoid/commit/2aa144558857ac8cac99b08c044a1f71a85fc769))
 
 ## [0.0.36](https://github.com/irsyadadl/paranoid/compare/0.0.35...0.0.36) (2023-12-02)
 
 ## [0.0.35](https://github.com/irsyadadl/paranoid/compare/0.0.34...0.0.35) (2023-12-02)
 
-
 ### Bug Fixes
 
-* add correct url to the package.json ([a1ce97c](https://github.com/irsyadadl/paranoid/commit/a1ce97ceb4129b64fb2ba2e723af8704cbe12757))
+- add correct url to the package.json ([a1ce97c](https://github.com/irsyadadl/paranoid/commit/a1ce97ceb4129b64fb2ba2e723af8704cbe12757))
 
 ## [0.0.34](https://example.com///compare/0.0.33...0.0.34) (2023-12-02)
 
-
 ### Bug Fixes
 
-* connect to the github repo ([412bf9d](https://example.com///commit/412bf9d8b4cd4078afdd6f27ed47989977e1b3b6))
+- connect to the github repo ([412bf9d](https://example.com///commit/412bf9d8b4cd4078afdd6f27ed47989977e1b3b6))
 
 ## [0.0.33](https://github.com/irsyadadl/paranoid/compare/0.0.26...0.0.33) (2023-12-02)
 
-
 ### Bug Fixes
 
-* fix the npm version ([36a6018](https://github.com/irsyadadl/paranoid/commit/36a6018387f1fc74aa7aa225bcd03f4c7b1df7d4))
+- fix the npm version ([36a6018](https://github.com/irsyadadl/paranoid/commit/36a6018387f1fc74aa7aa225bcd03f4c7b1df7d4))
 
 ## [0.0.26](https://github.com/irsyadadl/paranoid/compare/0.0.25...0.0.26) (2023-12-02)
 
 ## [0.0.25](https://github.com/irsyadadl/paranoid/compare/0.0.3...0.0.25) (2023-12-02)
 
-
 ### Bug Fixes
 
-* fix the version on npmjs ([116d0af](https://github.com/irsyadadl/paranoid/commit/116d0afa40221dbb6c41cd218abba5c91ae25ece))
+- fix the version on npmjs ([116d0af](https://github.com/irsyadadl/paranoid/commit/116d0afa40221dbb6c41cd218abba5c91ae25ece))
 
 ## [0.0.3](https://github.com/irsyadadl/paranoid/compare/0.0.2...0.0.3) (2023-12-02)
 

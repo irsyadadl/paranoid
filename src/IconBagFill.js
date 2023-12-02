@@ -13,7 +13,7 @@ const SvgIconBagFill = ({ title, titleId, ...props }) => (
     <path
       fill="currentColor"
       fillRule="evenodd"
-      d="M4.044 3h15.912l1.09 18H2.954l1.09-18ZM9.75 8v-.75h-1.5V8a3.75 3.75 0 1 0 7.5 0v-.75h-1.5V8a2.25 2.25 0 1 1-4.5 0"
+      d="M4.044 3h15.912l1.09 18H2.954l1.09-18ZM9.75 8v-.75h-1.5V8a3.75 3.75 0 1 0 7.5 0v-.75h-1.5V8a2.25 2.25 0 0 1-4.5 0"
       clipRule="evenodd"
     />
   </svg>

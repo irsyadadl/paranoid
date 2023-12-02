@@ -12,10 +12,13 @@ const SvgIconLocation = ({ title, titleId, ...props }) => (
     {title ? <title id={titleId}>{title}</title> : null}
     <path
       stroke="currentColor"
-      strokeLinecap="round"
-      strokeLinejoin="round"
       strokeWidth={1.5}
-      d="M14 22.25 20.5 3.5 1.75 10 11 13z"
+      d="M14.75 10a2.75 2.75 0 1 1-5.5 0 2.75 2.75 0 0 1 5.5 0Z"
+    />
+    <path
+      stroke="currentColor"
+      strokeWidth={1.5}
+      d="M19.25 10c0 6.076-7.25 11.393-7.25 11.393S4.75 16.076 4.75 10a7.25 7.25 0 0 1 14.5 0Z"
     />
   </svg>
 );
