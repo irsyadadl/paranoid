@@ -4,6 +4,8 @@ export declare const IconAdjustmentFill: React.FC<
   React.SVGProps<SVGSVGElement>
 >;
 export declare const IconAlbum: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconAnonymous: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconAnonymousFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconArchive: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconArrowBottom: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconArrowLeft: React.FC<React.SVGProps<SVGSVGElement>>;
@@ -223,6 +225,10 @@ export declare const IconHome: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconHomeFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconInvoice: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconInvoiceFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconKey: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconKeyFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconKeyhole: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconKeyholeFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconLayers: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconLayers2: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconLayers2Fill: React.FC<React.SVGProps<SVGSVGElement>>;
@@ -305,6 +311,16 @@ export declare const IconService: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconServiceFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSettings: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSettingsFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconShield: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconShieldCheck: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconShieldCheckFill: React.FC<
+  React.SVGProps<SVGSVGElement>
+>;
+export declare const IconShieldCrossed: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconShieldCrossedFill: React.FC<
+  React.SVGProps<SVGSVGElement>
+>;
+export declare const IconShieldFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSidebar: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSidebarFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSimCard: React.FC<React.SVGProps<SVGSVGElement>>;
