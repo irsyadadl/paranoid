@@ -1,5 +1,3 @@
-
-
 ## [0.0.62](https://github.com/irsyadadl/paranoid/compare/0.0.61...0.0.62) (2023-12-03)
 
 ## [0.0.61](https://github.com/irsyadadl/paranoid/compare/0.0.60...0.0.61) (2023-12-03)
@@ -20,10 +18,9 @@
 
 ## [0.0.53](https://github.com/irsyadadl/paranoid/compare/0.0.52...0.0.53) (2023-12-03)
 
-
 ### Bug Fixes
 
-* fix gh action ([df4105a](https://github.com/irsyadadl/paranoid/commit/df4105acbf4abc919a1391189e1fcf343cf17a78))
+- fix gh action ([df4105a](https://github.com/irsyadadl/paranoid/commit/df4105acbf4abc919a1391189e1fcf343cf17a78))
 
 ## [0.0.52](https://github.com/irsyadadl/paranoid/compare/0.0.51...0.0.52) (2023-12-03)
 
@@ -37,19 +34,17 @@
 
 ## [0.0.47](https://github.com/irsyadadl/paranoid/compare/0.0.45...0.0.47) (2023-12-03)
 
-
 ### Bug Fixes
 
-* fix version ([53c0526](https://github.com/irsyadadl/paranoid/commit/53c0526d9bb9c47980bcafed62a955e6aa3da54c))
-* fix version ([1662c0f](https://github.com/irsyadadl/paranoid/commit/1662c0f233a5d74aaed04fb0610114f56e624489))
-* remove .npmrc and make it from gh actions ([8af86ef](https://github.com/irsyadadl/paranoid/commit/8af86ef7ef2c1fb2386cc0654fd6f6fa995c3677))
+- fix version ([53c0526](https://github.com/irsyadadl/paranoid/commit/53c0526d9bb9c47980bcafed62a955e6aa3da54c))
+- fix version ([1662c0f](https://github.com/irsyadadl/paranoid/commit/1662c0f233a5d74aaed04fb0610114f56e624489))
+- remove .npmrc and make it from gh actions ([8af86ef](https://github.com/irsyadadl/paranoid/commit/8af86ef7ef2c1fb2386cc0654fd6f6fa995c3677))
 
 ## [0.0.45](https://github.com/irsyadadl/paranoid/compare/0.0.44...0.0.45) (2023-12-03)
 
-
 ### Bug Fixes
 
-* fix ci for releasing package ([a633df0](https://github.com/irsyadadl/paranoid/commit/a633df04713d0280e92a9b18fdf87c0195f3a33f))
+- fix ci for releasing package ([a633df0](https://github.com/irsyadadl/paranoid/commit/a633df04713d0280e92a9b18fdf87c0195f3a33f))
 
 ## [0.0.44](https://github.com/irsyadadl/paranoid/compare/0.0.43...0.0.44) (2023-12-03)
 
@@ -59,10 +54,9 @@
 
 ## [0.0.41](https://github.com/irsyadadl/paranoid/compare/0.0.40...0.0.41) (2023-12-03)
 
-
 ### Bug Fixes
 
-* allow all package manager install it ([9afd3fe](https://github.com/irsyadadl/paranoid/commit/9afd3fee633a3e3732d16757a942c1d194f9950c))
+- allow all package manager install it ([9afd3fe](https://github.com/irsyadadl/paranoid/commit/9afd3fee633a3e3732d16757a942c1d194f9950c))
 
 ## [0.0.40](https://github.com/irsyadadl/paranoid/compare/0.0.39...0.0.40) (2023-12-02)
 

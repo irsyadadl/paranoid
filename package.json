@@ -12,7 +12,7 @@
     "format": "npx prettier --write .",
     "prebuild": "rimraf src && rimraf dist",
     "build": "npm run svgr && node generate-declarations.js && rollup -c",
-    "svgr": "svgr --icon --title-prop --replace-attr-values '#000=currentColor'  --replace-attr-values '1em={24}' -d src -- ../icons",
+    "svgr": "svgr --icon --replace-attr-values '#000=currentColor'  --replace-attr-values '1em={24}' -d src -- ../icons",
     "release": "release-it"
   },
   "files": [
@@ -26,9 +26,6 @@
     "irsyad",
     "react-icons"
   ],
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/irsyadadl/paranoid.git"
@@ -93,9 +90,6 @@
           },
           "perf": {
             "description": "A code change that improves performance"
-          },
-          "technical": {
-            "description": "Technical changes"
           },
           "test": {
             "description": "Adding missing tests"
