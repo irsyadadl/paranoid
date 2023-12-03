@@ -1,5 +1,12 @@
 
 
+## [0.0.53](https://github.com/irsyadadl/paranoid/compare/0.0.52...0.0.53) (2023-12-03)
+
+
+### Bug Fixes
+
+* fix gh action ([df4105a](https://github.com/irsyadadl/paranoid/commit/df4105acbf4abc919a1391189e1fcf343cf17a78))
+
 ## [0.0.52](https://github.com/irsyadadl/paranoid/compare/0.0.51...0.0.52) (2023-12-03)
 
 ## [0.0.51](https://github.com/irsyadadl/paranoid/compare/0.0.50...0.0.51) (2023-12-03)
