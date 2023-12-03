@@ -26,6 +26,9 @@
     "irsyad",
     "react-icons"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/irsyadadl/paranoid.git"
