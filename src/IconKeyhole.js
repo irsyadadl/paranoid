@@ -1,0 +1,25 @@
+import * as React from "react";
+const SvgIconKeyhole = ({ title, titleId, ...props }) => (
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={24}
+    height={24}
+    fill="none"
+    viewBox="0 0 24 24"
+    aria-labelledby={titleId}
+    {...props}
+  >
+    {title ? <title id={titleId}>{title}</title> : null}
+    <path
+      stroke="currentColor"
+      strokeWidth={1.5}
+      d="M21.25 12a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0Z"
+    />
+    <path
+      stroke="currentColor"
+      strokeWidth={1.5}
+      d="M13.5 12.884a3.25 3.25 0 1 0-3 0v2.866a1.5 1.5 0 0 0 3 0z"
+    />
+  </svg>
+);
+export default SvgIconKeyhole;
