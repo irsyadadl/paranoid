@@ -1,3 +1,12 @@
+
+
+## [0.0.41](https://github.com/irsyadadl/paranoid/compare/0.0.40...0.0.41) (2023-12-03)
+
+
+### Bug Fixes
+
+* allow all package manager install it ([9afd3fe](https://github.com/irsyadadl/paranoid/commit/9afd3fee633a3e3732d16757a942c1d194f9950c))
+
 ## [0.0.40](https://github.com/irsyadadl/paranoid/compare/0.0.39...0.0.40) (2023-12-02)
 
 ## [0.0.39](https://github.com/irsyadadl/paranoid/compare/0.0.38...0.0.39) (2023-12-02)
