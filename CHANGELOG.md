@@ -1,5 +1,14 @@
 
 
+## [0.0.47](https://github.com/irsyadadl/paranoid/compare/0.0.45...0.0.47) (2023-12-03)
+
+
+### Bug Fixes
+
+* fix version ([53c0526](https://github.com/irsyadadl/paranoid/commit/53c0526d9bb9c47980bcafed62a955e6aa3da54c))
+* fix version ([1662c0f](https://github.com/irsyadadl/paranoid/commit/1662c0f233a5d74aaed04fb0610114f56e624489))
+* remove .npmrc and make it from gh actions ([8af86ef](https://github.com/irsyadadl/paranoid/commit/8af86ef7ef2c1fb2386cc0654fd6f6fa995c3677))
+
 ## [0.0.45](https://github.com/irsyadadl/paranoid/compare/0.0.44...0.0.45) (2023-12-03)
 
 
