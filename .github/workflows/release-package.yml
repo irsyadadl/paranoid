@@ -1,30 +1,41 @@
-name: Publish Package to npmjs.com
+name: Publish Package
+
 on:
   release:
     types: [published]
+
 jobs:
-  build:
+  publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
+
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
           node-version: 16
-          registry-url: https://registry.npmjs.org/
-          scope: "@irsyadadl"
+
+      # Publishing to npmjs.com
+      - name: Set Registry for npmjs.com
+        run: npm config set registry https://registry.npmjs.org/
+
       - name: Publish to npmjs.com
         run: npm publish --access public
         env:
-          NODE_AUTH_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
-      - name: Setup Node.js for GitHub Packages
-        uses: actions/setup-node@v3
-        with:
-          node-version: 16
-          registry-url: https://npm.pkg.github.com/
-          scope: "@irsyadadl"
+          NODE_AUTH_TOKEN: ${{ secrets.NODE_AUTH_TOKEN }}
+
+      # Reset registry to default (GitHub Packages)
+      - name: Set Registry for GitHub Packages
+        run: npm config set registry https://npm.pkg.github.com/
+
+      - name: Update package.json for GitHub Packages
+        run: |
+          npm version patch --no-git-tag-version
+          jq '.name="@irsyadadl/${{ github.event.repository.name }}"' package.json > temp.json
+          mv temp.json package.json
+
       - name: Publish to GitHub Packages
-        run: npm publish --access public
+        run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.PARANOID_GH_TOKEN }}
