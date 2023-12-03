@@ -27,3 +27,9 @@ const App = () => {
 
 export default App;
 ```
+
+## License
+[MIT](https://github.com/irsyadadl/paranoid/blob/master/LICENSE)
+
+## Author
+[irsyadadl](https://x.com/irsyadadl)
