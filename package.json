@@ -94,6 +94,9 @@
           "perf": {
             "description": "A code change that improves performance"
           },
+          "technical": {
+            "description": "Technical changes"
+          },
           "test": {
             "description": "Adding missing tests"
           }
