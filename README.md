@@ -28,8 +28,12 @@ const App = () => {
 export default App;
 ```
 
+## Find Icon
+[Here](https://irsyad.co/paranoid)
+
+
 ## License
-[MIT](https://github.com/irsyadadl/paranoid/blob/master/LICENSE)
+This library is [MIT](https://github.com/irsyadadl/paranoid/blob/master/LICENSE) licensed.
 
 ## Author
 [irsyadadl](https://x.com/irsyadadl)
