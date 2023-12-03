@@ -1,5 +1,12 @@
 
 
+## [0.0.45](https://github.com/irsyadadl/paranoid/compare/0.0.44...0.0.45) (2023-12-03)
+
+
+### Bug Fixes
+
+* fix ci for releasing package ([a633df0](https://github.com/irsyadadl/paranoid/commit/a633df04713d0280e92a9b18fdf87c0195f3a33f))
+
 ## [0.0.44](https://github.com/irsyadadl/paranoid/compare/0.0.43...0.0.44) (2023-12-03)
 
 ## [0.0.43](https://github.com/irsyadadl/paranoid/compare/0.0.42...0.0.43) (2023-12-03)
