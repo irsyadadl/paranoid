@@ -1482,7 +1482,7 @@ const SvgIconDuplicateFill = props => /*#__PURE__*/React.createElement("svg", _e
 }, props), /*#__PURE__*/React.createElement("path", {
   fill: "currentColor",
   fillRule: "evenodd",
-  d: "M7 3h14v14.01h-4V21H3V7h4zm10 12.51V7H8.5V4.5h11v11.01z",
+  d: "M7 4.75C7 3.784 7.784 3 8.75 3h10.5c.966 0 1.75.784 1.75 1.75v10.51a1.75 1.75 0 0 1-1.75 1.75H17v2.24A1.75 1.75 0 0 1 15.25 21H4.75A1.75 1.75 0 0 1 3 19.25V8.75C3 7.784 3.784 7 4.75 7H7zm10 10.76V8.75A1.75 1.75 0 0 0 15.25 7H8.5V4.75a.25.25 0 0 1 .25-.25h10.5a.25.25 0 0 1 .25.25v10.51a.25.25 0 0 1-.25.25z",
   clipRule: "evenodd"
 }));
 
@@ -1495,8 +1495,9 @@ const SvgIconDuplicate = props => /*#__PURE__*/React.createElement("svg", _exten
 }, props), /*#__PURE__*/React.createElement("path", {
   stroke: "currentColor",
   strokeLinecap: "round",
+  strokeLinejoin: "round",
   strokeWidth: 1.5,
-  d: "M7.75 7.75v-4h12.5v12.51h-4m0-8.51v12.5H3.75V7.75z"
+  d: "M7.75 7.75v-3a1 1 0 0 1 1-1h10.5a1 1 0 0 1 1 1v10.51a1 1 0 0 1-1 1h-3M3.75 8.75v10.5a1 1 0 0 0 1 1h10.5a1 1 0 0 0 1-1V8.75a1 1 0 0 0-1-1H4.75a1 1 0 0 0-1 1"
 }));
 
 const SvgIconEnterFill = props => /*#__PURE__*/React.createElement("svg", _extends({

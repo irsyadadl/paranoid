@@ -11,8 +11,9 @@ const SvgIconDuplicate = (props) => (
         <path
             stroke="currentColor"
             strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M7.75 7.75v-4h12.5v12.51h-4m0-8.51v12.5H3.75V7.75z"
+            d="M7.75 7.75v-3a1 1 0 0 1 1-1h10.5a1 1 0 0 1 1 1v10.51a1 1 0 0 1-1 1h-3M3.75 8.75v10.5a1 1 0 0 0 1 1h10.5a1 1 0 0 0 1-1V8.75a1 1 0 0 0-1-1H4.75a1 1 0 0 0-1 1"
         />
     </svg>
 );
