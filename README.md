@@ -31,7 +31,7 @@ cooked by [irsyadadl](https://irsyad.co).
 
 ## Install
 
-You can install this package using npm:
+You can install this package using any package manager, this example is using npm:
 
 ```bash
 npm i @irsyadadl/paranoid
