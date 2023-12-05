@@ -2,11 +2,6 @@
 /node_modules
 .phpunit.result.cache
 Homestead.json
-/public/sitemap.xml
-/public/sitemap_articles.xml
-/public/sitemap_series.xml
-/resources/js/results.json
-/resources/js/tests
 auth.json
 package-lock.json
 npm-debug.log
