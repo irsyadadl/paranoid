@@ -44,7 +44,7 @@ bun i @irsyadadl/paranoid
 ```
 
 ## Usage
-It's so simple. You just need to import the icon you want to use and use it like a component. If you dom't know what icon you want to use, you can find it [here](https://irsyad.co/paranoid).
+It's so simple. You just need to import the icon you want to use and use it like a component. If you don't know what icon you want to use, you can find it [here](https://irsyad.co/paranoid).
 
 ```jsx
 import { IconBag } from "@irsyadadl/paranoid";
