@@ -44,8 +44,7 @@ bun i @irsyadadl/paranoid
 ```
 
 ## Usage
-
-This package is a collection of ico icon from [irsyadadl](https://irsyad.co). You can use it like this:
+It's so simple. You just need to import the icon you want to use and use it like a component. If you dom't know what icon you want to use, you can find it [here](https://irsyad.co/paranoid).
 
 ```jsx
 import { IconBag } from "@irsyadadl/paranoid";
