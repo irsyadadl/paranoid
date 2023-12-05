@@ -1,11 +1,12 @@
 <br/>
+<br/>
 
-<h1 align="center">Paranoid</h1>
 <p align="center">
   <a href="https://irsyad.co/paranoid/">
     <img src="https://irsyad.co/icon.png" alt="Bootstrap logo" width="128" height="128">
   </a>
 </p>
+<h1 align="center">Paranoid</h1>
 
 <div align="center">
 
