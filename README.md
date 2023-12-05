@@ -1,6 +1,8 @@
+<br/>
+<br/>
 <p align="center">
-  <a href="https://getbootstrap.com/">
-    <img src="https://irsyad.co/icon.png" alt="Bootstrap logo" width="72" height="72">
+  <a href="https://irsyad.co/paranoid/">
+    <img src="https://irsyad.co/icon.png" alt="Paranoid logo" width="72" height="72">
   </a>
 </p>
 
