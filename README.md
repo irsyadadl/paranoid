@@ -31,7 +31,7 @@ cooked by [irsyadadl](https://irsyad.co).
 
 ## Install
 
-You can install this package using bun:
+You can install this package using npm:
 
 ```bash
 npm i @irsyadadl/paranoid
