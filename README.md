@@ -15,7 +15,7 @@ applications. This project is cooked by [irsyadadl](https://irsyad.co).
   <a href="https://irsyad.co/paranoid"><strong>Explore Icons »</strong></a>
 </p>
 
-[![@irsyadadl/paranoid](brand/preview.jpg)]()
+[![@irsyadadl/paranoid](preview.jpg)]()
 
 ## Install
 
