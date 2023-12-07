@@ -1,19 +1,19 @@
-import * as React from "react";
+import * as React from 'react';
 const SvgIconPause = (props) => (
-  <svg
-    xmlns="http://www.w3.org/2000/svg"
-    width={24}
-    height={24}
-    fill="none"
-    viewBox="0 0 24 24"
-    {...props}
-  >
-    <path
-      stroke="currentColor"
-      strokeLinejoin="round"
-      strokeWidth={1.5}
-      d="M4.75 3.75h4.5v16.5h-4.5zm10 0h4.5v16.5h-4.5z"
-    />
-  </svg>
+    <svg
+        xmlns="http://www.w3.org/2000/svg"
+        width={24}
+        height={24}
+        fill="none"
+        viewBox="0 0 24 24"
+        {...props}
+    >
+        <path
+            stroke="currentColor"
+            strokeLinejoin="round"
+            strokeWidth={1.5}
+            d="M4.75 3.75h4.5v16.5h-4.5zm10 0h4.5v16.5h-4.5z"
+        />
+    </svg>
 );
 export default SvgIconPause;
