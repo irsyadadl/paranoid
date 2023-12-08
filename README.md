@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://irsyad.co/paranoid/">
-    <img src="https://irsyad.co/icon.png" alt="Bootstrap logo" width="128" height="128">
+    <img src="https://irsyad.co/icon.png" alt="Bootstrap logo" width="96" height="96">
   </a>
 </p>
 <h1 align="center">Paranoid</h1>
