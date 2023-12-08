@@ -13,7 +13,7 @@
 A library of beautifully crafted react icons,
 perfect for enhancing the visual appeal and user
 experience of your web applications.
-cooked by [irsyadadl](https://irsyad.co).
+cooked by [irsyadadl](https://parsinta.com/@irsyadadl).
 
 </div>
 
