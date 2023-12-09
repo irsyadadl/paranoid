@@ -10,15 +10,18 @@ const SvgIconCart = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M1.75 3.75h3l.48 3m0 0 1.52 9.5h12l1.5-9.5z"
+            d="M1.75 3.75h2.147a1 1 0 0 1 .988.842L5.23 6.75m0 0 1.385 8.658a1 1 0 0 0 .988.842h10.292a1 1 0 0 0 .988-.844l1.276-8.078a.5.5 0 0 0-.494-.578H5.23Z"
         />
         <path
             fill="currentColor"
             stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={0.25}
-            d="M8.25 20.875a1.125 1.125 0 1 0 0-2.25 1.125 1.125 0 0 0 0 2.25Zm9 0a1.125 1.125 0 1 0 0-2.25 1.125 1.125 0 0 0 0 2.25Z"
+            d="M8.25 20.875a1.125 1.125 0 1 0 0-2.25 1.125 1.125 0 0 0 0 2.25m9 0a1.125 1.125 0 1 0 0-2.25 1.125 1.125 0 0 0 0 2.25"
         />
     </svg>
 );

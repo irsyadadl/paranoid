@@ -10,9 +10,10 @@ const SvgIconCalendar = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M3.75 9.75h16.5m-12.5-5v-2m8.5 2v-2m-12.5 2h16.5v15.5H3.75z"
+            d="M3.75 9.75h16.5m-12.5-5v-2m8.5 2v-2m-11.5 17.5h14.5a1 1 0 0 0 1-1V5.75a1 1 0 0 0-1-1H4.75a1 1 0 0 0-1 1v13.5a1 1 0 0 0 1 1"
         />
     </svg>
 );

@@ -10,9 +10,10 @@ const SvgIconBuilding = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M1.75 19.25h1m19.5 0h-1m0 0V8.75h-4m4 10.5h-4m0-10.5v10.5m0-10.5v-4H6.75v4m10.5 10.5h-3m-7.5 0V8.75m0 10.5h-4m4 0h3m-3-10.5h-4v10.5m7 0v-4.5h4.5v4.5m-4.5 0h4.5"
+            d="M1.75 19.25h1m19.5 0h-1m0 0v-9.5a1 1 0 0 0-1-1h-3m4 10.5h-4m0-10.5v10.5m0-10.5v-3a1 1 0 0 0-1-1h-8.5a1 1 0 0 0-1 1v3m10.5 10.5h-3m-7.5 0V8.75m0 10.5h-4m4 0h3m-3-10.5h-3a1 1 0 0 0-1 1v9.5m7 0v-3.5a1 1 0 0 1 1-1h2.5a1 1 0 0 1 1 1v3.5m-4.5 0h4.5"
         />
     </svg>
 );

@@ -10,6 +10,7 @@ const SvgIconHeart = (props) => (
     >
         <path
             stroke="currentColor"
+            strokeLinejoin="round"
             strokeWidth={1.5}
             d="M12 5.572c6.333-6.44 17.19 5.52 0 15.178C-5.19 11.092 5.667-.868 12 5.572Z"
         />

@@ -10,8 +10,10 @@ const SvgIconArrowWallDown = (props) => (
     >
         <path
             stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M16.75 12.25 12 17m0 0-4.75-4.75M12 17V2m8 19.25H4"
+            d="m16.25 13.25-3.72 3.72a.75.75 0 0 1-1.06 0l-3.72-3.72M12 2.75v14m7.25 4.5H4.75"
         />
     </svg>
 );

@@ -10,8 +10,10 @@ const SvgIconMail = (props) => (
     >
         <path
             stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M21.002 9.25a14.934 14.934 0 0 1-9.002 3 14.934 14.934 0 0 1-9.001-3m-.249-4.5h18.5v14.5H2.75z"
+            d="M21.002 9.25a14.934 14.934 0 0 1-9.002 3 14.934 14.934 0 0 1-9.001-3m.751-4.5h16.5a1 1 0 0 1 1 1v12.5a1 1 0 0 1-1 1H3.75a1 1 0 0 1-1-1V5.75a1 1 0 0 1 1-1Z"
         />
     </svg>
 );

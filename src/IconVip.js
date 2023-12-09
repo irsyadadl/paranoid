@@ -13,7 +13,7 @@ const SvgIconVip = (props) => (
             strokeLinecap="square"
             strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M4.313 19.25 1.75 6.75l6 3.5L12 3.75l4.25 6.5 6-3.5-2.563 12.5H4.313Z"
+            d="M4.149 18.45 1.75 6.75l6 3.5L12 3.75l4.25 6.5 6-3.5-2.399 11.7a1 1 0 0 1-.98.8H5.129a1 1 0 0 1-.98-.8Z"
         />
     </svg>
 );

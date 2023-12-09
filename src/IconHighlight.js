@@ -13,7 +13,7 @@ const SvgIconHighlight = (props) => (
             strokeLinecap="round"
             strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M12.75 21.25h8.5M2.75 17v4.25H7L21.25 7 17 2.75z"
+            d="M12.77 21.25h8.48m-18.5-3.818v3.818h3.818a.996.996 0 0 0 .704-.291L20.959 7.272a.995.995 0 0 0 0-1.408l-2.823-2.822a.995.995 0 0 0-1.408 0L3.042 16.728a.995.995 0 0 0-.292.704Z"
         />
     </svg>
 );

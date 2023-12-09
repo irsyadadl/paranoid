@@ -10,9 +10,10 @@ const SvgIconCodeBrackets = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="m9.75 20.25 4.5-16.5m4 4 4 4.25-4 4.25m-12.5 0-4-4.25 4-4.25"
+            d="m9.75 20.25 4.5-16.5m4 4 3.355 3.565a1 1 0 0 1 0 1.37L18.25 16.25m-12.5 0-3.355-3.565a1 1 0 0 1 0-1.37L5.75 7.75"
         />
     </svg>
 );

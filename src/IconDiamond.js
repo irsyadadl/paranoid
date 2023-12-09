@@ -10,9 +10,10 @@ const SvgIconDiamond = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M8.5 7.75 6.25 10l2.25 2.25M1.25 10l6.143-6.25h9.214L22.75 10 12 20.75z"
+            d="M8.5 7.75 6.25 10l2.25 2.25m4.207 7.793L22.05 10.7a1 1 0 0 0 .006-1.408l-5.154-5.244a1 1 0 0 0-.713-.299H7.812a1 1 0 0 0-.713.299L1.945 9.293A1 1 0 0 0 1.95 10.7l9.342 9.342a1 1 0 0 0 1.414 0Z"
         />
     </svg>
 );

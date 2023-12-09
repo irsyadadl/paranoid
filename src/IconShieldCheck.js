@@ -10,9 +10,10 @@ const SvgIconShieldCheck = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M9.25 11.5 11 13.25l3.75-3.75M12 2.75l8.25 2.75v6.412c0 4.973-4.25 7.338-8.25 9.496-4-2.158-8.25-4.523-8.25-9.496V5.5z"
+            d="M9.25 11.5 11 13.25l3.75-3.75m5.5 2.412V6.221a1 1 0 0 0-.684-.949l-7.25-2.417a1 1 0 0 0-.632 0l-7.25 2.417a1 1 0 0 0-.684.949v5.691c0 4.973 4.25 7.338 8.25 9.496 4-2.158 8.25-4.523 8.25-9.496Z"
         />
     </svg>
 );

@@ -12,7 +12,7 @@ const SvgIconSearchFill = (props) => (
         <path
             fill="currentColor"
             fillRule="evenodd"
-            d="M11 4.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13M3 11a8 8 0 1 1 14.162 5.102L21.061 20 20 21.06l-3.898-3.898A8 8 0 0 1 3 11"
+            d="M11 4.5a6.5 6.5 0 1 0 0 13 6.5 6.5 0 0 0 0-13M3 11a8 8 0 1 1 14.162 5.102l3.618 3.618a.75.75 0 1 1-1.06 1.06l-3.618-3.618A8 8 0 0 1 3 11"
             clipRule="evenodd"
         />
     </svg>

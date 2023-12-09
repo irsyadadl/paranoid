@@ -11,7 +11,7 @@ const SvgIconWindow = (props) => (
         <path
             stroke="currentColor"
             strokeWidth={1.5}
-            d="M3 10.75h18M3 5h18.5v14.5H3z"
+            d="M3 10.75h18m-17.25 8.5h16.5a1 1 0 0 0 1-1V5.75a1 1 0 0 0-1-1H3.75a1 1 0 0 0-1 1v12.5a1 1 0 0 0 1 1Z"
         />
         <path
             fill="currentColor"

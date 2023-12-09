@@ -10,9 +10,10 @@ const SvgIconMessages = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M17.25 14.25h4.002V3.75H7.002v4m10.25 0h-14.5v10.5h3.25v2.5l4.5-2.5h6.75z"
+            d="M17.25 14.25h3.002a1 1 0 0 0 1-1v-8.5a1 1 0 0 0-1-1H8.002a1 1 0 0 0-1 1v3m9.25 0h-12.5a1 1 0 0 0-1 1v8.5a1 1 0 0 0 1 1h2.25v2.5l4.5-2.5h5.75a1 1 0 0 0 1-1v-8.5a1 1 0 0 0-1-1"
         />
     </svg>
 );

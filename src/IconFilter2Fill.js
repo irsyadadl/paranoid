@@ -11,7 +11,7 @@ const SvgIconFilter2Fill = (props) => (
         <path
             fill="currentColor"
             fillRule="evenodd"
-            d="M2 4h20v1.5H2zm3 7.25h14v1.5H5zm3 7.25h8V20H8z"
+            d="M2 4.75A.75.75 0 0 1 2.75 4h18.5a.75.75 0 0 1 0 1.5H2.75A.75.75 0 0 1 2 4.75M5 12a.75.75 0 0 1 .75-.75h12.5a.75.75 0 0 1 0 1.5H5.75A.75.75 0 0 1 5 12m3 7.25a.75.75 0 0 1 .75-.75h6.5a.75.75 0 0 1 0 1.5h-6.5a.75.75 0 0 1-.75-.75"
             clipRule="evenodd"
         />
     </svg>

@@ -10,7 +10,8 @@ const SvgIconChevronUp = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={2}
             d="m8 14 4-4 4 4"
         />

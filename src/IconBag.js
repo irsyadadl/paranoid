@@ -10,9 +10,10 @@ const SvgIconBag = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M15 8a3 3 0 1 1-6 0M4.75 3.75l-1 16.5h16.5l-1-16.5z"
+            d="M15 8a3 3 0 0 1-6 0M4.693 4.69l-.879 14.5a1 1 0 0 0 .998 1.06h14.376a1 1 0 0 0 .998-1.06l-.88-14.5a1 1 0 0 0-.997-.94H5.69a1 1 0 0 0-.998.94Z"
         />
     </svg>
 );

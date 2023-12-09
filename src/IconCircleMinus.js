@@ -10,7 +10,7 @@ const SvgIconCircleMinus = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
             strokeWidth={1.5}
             d="M16.243 12H7.757m13.493 0a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0Z"
         />

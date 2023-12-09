@@ -12,7 +12,7 @@ const SvgIconPause = (props) => (
             stroke="currentColor"
             strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M4.75 3.75h4.5v16.5h-4.5zm10 0h4.5v16.5h-4.5z"
+            d="M4.75 4.75a1 1 0 0 1 1-1h2.5a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1h-2.5a1 1 0 0 1-1-1zm10 0a1 1 0 0 1 1-1h2.5a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1h-2.5a1 1 0 0 1-1-1z"
         />
     </svg>
 );

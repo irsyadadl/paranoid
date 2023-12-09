@@ -11,8 +11,9 @@ const SvgIconShield = (props) => (
         <path
             stroke="currentColor"
             strokeLinecap="square"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M20.25 5.5 12 2.75 3.75 5.5v6.412c0 4.973 4.25 7.338 8.25 9.496 4-2.158 8.25-4.523 8.25-9.496z"
+            d="M20.25 6.22a1 1 0 0 0-.684-.948l-7.25-2.417a1 1 0 0 0-.632 0l-7.25 2.417a1 1 0 0 0-.684.949v5.691c0 4.973 4.25 7.338 8.25 9.496 4-2.158 8.25-4.523 8.25-9.496V6.221Z"
         />
     </svg>
 );

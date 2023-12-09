@@ -10,9 +10,10 @@ const SvgIconEnter = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M20.25 4.75V15H4m0 0 4-4m-4 4 4 4"
+            d="M20.25 4.75V13a2 2 0 0 1-2 2H4.5m3-4-3.646 3.646a.5.5 0 0 0 0 .708L7.5 19"
         />
     </svg>
 );

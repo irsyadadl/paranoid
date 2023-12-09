@@ -11,8 +11,9 @@ const SvgIconClipboard = (props) => (
         <path
             stroke="currentColor"
             strokeLinecap="square"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M15.25 4.75h4v16.5H4.75V4.75h4m0-2h6.5v4.5h-6.5z"
+            d="M15.25 4.75h3a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1H5.75a1 1 0 0 1-1-1V5.75a1 1 0 0 1 1-1h3m1 2.5h4.5a1 1 0 0 0 1-1v-2.5a1 1 0 0 0-1-1h-4.5a1 1 0 0 0-1 1v2.5a1 1 0 0 0 1 1Z"
         />
     </svg>
 );

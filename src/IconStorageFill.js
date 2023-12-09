@@ -11,7 +11,7 @@ const SvgIconStorageFill = (props) => (
         <path
             fill="currentColor"
             fillRule="evenodd"
-            d="M2 4h20v7.25H2zm4.25 3.5a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0M2 12.75h20V20H2zm4.25 3.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0"
+            d="M2 6a2 2 0 0 1 2-2h16a2 2 0 0 1 2 2v5.25H2zm4.25 1.5a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0M2 12.75h20V18a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2zm4.25 3.75a.75.75 0 1 1-1.5 0 .75.75 0 0 1 1.5 0"
             clipRule="evenodd"
         />
     </svg>

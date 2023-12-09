@@ -10,9 +10,10 @@ const SvgIconSketchbook = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M8.75 7.75h6.5m-6.5 4h3.5m-8-8.5v17.5h15.5V3.25z"
+            d="M8.75 7.75h6.5m-6.5 4h3.5m7.5-7.5v15.5a1 1 0 0 1-1 1H5.25a1 1 0 0 1-1-1V4.25a1 1 0 0 1 1-1h13.5a1 1 0 0 1 1 1"
         />
     </svg>
 );

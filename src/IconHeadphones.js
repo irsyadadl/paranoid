@@ -13,7 +13,7 @@ const SvgIconHeadphones = (props) => (
             strokeLinecap="square"
             strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M3.75 13.75V12a8.25 8.25 0 1 1 16.5 0v1.75m-16.5 0v6.5h4v-6.5zm16.5 0v6.5h-4v-6.5z"
+            d="M3.75 13.75V12a8.25 8.25 0 1 1 16.5 0v1.75m-16.5 0v5.5a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1v-4.5a1 1 0 0 0-1-1zm16.5 0v5.5a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1v-4.5a1 1 0 0 1 1-1z"
         />
     </svg>
 );

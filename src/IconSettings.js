@@ -12,7 +12,7 @@ const SvgIconSettings = (props) => (
             stroke="currentColor"
             strokeLinecap="square"
             strokeWidth={1.5}
-            d="m12 2.75 8.25 4.75v9L12 21.25 3.75 16.5v-9z"
+            d="M11.501 3.037a1 1 0 0 1 .998 0l7.25 4.175a1 1 0 0 1 .501.866v7.844a1 1 0 0 1-.501.866l-7.25 4.175a1 1 0 0 1-.998 0l-7.25-4.174a1 1 0 0 1-.501-.867V8.078a1 1 0 0 1 .501-.867l7.25-4.174Z"
         />
         <path
             stroke="currentColor"

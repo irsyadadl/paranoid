@@ -11,8 +11,9 @@ const SvgIconStorage = (props) => (
         <path
             stroke="currentColor"
             strokeLinecap="square"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M21.25 12V4.75H2.75V12m18.5 0H2.75m18.5 0v7.25H2.75V12"
+            d="M21.25 12V5.75a1 1 0 0 0-1-1H3.75a1 1 0 0 0-1 1V12m18.5 0H2.75m18.5 0v6.25a1 1 0 0 1-1 1H3.75a1 1 0 0 1-1-1V12"
         />
         <path
             fill="currentColor"

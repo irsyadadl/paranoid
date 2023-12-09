@@ -10,13 +10,15 @@ const SvgIconLocation = (props) => (
     >
         <path
             stroke="currentColor"
+            strokeLinejoin="round"
             strokeWidth={1.5}
             d="M14.75 10a2.75 2.75 0 1 1-5.5 0 2.75 2.75 0 0 1 5.5 0Z"
         />
         <path
             stroke="currentColor"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M19.25 10c0 6.076-7.25 11.393-7.25 11.393S4.75 16.076 4.75 10a7.25 7.25 0 0 1 14.5 0Z"
+            d="M19.25 10c0 5.028-4.965 9.537-6.678 10.942a.892.892 0 0 1-1.144 0C9.715 19.537 4.75 15.028 4.75 10a7.25 7.25 0 0 1 14.5 0Z"
         />
     </svg>
 );

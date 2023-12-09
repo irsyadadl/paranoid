@@ -9,8 +9,11 @@ const SvgIconLock = (props) => (
         {...props}
     >
         <path
-            fill="currentColor"
-            d="M4.75 9.75V9H4v.75zm14.5 0H20V9h-.75zm0 11.5V22H20v-.75zm-14.5 0H4V22h.75zM15.5 9.75a.75.75 0 0 0 1.5 0zm-8.5 0a.75.75 0 0 0 1.5 0zM12.75 14v-.75h-1.5V14zm-1.5 3v.75h1.5V17zm-6.5-6.5h14.5V9H4.75zm13.75-.75v11.5H20V9.75zm.75 10.75H4.75V22h14.5zm-13.75.75V9.75H4v11.5zM15.5 7v2.75H17V7zm-7 2.75V7H7v2.75zM12 3.5A3.5 3.5 0 0 1 15.5 7H17a5 5 0 0 0-5-5zM12 2a5 5 0 0 0-5 5h1.5A3.5 3.5 0 0 1 12 3.5zm-.75 12v3h1.5v-3z"
+            stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={1.5}
+            d="M16.25 9.75v-2.5a4.25 4.25 0 0 0-8.5 0v2.5M12 14v3m-6.25 4.25h12.5a1 1 0 0 0 1-1v-9.5a1 1 0 0 0-1-1H5.75a1 1 0 0 0-1 1v9.5a1 1 0 0 0 1 1"
         />
     </svg>
 );

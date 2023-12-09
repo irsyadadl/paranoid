@@ -10,9 +10,10 @@ const SvgIconCreditCard = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M2.75 9.75v9.496h18.496V9.75m-18.496 0V4.753h18.492c.005 1.666.004 3.331.004 4.997m-18.496 0h18.496M6.75 13.25h3"
+            d="M2.75 9.75v8.496a1 1 0 0 0 1 1h16.496a1 1 0 0 0 1-1V9.75m-18.496 0V5.753a1 1 0 0 1 1-1h16.495a.999.999 0 0 1 1 .997c.002 1.333.001 2.667.001 4m-18.496 0h18.496M6.75 13.25h3"
         />
     </svg>
 );

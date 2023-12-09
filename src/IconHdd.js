@@ -12,7 +12,7 @@ const SvgIconHdd = (props) => (
             stroke="currentColor"
             strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M4.75 17v-.25a2 2 0 0 1 2-2h10.5a2 2 0 0 1 2 2V17m0 0V4.75a2 2 0 0 0-2-2H6.75a2 2 0 0 0-2 2v14.5a2 2 0 0 0 2 2h10.5a2 2 0 0 0 2-2z"
+            d="M4.75 17v-1.25a1 1 0 0 1 1-1h12.5a1 1 0 0 1 1 1V17m0 0V3.75a1 1 0 0 0-1-1H5.75a1 1 0 0 0-1 1v16.5a1 1 0 0 0 1 1h12.5a1 1 0 0 0 1-1z"
         />
         <path
             fill="currentColor"

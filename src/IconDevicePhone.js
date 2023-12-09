@@ -10,9 +10,10 @@ const SvgIconDevicePhone = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M9.75 19.25h4.5m-8.5-17.5h12.5v20.5H5.75z"
+            d="M9.75 19.25h4.5m-7.5 3h10.5a1 1 0 0 0 1-1V2.75a1 1 0 0 0-1-1H6.75a1 1 0 0 0-1 1v18.5a1 1 0 0 0 1 1"
         />
     </svg>
 );

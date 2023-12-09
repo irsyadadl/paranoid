@@ -10,9 +10,10 @@ const SvgIconFullscreen = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M8.25 3.75h-4.5v4.5m12-4.5h4.5v4.5m0 7.5v4.5h-4.5m-7.5 0h-4.5v-4.5"
+            d="M8.25 3.75h-3.5a1 1 0 0 0-1 1v3.5m12-4.5h3.5a1 1 0 0 1 1 1v3.5m0 7.5v3.5a1 1 0 0 1-1 1h-3.5m-7.5 0h-3.5a1 1 0 0 1-1-1v-3.5"
         />
     </svg>
 );

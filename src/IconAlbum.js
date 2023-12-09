@@ -13,7 +13,7 @@ const SvgIconAlbum = (props) => (
             strokeLinecap="round"
             strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M3.75 5.75v12.5m4-13.5v14.5m4-15.5v16.5l8.5-1.547V5.297l-8.5-1.547Z"
+            d="M3.75 5.75v12.5m4-13.5v14.5m12.5-13.142v11.784a1 1 0 0 1-.793.979l-6.5 1.374a1 1 0 0 1-1.207-.979V4.735a1 1 0 0 1 1.207-.979l6.5 1.374a1 1 0 0 1 .793.979Z"
         />
     </svg>
 );

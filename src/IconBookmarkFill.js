@@ -8,7 +8,10 @@ const SvgIconBookmarkFill = (props) => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path fill="currentColor" d="M4 2v20.52l8-4.413 8 4.413V2z" />
+        <path
+            fill="currentColor"
+            d="M5.75 2A1.75 1.75 0 0 0 4 3.75v16.502c0 1.4 1.565 2.234 2.727 1.451l5.133-3.455a.25.25 0 0 1 .28 0l5.133 3.455c1.162.783 2.727-.05 2.727-1.451V3.75A1.75 1.75 0 0 0 18.25 2z"
+        />
     </svg>
 );
 export default SvgIconBookmarkFill;

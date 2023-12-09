@@ -10,9 +10,10 @@ const SvgIconDownload = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M20.25 14.75v5.5H3.75v-5.5M12 15V3.75M12 15l-3.5-3.5M12 15l3.5-3.5"
+            d="M20.25 14.75v4.5a1 1 0 0 1-1 1H4.75a1 1 0 0 1-1-1v-4.5M12 15V3.75M12 15l-3.5-3.5M12 15l3.5-3.5"
         />
     </svg>
 );

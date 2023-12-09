@@ -11,10 +11,13 @@ const SvgIconWindowFill = (props) => (
         <path
             fill="currentColor"
             fillRule="evenodd"
-            d="M22 4H2v5.5h20zM4.75 6a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5m1.75.75a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0M9.75 6a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5"
+            d="M2.75 4a.75.75 0 0 0-.75.75V9.5h20V4.75a.75.75 0 0 0-.75-.75zm2 2a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5m1.75.75a.75.75 0 1 1 1.5 0 .75.75 0 0 1-1.5 0M9.75 6a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5"
             clipRule="evenodd"
         />
-        <path fill="currentColor" d="M2 20v-9h20v9z" />
+        <path
+            fill="currentColor"
+            d="M2 19.25V11h20v8.25a.75.75 0 0 1-.75.75H2.75a.75.75 0 0 1-.75-.75"
+        />
     </svg>
 );
 export default SvgIconWindowFill;

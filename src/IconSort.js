@@ -10,7 +10,8 @@ const SvgIconSort = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
             d="M6.002 4.75v14.5m0 0L3 16.25m3.002 3 2.998-3m2.75-9.5h8.5m-4.5 10.5h4.5M13.75 12h6.5"
         />

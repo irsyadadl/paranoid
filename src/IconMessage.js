@@ -11,8 +11,9 @@ const SvgIconMessage = (props) => (
         <path
             stroke="currentColor"
             strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M12 21.25a9.25 9.25 0 1 0-8.222-5.008L2.75 21.25l5.139-.962A9.212 9.212 0 0 0 12 21.25Z"
+            d="M12 21.25a9.25 9.25 0 1 0-8.302-5.166.52.52 0 0 1 .044.331L2.9 20.521a.5.5 0 0 0 .581.592l4.243-.794a.515.515 0 0 1 .315.043A9.213 9.213 0 0 0 12 21.25"
         />
     </svg>
 );

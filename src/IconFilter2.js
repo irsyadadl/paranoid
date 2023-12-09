@@ -10,7 +10,7 @@ const SvgIconFilter2 = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
             strokeWidth={1.5}
             d="M2.75 4.75h18.5m-12.5 14.5h6.5M5.75 12h12.5"
         />

@@ -8,11 +8,14 @@ const SvgIconNotebookCoverFill = (props) => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path fill="currentColor" d="M3.5 21.5v-19H7v19z" />
+        <path
+            fill="currentColor"
+            d="M7 2.5H5.25A1.75 1.75 0 0 0 3.5 4.25v15.5c0 .966.784 1.75 1.75 1.75H7z"
+        />
         <path
             fill="currentColor"
             fillRule="evenodd"
-            d="M8.5 21.5h12v-19h-12zM12 7v1.5h5V7zm0 4v1.5h5V11z"
+            d="M8.5 21.5h10.25a1.75 1.75 0 0 0 1.75-1.75V4.25a1.75 1.75 0 0 0-1.75-1.75H8.5zM12.75 7a.75.75 0 0 0 0 1.5h3.5a.75.75 0 0 0 0-1.5zm0 4a.75.75 0 0 0 0 1.5h3.5a.75.75 0 0 0 0-1.5z"
             clipRule="evenodd"
         />
     </svg>

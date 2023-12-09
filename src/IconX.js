@@ -10,7 +10,7 @@ const SvgIconX = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
             strokeWidth={2}
             d="m5 5 14 14m0-14L5 19"
         />

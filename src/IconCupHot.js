@@ -10,9 +10,9 @@ const SvgIconCupHot = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
             strokeWidth={1.5}
-            d="M11 5.25v-2.5m-4 2.5v-2.5m8 2.5v-2.5m-10.25 5h12.5v13.5H4.75zm12.5 2h1.25a2.75 2.75 0 1 1 0 5.5h-1.25z"
+            d="M11 5.25v-2.5m-4 2.5v-2.5m8 2.5v-2.5m-9.25 18.5h10.5a1 1 0 0 0 1-1V8.75a1 1 0 0 0-1-1H5.75a1 1 0 0 0-1 1v11.5a1 1 0 0 0 1 1Zm11.5-11.5h1.25a2.75 2.75 0 1 1 0 5.5h-1.25z"
         />
     </svg>
 );

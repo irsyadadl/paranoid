@@ -10,9 +10,10 @@ const SvgIconSdCard = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M9.25 6.75v2.5m3.5-2.5v2.5m-8-6.5h12.5v5l2 3.25v10.25H4.75z"
+            d="M9.25 6.75v2.5m3.5-2.5v2.5m-7-6.5h10.5a1 1 0 0 1 1 1v3.434a2 2 0 0 0 .297 1.048l1.406 2.286a2 2 0 0 1 .297 1.048v8.684a1 1 0 0 1-1 1H5.75a1 1 0 0 1-1-1V3.75a1 1 0 0 1 1-1"
         />
     </svg>
 );

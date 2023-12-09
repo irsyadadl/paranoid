@@ -10,7 +10,7 @@ const SvgIconPaperclip = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
             strokeWidth={1.5}
             d="M5.75 10.75v4.5a6 6 0 0 0 6 6h.5a6 6 0 0 0 6-6V7a4.25 4.25 0 0 0-8.5 0v7.875a2.125 2.125 0 0 0 4.25 0V7.75"
         />

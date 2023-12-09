@@ -9,8 +9,11 @@ const SvgIconDeviceDesktop = (props) => (
         {...props}
     >
         <path
-            fill="currentColor"
-            d="M2.75 3.75V3H2v.75zm18.5 0H22V3h-.75zm0 12.5V17H22v-.75zm-18.5 0H2V17h.75zm0-11.75h18.5V3H2.75zm17.75-.75v12.5H22V3.75zm.75 11.75H2.75V17h18.5zm-17.75.75V3.75H2v12.5zM12 20c2.012 0 3.947.337 5.756.96l.488-1.42A19.158 19.158 0 0 0 12 18.5zm-5.756.96A17.657 17.657 0 0 1 12 20v-1.5c-2.181 0-4.28.366-6.244 1.04z"
+            stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={1.5}
+            d="M18 20.25c-1.886-.649-3.903-1-6-1s-4.114.351-6 1m-2.25-4h16.5a1 1 0 0 0 1-1V4.75a1 1 0 0 0-1-1H3.75a1 1 0 0 0-1 1v10.5a1 1 0 0 0 1 1"
         />
     </svg>
 );

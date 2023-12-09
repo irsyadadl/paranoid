@@ -10,9 +10,10 @@ const SvgIconSimCard = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M11.25 2.75v4.5m4-4.5v4.5m4-4.5v18.5H4.75V6.75l4-4z"
+            d="M11.25 2.75v4.5m4-4.5v4.5m-10.5.328V20.25a1 1 0 0 0 1 1h12.5a1 1 0 0 0 1-1V3.75a1 1 0 0 0-1-1H9.578a2 2 0 0 0-1.414.586L5.336 6.164a2 2 0 0 0-.586 1.414Z"
         />
     </svg>
 );

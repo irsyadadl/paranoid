@@ -10,9 +10,10 @@ const SvgIconZip = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M6.25 3.75h-2.5v16.5h16.5V3.75h-2.5m-8 0h4.5m-4.5 4h4.5m-4.5 4h4.5V14a2.25 2.25 0 0 1-4.5 0z"
+            d="M6.25 3.75h-1.5a1 1 0 0 0-1 1v14.5a1 1 0 0 0 1 1h14.5a1 1 0 0 0 1-1V4.75a1 1 0 0 0-1-1h-1.5m-8 0h4.5m-4.5 4h4.5m-4.5 4h4.5V14a2.25 2.25 0 0 1-4.5 0z"
         />
     </svg>
 );

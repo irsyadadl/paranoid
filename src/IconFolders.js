@@ -11,8 +11,9 @@ const SvgIconFolders = (props) => (
         <path
             stroke="currentColor"
             strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M18.29 16.25h3.96V5.75H14l-2-2H5.75v4m-4 12.5V7.75H8l2 2h8.25v10.5z"
+            d="M18.29 16.25h2.96a1 1 0 0 0 1-1v-8.5a1 1 0 0 0-1-1h-6.836a1 1 0 0 1-.707-.293l-1.414-1.414a1 1 0 0 0-.707-.293H6.75a1 1 0 0 0-1 1v3m-4 11.5V8.75a1 1 0 0 1 1-1h4.836a1 1 0 0 1 .707.293l1.414 1.414a1 1 0 0 0 .707.293h6.836a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1H2.75a1 1 0 0 1-1-1"
         />
     </svg>
 );

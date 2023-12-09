@@ -10,9 +10,10 @@ const SvgIconAdjustment = (props) => (
     >
         <path
             stroke="currentColor"
-            strokeLinecap="square"
+            strokeLinecap="round"
+            strokeLinejoin="round"
             strokeWidth={1.5}
-            d="M13.75 7h-10m10 0a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 1 1-6.5 0Zm6.5 10h-8m0 0a3.25 3.25 0 1 1-6.5 0m6.5 0a3.25 3.25 0 1 0-6.5 0m0 0h-2"
+            d="M13.75 7h-10m10 0a3.25 3.25 0 1 1 6.5 0 3.25 3.25 0 1 1-6.5 0m6.5 10h-8m0 0a3.25 3.25 0 1 1-6.5 0m6.5 0a3.25 3.25 0 1 0-6.5 0m0 0h-2"
         />
     </svg>
 );
