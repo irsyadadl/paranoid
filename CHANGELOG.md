@@ -1,5 +1,12 @@
 
 
+## [0.2.0](https://github.com/irsyadadl/paranoid/compare/0.1.0...0.2.0) (2023-12-09)
+
+
+### Features
+
+* fix all icon to be rounded ([9dfbf0e](https://github.com/irsyadadl/paranoid/commit/9dfbf0ef9ec51154eefffe1686523759a62ab6a0))
+
 ## [0.1.0](https://github.com/irsyadadl/paranoid/compare/0.0.73...0.1.0) (2023-12-07)
 
 
