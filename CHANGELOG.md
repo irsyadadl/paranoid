@@ -1,5 +1,12 @@
 
 
+## [0.4.0](https://github.com/irsyadadl/paranoid/compare/0.3.0...0.4.0) (2023-12-11)
+
+
+### Features
+
+* add new icons like bag, trophy, macbook, graduate ([97d18ec](https://github.com/irsyadadl/paranoid/commit/97d18ecad94e8aa61e8bf13ebfa49c268cd990e5))
+
 ## [0.3.0](https://github.com/irsyadadl/paranoid/compare/0.2.0...0.3.0) (2023-12-11)
 
 
