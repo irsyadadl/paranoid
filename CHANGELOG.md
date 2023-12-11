@@ -1,5 +1,12 @@
 
 
+## [0.3.0](https://github.com/irsyadadl/paranoid/compare/0.2.0...0.3.0) (2023-12-11)
+
+
+### Features
+
+* add some new icon ([6c59e1d](https://github.com/irsyadadl/paranoid/commit/6c59e1dd92b5d2d62528e895df473bccabd532b4))
+
 ## [0.2.0](https://github.com/irsyadadl/paranoid/compare/0.1.0...0.2.0) (2023-12-09)
 
 
