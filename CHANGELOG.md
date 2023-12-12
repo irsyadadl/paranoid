@@ -1,5 +1,12 @@
 
 
+## [0.5.1](https://github.com/irsyadadl/paranoid/compare/0.5.0...0.5.1) (2023-12-12)
+
+
+### Bug Fixes
+
+* fix icon: IconBagBlankFill ([9d50efb](https://github.com/irsyadadl/paranoid/commit/9d50efb8f6e35058fbc6996d3dd7db9630b083fe))
+
 ## [0.5.0](https://github.com/irsyadadl/paranoid/compare/0.4.0...0.5.0) (2023-12-11)
 
 
