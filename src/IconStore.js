@@ -8,7 +8,6 @@ const SvgIconStore = (props) => (
         viewBox="0 0 24 24"
         {...props}
     >
-        <path fill="#fff" d="M0 0h24v24H0z" />
         <path
             stroke="currentColor"
             strokeLinecap="round"

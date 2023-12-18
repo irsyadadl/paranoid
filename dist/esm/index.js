@@ -5325,9 +5325,6 @@ const SvgIconStore = props => /*#__PURE__*/React.createElement("svg", _extends({
   fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
-  fill: "#fff",
-  d: "M0 0h24v24H0z"
-}), /*#__PURE__*/React.createElement("path", {
   stroke: "currentColor",
   strokeLinecap: "round",
   strokeLinejoin: "round",
