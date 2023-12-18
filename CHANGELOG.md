@@ -1,5 +1,12 @@
 
 
+## [0.5.2](https://github.com/irsyadadl/paranoid/compare/0.5.1...0.5.2) (2023-12-18)
+
+
+### Bug Fixes
+
+* fix the store icon ([3892f2d](https://github.com/irsyadadl/paranoid/commit/3892f2df92eaa5da65b6e1360f7a73e7f2e2697a))
+
 ## [0.5.1](https://github.com/irsyadadl/paranoid/compare/0.5.0...0.5.1) (2023-12-12)
 
 
