@@ -1,5 +1,12 @@
 
 
+## [0.6.0](https://github.com/irsyadadl/paranoid/compare/0.5.2...0.6.0) (2024-01-03)
+
+
+### Features
+
+* add some fill icon ([4b27eeb](https://github.com/irsyadadl/paranoid/commit/4b27eebc06f1e88f24a29cfa0e3e19cc42558291))
+
 ## [0.5.2](https://github.com/irsyadadl/paranoid/compare/0.5.1...0.5.2) (2023-12-18)
 
 
