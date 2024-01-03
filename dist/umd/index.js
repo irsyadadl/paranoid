@@ -566,6 +566,17 @@
       d: "M16 18.25c-.673 1.766-2.21 3-4 3s-3.327-1.234-4-3m-3.326 0h14.652a1 1 0 0 0 .987-1.16l-1.358-8.417a7.045 7.045 0 0 0-13.91 0l-1.358 8.418a1 1 0 0 0 .987 1.159Z"
     }));
 
+    const SvgIconBlockFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      d: "M18.52 4.418A9.96 9.96 0 0 0 12 2C6.477 2 2 6.477 2 12a9.96 9.96 0 0 0 2.418 6.52L18.521 4.419Zm1.062 1.062L5.479 19.581A9.96 9.96 0 0 0 12 22c5.523 0 10-4.477 10-10a9.96 9.96 0 0 0-2.418-6.52"
+    }));
+
     const SvgIconBlock = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
       xmlns: "http://www.w3.org/2000/svg",
       width: 24,
@@ -2476,6 +2487,19 @@
       d: "M18 20.25c-1.886-.649-3.903-1-6-1s-4.114.351-6 1m-2.25-4h16.5a1 1 0 0 0 1-1V4.75a1 1 0 0 0-1-1H3.75a1 1 0 0 0-1 1v10.5a1 1 0 0 0 1 1"
     }));
 
+    const SvgIconDevicePhoneFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      fillRule: "evenodd",
+      d: "M5 2.75C5 1.784 5.784 1 6.75 1h10.5c.966 0 1.75.784 1.75 1.75v18.5A1.75 1.75 0 0 1 17.25 23H6.75A1.75 1.75 0 0 1 5 21.25zM9.75 18.5a.75.75 0 0 0 0 1.5h4.5a.75.75 0 0 0 0-1.5z",
+      clipRule: "evenodd"
+    }));
+
     const SvgIconDevicePhone = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
       xmlns: "http://www.w3.org/2000/svg",
       width: 24,
@@ -3041,6 +3065,17 @@
       d: "M18.29 16.25h2.96a1 1 0 0 0 1-1v-8.5a1 1 0 0 0-1-1h-6.836a1 1 0 0 1-.707-.293l-1.414-1.414a1 1 0 0 0-.707-.293H6.75a1 1 0 0 0-1 1v3m-4 11.5V8.75a1 1 0 0 1 1-1h4.836a1 1 0 0 1 .707.293l1.414 1.414a1 1 0 0 0 .707.293h6.836a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1H2.75a1 1 0 0 1-1-1"
     }));
 
+    const SvgIconForwardLeftFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      d: "M17.074 18.657 11.72 14.07v3.256c0 1.495-1.753 2.302-2.888 1.33l-6.22-5.328a1.75 1.75 0 0 1 0-2.658l6.22-5.327c1.135-.972 2.888-.165 2.888 1.33v3.255l5.354-4.585c1.136-.972 2.889-.165 2.889 1.33v10.653c0 1.495-1.753 2.302-2.889 1.33Z"
+    }));
+
     const SvgIconForwardLeft = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
       xmlns: "http://www.w3.org/2000/svg",
       width: 24,
@@ -3053,6 +3088,17 @@
       strokeLinejoin: "round",
       strokeWidth: 1.5,
       d: "M11.01 12.441v4.886a1 1 0 0 1-1.651.76l-6.22-5.328a1 1 0 0 1 0-1.519l6.22-5.327a1 1 0 0 1 1.65.76v4.886m0 .882 6.592 5.645a1 1 0 0 0 1.65-.76V6.674a1 1 0 0 0-1.65-.76L11.01 11.56m0 .882v-.882"
+    }));
+
+    const SvgIconForwardRightFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      d: "m6.888 5.344 5.354 4.585V6.673c0-1.494 1.753-2.301 2.889-1.329l6.22 5.327a1.75 1.75 0 0 1 0 2.659l-6.22 5.327c-1.136.972-2.889.165-2.889-1.33v-3.256l-5.354 4.586C5.753 19.629 4 18.822 4 17.327V6.673C4 5.18 5.753 4.372 6.888 5.344"
     }));
 
     const SvgIconForwardRight = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -5650,6 +5696,19 @@
       d: "M0 0h24v24H0z"
     }))));
 
+    const SvgIconUnlockedFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      fillRule: "evenodd",
+      d: "M12 2a5 5 0 0 0-5 5v2H5.75A1.75 1.75 0 0 0 4 10.75v9.5c0 .966.784 1.75 1.75 1.75h12.5A1.75 1.75 0 0 0 20 20.25v-9.5A1.75 1.75 0 0 0 18.25 9H8.5V7a3.5 3.5 0 0 1 6.946-.615.75.75 0 1 0 1.477-.262A5.001 5.001 0 0 0 12 2m0 11.25a.75.75 0 0 1 .75.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 .75-.75",
+      clipRule: "evenodd"
+    }));
+
     const SvgIconUnlocked = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
       xmlns: "http://www.w3.org/2000/svg",
       width: 24,
@@ -6011,6 +6070,7 @@
     exports.IconBellAlarmFill = SvgIconBellAlarmFill;
     exports.IconBellFill = SvgIconBellFill;
     exports.IconBlock = SvgIconBlock;
+    exports.IconBlockFill = SvgIconBlockFill;
     exports.IconBook = SvgIconBook;
     exports.IconBookFill = SvgIconBookFill;
     exports.IconBookmark = SvgIconBookmark;
@@ -6153,6 +6213,7 @@
     exports.IconDeviceDesktop2Fill = SvgIconDeviceDesktop2Fill;
     exports.IconDeviceDesktopFill = SvgIconDeviceDesktopFill;
     exports.IconDevicePhone = SvgIconDevicePhone;
+    exports.IconDevicePhoneFill = SvgIconDevicePhoneFill;
     exports.IconDiamond = SvgIconDiamond;
     exports.IconDiamondFill = SvgIconDiamondFill;
     exports.IconDollar = SvgIconDollar;
@@ -6195,7 +6256,9 @@
     exports.IconFolders = SvgIconFolders;
     exports.IconFoldersFill = SvgIconFoldersFill;
     exports.IconForwardLeft = SvgIconForwardLeft;
+    exports.IconForwardLeftFill = SvgIconForwardLeftFill;
     exports.IconForwardRight = SvgIconForwardRight;
+    exports.IconForwardRightFill = SvgIconForwardRightFill;
     exports.IconFullscreen = SvgIconFullscreen;
     exports.IconFullscreenFill = SvgIconFullscreenFill;
     exports.IconGallery = SvgIconGallery;
@@ -6384,6 +6447,7 @@
     exports.IconUmbrella = SvgIconUmbrella;
     exports.IconUmbrellaFill = SvgIconUmbrellaFill;
     exports.IconUnlocked = SvgIconUnlocked;
+    exports.IconUnlockedFill = SvgIconUnlockedFill;
     exports.IconUnpin = SvgIconUnpin;
     exports.IconUpload = SvgIconUpload;
     exports.IconVerified = SvgIconVerified;
