@@ -1,5 +1,12 @@
 
 
+## [0.7.0](https://github.com/irsyadadl/paranoid/compare/0.6.1...0.7.0) (2024-01-10)
+
+
+### Features
+
+* add barcode ([e2fad21](https://github.com/irsyadadl/paranoid/commit/e2fad2182e9e4bdebcad472ea20ae71f266f2624))
+
 ## [0.6.1](https://github.com/irsyadadl/paranoid/compare/0.6.0...0.6.1) (2024-01-10)
 
 ## [0.6.0](https://github.com/irsyadadl/paranoid/compare/0.5.2...0.6.0) (2024-01-03)
