@@ -189,6 +189,7 @@ export declare const IconDiamond: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDiamondFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDollar: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDollarFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconDotGrid2X3: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDotsHorizontal: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDotsVertical: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconDownload: React.FC<React.SVGProps<SVGSVGElement>>;

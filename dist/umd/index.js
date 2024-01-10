@@ -2568,6 +2568,17 @@
       d: "M12 7.5c-1.466 0-2.487.665-2.487 2.1 0 1.646 1.267 1.999 2.487 2.412 1.22.414 2.487.767 2.487 2.412 0 1.436-1.021 2.1-2.487 2.1M12 7.5c1.06 0 1.834.502 2.23 1.212M12 7.5V5.75m0 10.774c-1.06 0-1.834-.5-2.23-1.211M12 16.524v1.726M21.25 12a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0"
     }));
 
+    const SvgIconDotGrid2X3 = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      d: "M7.5 5.75a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 1 1-3.5 0m5.5 0a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 1 1-3.5 0m-5.5 12.5a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 1 1-3.5 0m5.5 0a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 1 1-3.5 0M7.5 11.9a1.75 1.75 0 1 1 3.5 0v.1a1.75 1.75 0 1 1-3.5 0zm5.5 0a1.75 1.75 0 1 1 3.5 0v.1a1.75 1.75 0 1 1-3.5 0z"
+    }));
+
     const SvgIconDotsHorizontal = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
       xmlns: "http://www.w3.org/2000/svg",
       width: 24,
@@ -6218,6 +6229,7 @@
     exports.IconDiamondFill = SvgIconDiamondFill;
     exports.IconDollar = SvgIconDollar;
     exports.IconDollarFill = SvgIconDollarFill;
+    exports.IconDotGrid2X3 = SvgIconDotGrid2X3;
     exports.IconDotsHorizontal = SvgIconDotsHorizontal;
     exports.IconDotsVertical = SvgIconDotsVertical;
     exports.IconDownload = SvgIconDownload;

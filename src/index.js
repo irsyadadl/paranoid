@@ -188,6 +188,7 @@ export { default as IconDiamondFill } from "./IconDiamondFill";
 export { default as IconDiamond } from "./IconDiamond";
 export { default as IconDollarFill } from "./IconDollarFill";
 export { default as IconDollar } from "./IconDollar";
+export { default as IconDotGrid2X3 } from "./IconDotGrid2X3";
 export { default as IconDotsHorizontal } from "./IconDotsHorizontal";
 export { default as IconDotsVertical } from "./IconDotsVertical";
 export { default as IconDownload } from "./IconDownload";
