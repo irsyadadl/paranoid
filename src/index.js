@@ -35,6 +35,7 @@ export { default as IconBagBlankFill } from "./IconBagBlankFill";
 export { default as IconBagBlank } from "./IconBagBlank";
 export { default as IconBagFill } from "./IconBagFill";
 export { default as IconBag } from "./IconBag";
+export { default as IconBarcode } from "./IconBarcode";
 export { default as IconBellAlarmFill } from "./IconBellAlarmFill";
 export { default as IconBellAlarm } from "./IconBellAlarm";
 export { default as IconBellFill } from "./IconBellFill";

@@ -516,6 +516,20 @@ const SvgIconBag = props => /*#__PURE__*/React__namespace.createElement("svg", _
   d: "M15 8a3 3 0 1 1-6 0M4.693 4.69l-.879 14.5a1 1 0 0 0 .998 1.06h14.376a1 1 0 0 0 .998-1.06l-.88-14.5a1 1 0 0 0-.997-.94H5.69a1 1 0 0 0-.998.94Z"
 }));
 
+const SvgIconBarcode = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M7.25 4.75h-3.5a1 1 0 0 0-1 1v3.5m14-4.5h3.5a1 1 0 0 1 1 1v3.5m0 5.5v3.5a1 1 0 0 1-1 1h-3.5m-9.5 0h-3.5a1 1 0 0 1-1-1v-3.5m5-5v4.5m8.5-4.5v4.5M12 9.75v2.5"
+}));
+
 const SvgIconBellAlarmFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -6075,6 +6089,7 @@ exports.IconBag4Fill = SvgIconBag4Fill;
 exports.IconBagBlank = SvgIconBagBlank;
 exports.IconBagBlankFill = SvgIconBagBlankFill;
 exports.IconBagFill = SvgIconBagFill;
+exports.IconBarcode = SvgIconBarcode;
 exports.IconBell = SvgIconBell;
 exports.IconBellAlarm = SvgIconBellAlarm;
 exports.IconBellAlarmFill = SvgIconBellAlarmFill;

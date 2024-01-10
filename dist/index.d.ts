@@ -1,5 +1,6 @@
 import React from 'react';
 export declare const ArrowPathDownFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const Barcode,QrCode,Scan: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconAdjustment: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconAdjustmentFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconAlbum: React.FC<React.SVGProps<SVGSVGElement>>;
@@ -36,6 +37,7 @@ export declare const IconBag4Fill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBagBlank: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBagBlankFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBagFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBarcode: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBell: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBellAlarm: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBellAlarmFill: React.FC<React.SVGProps<SVGSVGElement>>;
