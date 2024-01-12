@@ -1,73 +1,62 @@
-
-
 ## [0.7.2](https://github.com/irsyadadl/paranoid/compare/0.7.1...0.7.2) (2024-01-12)
 
 ## [0.7.1](https://github.com/irsyadadl/paranoid/compare/0.7.0...0.7.1) (2024-01-12)
 
 ## [0.7.0](https://github.com/irsyadadl/paranoid/compare/0.6.1...0.7.0) (2024-01-10)
 
-
 ### Features
 
-* add barcode ([e2fad21](https://github.com/irsyadadl/paranoid/commit/e2fad2182e9e4bdebcad472ea20ae71f266f2624))
+- add barcode ([e2fad21](https://github.com/irsyadadl/paranoid/commit/e2fad2182e9e4bdebcad472ea20ae71f266f2624))
 
 ## [0.6.1](https://github.com/irsyadadl/paranoid/compare/0.6.0...0.6.1) (2024-01-10)
 
 ## [0.6.0](https://github.com/irsyadadl/paranoid/compare/0.5.2...0.6.0) (2024-01-03)
 
-
 ### Features
 
-* add some fill icon ([4b27eeb](https://github.com/irsyadadl/paranoid/commit/4b27eebc06f1e88f24a29cfa0e3e19cc42558291))
+- add some fill icon ([4b27eeb](https://github.com/irsyadadl/paranoid/commit/4b27eebc06f1e88f24a29cfa0e3e19cc42558291))
 
 ## [0.5.2](https://github.com/irsyadadl/paranoid/compare/0.5.1...0.5.2) (2023-12-18)
 
-
 ### Bug Fixes
 
-* fix the store icon ([3892f2d](https://github.com/irsyadadl/paranoid/commit/3892f2df92eaa5da65b6e1360f7a73e7f2e2697a))
+- fix the store icon ([3892f2d](https://github.com/irsyadadl/paranoid/commit/3892f2df92eaa5da65b6e1360f7a73e7f2e2697a))
 
 ## [0.5.1](https://github.com/irsyadadl/paranoid/compare/0.5.0...0.5.1) (2023-12-12)
 
-
 ### Bug Fixes
 
-* fix icon: IconBagBlankFill ([9d50efb](https://github.com/irsyadadl/paranoid/commit/9d50efb8f6e35058fbc6996d3dd7db9630b083fe))
+- fix icon: IconBagBlankFill ([9d50efb](https://github.com/irsyadadl/paranoid/commit/9d50efb8f6e35058fbc6996d3dd7db9630b083fe))
 
 ## [0.5.0](https://github.com/irsyadadl/paranoid/compare/0.4.0...0.5.0) (2023-12-11)
 
-
 ### Features
 
-* add some new icons ([d7e4ef7](https://github.com/irsyadadl/paranoid/commit/d7e4ef753fac5f05847c3af3389b8c36048f6ccc))
+- add some new icons ([d7e4ef7](https://github.com/irsyadadl/paranoid/commit/d7e4ef753fac5f05847c3af3389b8c36048f6ccc))
 
 ## [0.4.0](https://github.com/irsyadadl/paranoid/compare/0.3.0...0.4.0) (2023-12-11)
 
-
 ### Features
 
-* add new icons like bag, trophy, macbook, graduate ([97d18ec](https://github.com/irsyadadl/paranoid/commit/97d18ecad94e8aa61e8bf13ebfa49c268cd990e5))
+- add new icons like bag, trophy, macbook, graduate ([97d18ec](https://github.com/irsyadadl/paranoid/commit/97d18ecad94e8aa61e8bf13ebfa49c268cd990e5))
 
 ## [0.3.0](https://github.com/irsyadadl/paranoid/compare/0.2.0...0.3.0) (2023-12-11)
 
-
 ### Features
 
-* add some new icon ([6c59e1d](https://github.com/irsyadadl/paranoid/commit/6c59e1dd92b5d2d62528e895df473bccabd532b4))
+- add some new icon ([6c59e1d](https://github.com/irsyadadl/paranoid/commit/6c59e1dd92b5d2d62528e895df473bccabd532b4))
 
 ## [0.2.0](https://github.com/irsyadadl/paranoid/compare/0.1.0...0.2.0) (2023-12-09)
 
-
 ### Features
 
-* fix all icon to be rounded ([9dfbf0e](https://github.com/irsyadadl/paranoid/commit/9dfbf0ef9ec51154eefffe1686523759a62ab6a0))
+- fix all icon to be rounded ([9dfbf0e](https://github.com/irsyadadl/paranoid/commit/9dfbf0ef9ec51154eefffe1686523759a62ab6a0))
 
 ## [0.1.0](https://github.com/irsyadadl/paranoid/compare/0.0.73...0.1.0) (2023-12-07)
 
-
 ### Features
 
-* add some new icons ([edf70ec](https://github.com/irsyadadl/paranoid/commit/edf70ecca0fd939bf61042afa91695127beac566))
+- add some new icons ([edf70ec](https://github.com/irsyadadl/paranoid/commit/edf70ecca0fd939bf61042afa91695127beac566))
 
 ## [0.0.73](https://github.com/irsyadadl/paranoid/compare/0.0.72...0.0.73) (2023-12-05)
 

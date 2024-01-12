@@ -44,6 +44,7 @@ bun i @irsyadadl/paranoid
 ```
 
 ## Usage
+
 Elevating simplicity to elegance, effortlessly import your desired icon and wield it as a component. Unsure of your choice? Discover the perfect icon right [here](https://irsyad.co/paranoid).
 
 ```jsx
