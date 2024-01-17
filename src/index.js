@@ -572,6 +572,7 @@ export { default as IconUnlocked } from "./IconUnlocked";
 export { default as IconUnpinFill } from "./IconUnpinFill";
 export { default as IconUnpin } from "./IconUnpin";
 export { default as IconUpload } from "./IconUpload";
+export { default as IconUsbCFill } from "./IconUsbCFill";
 export { default as IconUsbC } from "./IconUsbC";
 export { default as IconUsbFill } from "./IconUsbFill";
 export { default as IconUsb } from "./IconUsb";

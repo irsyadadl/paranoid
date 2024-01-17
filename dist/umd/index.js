@@ -7815,7 +7815,7 @@
       d: "M12 3.75V15m0-11.25 4.5 4.5M12 3.75l-4.5 4.5m12.75 4.5v6.5a1 1 0 0 1-1 1H4.75a1 1 0 0 1-1-1v-6.5"
     }));
 
-    const SvgIconUsbC = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    const SvgIconUsbCFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
       xmlns: "http://www.w3.org/2000/svg",
       width: 24,
       height: 24,
@@ -7826,6 +7826,20 @@
       fillRule: "evenodd",
       d: "M0 12a6 6 0 0 1 6-6h12a6 6 0 0 1 0 12H6a6 6 0 0 1-6-6m5.75-.75a.75.75 0 0 0 0 1.5h12.5a.75.75 0 0 0 0-1.5z",
       clipRule: "evenodd"
+    }));
+
+    const SvgIconUsbC = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      stroke: "currentColor",
+      strokeLinecap: "round",
+      strokeLinejoin: "round",
+      strokeWidth: 1.5,
+      d: "M5.75 12h12.5M6 17.25h12a5.25 5.25 0 1 0 0-10.5H6a5.25 5.25 0 0 0 0 10.5"
     }));
 
     const SvgIconUsbFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -8853,6 +8867,7 @@
     exports.IconUpload = SvgIconUpload;
     exports.IconUsb = SvgIconUsb;
     exports.IconUsbC = SvgIconUsbC;
+    exports.IconUsbCFill = SvgIconUsbCFill;
     exports.IconUsbFill = SvgIconUsbFill;
     exports.IconVerified = SvgIconVerified;
     exports.IconVerifiedFill = SvgIconVerifiedFill;

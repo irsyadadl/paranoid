@@ -575,6 +575,7 @@ export declare const IconUnpinFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconUpload: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconUsb: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconUsbC: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconUsbCFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconUsbFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconVerified: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconVerifiedFill: React.FC<React.SVGProps<SVGSVGElement>>;

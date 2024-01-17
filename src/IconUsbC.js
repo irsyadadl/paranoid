@@ -9,10 +9,11 @@ const SvgIconUsbC = (props) => (
         {...props}
     >
         <path
-            fill="currentColor"
-            fillRule="evenodd"
-            d="M0 12a6 6 0 0 1 6-6h12a6 6 0 0 1 0 12H6a6 6 0 0 1-6-6m5.75-.75a.75.75 0 0 0 0 1.5h12.5a.75.75 0 0 0 0-1.5z"
-            clipRule="evenodd"
+            stroke="currentColor"
+            strokeLinecap="round"
+            strokeLinejoin="round"
+            strokeWidth={1.5}
+            d="M5.75 12h12.5M6 17.25h12a5.25 5.25 0 1 0 0-10.5H6a5.25 5.25 0 0 0 0 10.5"
         />
     </svg>
 );
