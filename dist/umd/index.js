@@ -3055,6 +3055,17 @@
       d: "M9.25 4.75h-5.5a1 1 0 0 0-1 1v6.286a1 1 0 0 0 1 1h2.5v6.214s4-1.554 4-6.214V5.748a.998.998 0 0 0-1-.998Zm11 0h-5.5a1 1 0 0 0-1 1v6.286a1 1 0 0 0 1 1h2.5v6.214s4-1.554 4-6.214V5.748a.998.998 0 0 0-1-.998Z"
     }));
 
+    const SvgIconCloud2Fill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      d: "M8.925 4C4.541 4 1 7.59 1 12s3.54 8 7.925 8h8.2C20.377 20 23 17.338 23 14.071c0-3.266-2.623-5.928-5.875-5.928-.273 0-.542.019-.806.055a.564.564 0 0 1-.56-.25C14.385 5.589 11.841 4 8.925 4"
+    }));
+
     const SvgIconCloud2 = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
       xmlns: "http://www.w3.org/2000/svg",
       width: 24,
@@ -3104,6 +3115,17 @@
     }, props), /*#__PURE__*/React__namespace.createElement("path", {
       fill: "currentColor",
       d: "M12 4a6.751 6.751 0 0 0-6.22 4.124A6.002 6.002 0 0 0 7 20h11.125a4.875 4.875 0 0 0 .61-9.712A6.75 6.75 0 0 0 12 4"
+    }));
+
+    const SvgIconCloudSnowFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      d: "M13 18a1 1 0 1 1-2 0 1 1 0 0 1 2 0m-6 0a1 1 0 1 1-2 0 1 1 0 0 1 2 0m3 2a1 1 0 1 1-2 0 1 1 0 0 1 2 0m9-2a1 1 0 1 1-2 0 1 1 0 0 1 2 0m-3 2a1 1 0 1 1-2 0 1 1 0 0 1 2 0M9.422 3C5.866 3 3 5.92 3 9.5S5.866 16 9.422 16h6.703C18.827 16 21 13.782 21 11.068c0-2.714-2.173-4.932-4.875-4.932-.388 0-.767.046-1.13.134C13.89 4.32 11.813 3 9.423 3Z"
     }));
 
     const SvgIconCloudSnow = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -3161,6 +3183,32 @@
       strokeLinejoin: "round",
       strokeWidth: 1.5,
       d: "M17.995 11.002a6 6 0 0 0-11.668-2.21A5.251 5.251 0 0 0 7 19.25h11.125a4.125 4.125 0 1 0-.13-8.248"
+    }));
+
+    const SvgIconCloudyFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      fillRule: "evenodd",
+      d: "M10.49 6.28a6.904 6.904 0 0 0-1.573-.18C5.093 6.1 2 9.215 2 13.05S5.093 20 8.917 20h7.708C19.597 20 22 17.578 22 14.6a5.402 5.402 0 0 0-2.54-4.589 4.89 4.89 0 0 0 .484-2.128C19.944 5.19 17.772 3 15.084 3a4.864 4.864 0 0 0-4.594 3.28Zm1.415.5a6.952 6.952 0 0 1 2.72 2.345c.13.191.416.306.69.237a5.361 5.361 0 0 1 2.773.04c.228-.456.356-.971.356-1.519 0-1.872-1.508-3.383-3.36-3.383-1.47 0-2.725.952-3.18 2.28Z",
+      clipRule: "evenodd"
+    }));
+
+    const SvgIconCloudySunFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      fillRule: "evenodd",
+      d: "M10.49 8.28a6.904 6.904 0 0 0-1.573-.18C5.093 8.1 2 11.215 2 15.05S5.093 22 8.917 22h7.708C19.597 22 22 19.578 22 16.6a5.402 5.402 0 0 0-2.54-4.589 4.89 4.89 0 0 0 .484-2.128C19.944 7.19 17.772 5 15.084 5a4.864 4.864 0 0 0-4.594 3.28Zm1.415.5a6.953 6.953 0 0 1 2.72 2.345c.13.191.416.306.69.237a5.36 5.36 0 0 1 2.773.04c.228-.456.356-.971.356-1.519 0-1.872-1.508-3.383-3.36-3.383-1.47 0-2.725.952-3.18 2.28ZM15.25 1a.75.75 0 0 1 .75.75v1a.75.75 0 0 1-1.5 0v-1a.75.75 0 0 1 .75-.75m6.187 2.563a.75.75 0 0 1 0 1.06l-.707.708a.75.75 0 0 1-1.06-1.061l.706-.707a.75.75 0 0 1 1.061 0Zm-12.374 0a.75.75 0 0 1 1.061 0l.707.707a.75.75 0 1 1-1.06 1.06l-.708-.707a.75.75 0 0 1 0-1.06M21.5 9.75a.75.75 0 0 1 .75-.75h1a.75.75 0 0 1 0 1.5h-1a.75.75 0 0 1-.75-.75",
+      clipRule: "evenodd"
     }));
 
     const SvgIconCloudySun = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -6158,6 +6206,28 @@
       d: "M13 20a1 1 0 1 1 2 0 1 1 0 0 1-2 0"
     }));
 
+    const SvgIconRainyFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      d: "M9.422 2C5.866 2 3 4.92 3 8.5S5.866 15 9.422 15h6.703C18.827 15 21 12.782 21 10.068c0-2.714-2.173-4.932-4.875-4.932-.232 0-.46.017-.684.049-.277.039-.541-.086-.662-.271C13.632 3.162 11.663 2 9.422 2M7.491 18.04a.75.75 0 1 0-1.382-.58l-1.05 2.5a.75.75 0 1 0 1.382.58zm5.024 0a.75.75 0 0 0-1.384-.58l-1.046 2.5a.75.75 0 0 0 1.384.58zm5 0a.75.75 0 0 0-1.384-.58l-1.046 2.5a.75.75 0 1 0 1.384.58z"
+    }));
+
+    const SvgIconRainyLightFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+      xmlns: "http://www.w3.org/2000/svg",
+      width: 24,
+      height: 24,
+      fill: "none",
+      viewBox: "0 0 24 24"
+    }, props), /*#__PURE__*/React__namespace.createElement("path", {
+      fill: "currentColor",
+      d: "M9.422 3C5.866 3 3 5.92 3 9.5S5.866 16 9.422 16h.865l-.708 1.415a.75.75 0 0 0 1.342.67l1-2a.758.758 0 0 0 .036-.085h4.168C18.827 16 21 13.782 21 11.068c0-2.714-2.173-4.932-4.875-4.932-.388 0-.767.046-1.13.134C13.89 4.32 11.813 3 9.423 3Zm4.749 15.836a.75.75 0 0 0-1.342-.671l-1 2a.75.75 0 0 0 1.342.67l1-2Z"
+    }));
+
     const SvgIconRainyLight = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
       xmlns: "http://www.w3.org/2000/svg",
       width: 24,
@@ -8434,14 +8504,18 @@
     exports.IconCloseQuoteFill = SvgIconCloseQuoteFill;
     exports.IconCloud = SvgIconCloud;
     exports.IconCloud2 = SvgIconCloud2;
+    exports.IconCloud2Fill = SvgIconCloud2Fill;
     exports.IconCloudDownload = SvgIconCloudDownload;
     exports.IconCloudDownloadFill = SvgIconCloudDownloadFill;
     exports.IconCloudFill = SvgIconCloudFill;
     exports.IconCloudSnow = SvgIconCloudSnow;
+    exports.IconCloudSnowFill = SvgIconCloudSnowFill;
     exports.IconCloudSync = SvgIconCloudSync;
     exports.IconCloudSyncFill = SvgIconCloudSyncFill;
     exports.IconCloudy = SvgIconCloudy;
+    exports.IconCloudyFill = SvgIconCloudyFill;
     exports.IconCloudySun = SvgIconCloudySun;
+    exports.IconCloudySunFill = SvgIconCloudySunFill;
     exports.IconCodeBrackets = SvgIconCodeBrackets;
     exports.IconCompass = SvgIconCompass;
     exports.IconCompassFill = SvgIconCompassFill;
@@ -8660,7 +8734,9 @@
     exports.IconQrCode = SvgIconQrCode;
     exports.IconQrCodeFill = SvgIconQrCodeFill;
     exports.IconRainy = SvgIconRainy;
+    exports.IconRainyFill = SvgIconRainyFill;
     exports.IconRainyLight = SvgIconRainyLight;
+    exports.IconRainyLightFill = SvgIconRainyLightFill;
     exports.IconReceipt = SvgIconReceipt;
     exports.IconReceiptFill = SvgIconReceiptFill;
     exports.IconReceiptTax = SvgIconReceiptTax;
