@@ -1809,6 +1809,93 @@ const SvgIconCalendar = props => /*#__PURE__*/React.createElement("svg", _extend
   d: "M3.75 9.75h16.5m-12.5-5v-2m8.5 2v-2m-11.5 17.5h14.5a1 1 0 0 0 1-1V5.75a1 1 0 0 0-1-1H4.75a1 1 0 0 0-1 1v13.5a1 1 0 0 0 1 1"
 }));
 
+const SvgIconCallIncomingFill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M4.737 3c-.944 0-1.765.766-1.72 1.769.125 2.717.9 5.39 2.268 7.75a17.08 17.08 0 0 0 6.195 6.195c2.382 1.382 5.022 2.11 7.73 2.258 1.008.055 1.79-.767 1.79-1.722v-3.502a1.75 1.75 0 0 0-1.256-1.679l-2.95-.867a1.75 1.75 0 0 0-1.756.467l-.877.914c-.083.086-.186.086-.245.052a12.313 12.313 0 0 1-4.551-4.55c-.034-.06-.034-.163.052-.246l.914-.877a1.75 1.75 0 0 0 .467-1.756l-.868-2.95A1.75 1.75 0 0 0 8.251 3z"
+}), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M20.78 3.22a.75.75 0 0 1 0 1.06L16.56 8.5h2.69a.75.75 0 0 1 0 1.5h-4.5a.75.75 0 0 1-.75-.75v-4.5a.75.75 0 0 1 1.5 0v2.69l4.22-4.22a.75.75 0 0 1 1.06 0Z",
+  clipRule: "evenodd"
+}));
+
+const SvgIconCallIncoming = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M19.25 9.25h-4.5v-4.5m5.5-1-4.996 4.996M9.211 4.468l.868 2.95a1 1 0 0 1-.267 1.003l-.914.877a.952.952 0 0 0-.183 1.16 13.063 13.063 0 0 0 4.828 4.828.952.952 0 0 0 1.159-.184l.877-.914a1 1 0 0 1 1.004-.267l2.95.868a1 1 0 0 1 .717.96v3.501c0 .552-.448 1.003-1 .973-2.599-.141-5.122-.84-7.393-2.157a16.33 16.33 0 0 1-5.923-5.923 16.276 16.276 0 0 1-2.167-7.408c-.025-.546.424-.985.97-.985h3.515a1 1 0 0 1 .96.718Z"
+}));
+
+const SvgIconCallOffFill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M10.824 12.116a12.286 12.286 0 0 1-1.46-2.032c-.033-.06-.033-.162.053-.245l.914-.877a1.75 1.75 0 0 0 .467-1.756l-.868-2.95A1.75 1.75 0 0 0 8.251 3H4.737c-.944 0-1.765.766-1.72 1.769.125 2.717.9 5.39 2.268 7.75a17.053 17.053 0 0 0 2.175 2.96l-4.24 4.24a.75.75 0 1 0 1.06 1.061l16.5-16.5a.75.75 0 0 0-1.06-1.06l-8.896 8.896Zm.656 6.598a17.034 17.034 0 0 1-1.806-1.208l3.4-3.4c.273.187.554.364.842.529.059.034.162.034.245-.052l.877-.914a1.75 1.75 0 0 1 1.756-.467l2.95.867A1.75 1.75 0 0 1 21 15.75v3.501c0 .955-.782 1.777-1.79 1.722-2.708-.147-5.348-.876-7.73-2.258Z"
+}));
+
+const SvgIconCallOff = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M10.824 12.116a12.286 12.286 0 0 1-1.46-2.032c-.033-.06-.033-.162.053-.245l.914-.877a1.75 1.75 0 0 0 .467-1.756l-.868-2.95A1.75 1.75 0 0 0 8.251 3H4.737c-.944 0-1.765.766-1.72 1.769.125 2.717.9 5.39 2.268 7.75a17.053 17.053 0 0 0 2.175 2.96l-4.24 4.24a.75.75 0 1 0 1.06 1.061l16.5-16.5a.75.75 0 0 0-1.06-1.06l-8.896 8.896Zm-2.302 2.301a15.55 15.55 0 0 1-1.94-2.65A15.526 15.526 0 0 1 4.517 4.7c-.004-.09.071-.201.22-.201h3.515a.25.25 0 0 1 .24.18l.868 2.949a.25.25 0 0 1-.067.25l-.914.878c-.546.524-.716 1.373-.314 2.073.483.843 1.053 1.63 1.697 2.348l-1.239 1.24Z",
+  clipRule: "evenodd"
+}), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M12.233 17.417c-.515-.3-1.012-.627-1.488-.982l-1.07 1.071c.573.44 1.177.844 1.805 1.208 2.382 1.382 5.022 2.11 7.73 2.258 1.008.055 1.79-.767 1.79-1.722v-3.502a1.75 1.75 0 0 0-1.256-1.679l-2.95-.867a1.75 1.75 0 0 0-1.756.467l-.877.914c-.083.086-.186.086-.245.052a12.224 12.224 0 0 1-.842-.529l-1.076 1.077c.376.27.768.521 1.171.753.701.402 1.55.231 2.074-.314l.877-.914a.25.25 0 0 1 .25-.067l2.95.867a.25.25 0 0 1 .18.24v3.502c0 .15-.114.23-.21.224-2.49-.135-4.897-.804-7.057-2.057Z"
+}));
+
+const SvgIconCallOutgoingFill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M4.721 3c-.943 0-1.765.766-1.72 1.769.125 2.717.9 5.39 2.269 7.75a17.08 17.08 0 0 0 6.195 6.195c2.381 1.382 5.021 2.11 7.729 2.258 1.008.055 1.79-.767 1.79-1.722v-3.502a1.75 1.75 0 0 0-1.256-1.679l-2.95-.867a1.75 1.75 0 0 0-1.756.467l-.877.914c-.083.086-.186.086-.245.052a12.313 12.313 0 0 1-4.55-4.55c-.035-.06-.035-.163.051-.246l.914-.877a1.75 1.75 0 0 0 .467-1.756l-.867-2.95A1.75 1.75 0 0 0 8.235 3H4.722Z"
+}), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M14.984 3.75a.75.75 0 0 1 .75-.75h4.5a.75.75 0 0 1 .75.75v4.5a.75.75 0 0 1-1.5 0V5.56l-4.22 4.22a.75.75 0 0 1-1.06-1.06l4.22-4.22h-2.69a.75.75 0 0 1-.75-.75Z",
+  clipRule: "evenodd"
+}));
+
+const SvgIconCallOutgoing = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M15.75 3.75h4.5v4.5m-5.5 1 4.998-4.998m-10.537.216.868 2.95a1 1 0 0 1-.267 1.003l-.914.877a.952.952 0 0 0-.183 1.16 13.063 13.063 0 0 0 4.828 4.828.952.952 0 0 0 1.159-.184l.877-.914a1 1 0 0 1 1.004-.267l2.95.868a1 1 0 0 1 .717.96v3.501c0 .552-.448 1.003-1 .973-2.599-.141-5.122-.84-7.393-2.157a16.33 16.33 0 0 1-5.923-5.923 16.276 16.276 0 0 1-2.167-7.408c-.025-.546.424-.985.97-.985h3.515a1 1 0 0 1 .96.718Z"
+}));
+
 const SvgIconCarFill = props => /*#__PURE__*/React.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -2973,6 +3060,71 @@ const SvgIconCupHot = props => /*#__PURE__*/React.createElement("svg", _extends(
   d: "M11 5.25v-2.5m-4 2.5v-2.5m8 2.5v-2.5m-9.25 18.5h10.5a1 1 0 0 0 1-1V8.75a1 1 0 0 0-1-1H5.75a1 1 0 0 0-1 1v11.5a1 1 0 0 0 1 1Zm11.5-11.5h1.25a2.75 2.75 0 1 1 0 5.5h-1.25z"
 }));
 
+const SvgIconCurrencyDollarFill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10.75-6.25a.75.75 0 0 0-1.5 0v1.055c-.558.087-1.08.28-1.508.618-.643.508-.979 1.264-.979 2.178 0 1.064.432 1.786 1.091 2.271.53.39 1.203.615 1.74.795l.165.056.124.042c.598.201 1.043.352 1.373.595.28.206.48.483.48 1.064 0 .522-.174.816-.407 1-.26.205-.696.35-1.329.35-.804 0-1.318-.366-1.575-.826a.75.75 0 1 0-1.31.73c.43.77 1.177 1.331 2.135 1.524v1.048a.75.75 0 0 0 1.5 0v-1.03c.558-.087 1.08-.28 1.508-.618.644-.508.979-1.264.979-2.178 0-1.064-.432-1.786-1.091-2.271-.53-.391-1.203-.616-1.74-.796a50.794 50.794 0 0 1-.165-.055l-.124-.042c-.598-.202-1.043-.352-1.373-.596-.28-.205-.48-.482-.48-1.063 0-.522.174-.816.407-1 .26-.205.696-.35 1.329-.35.804 0 1.318.366 1.575.826a.75.75 0 0 0 1.31-.73c-.43-.77-1.177-1.331-2.135-1.524z",
+  clipRule: "evenodd"
+}));
+
+const SvgIconCurrencyDollar = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M12 7.5c-1.466 0-2.487.665-2.487 2.1 0 1.646 1.267 1.999 2.487 2.412 1.22.414 2.487.767 2.487 2.412 0 1.436-1.021 2.1-2.487 2.1M12 7.5c1.06 0 1.834.502 2.23 1.212M12 7.5V5.75m0 10.774c-1.06 0-1.834-.5-2.23-1.211M12 16.524v1.726M21.25 12a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0"
+}));
+
+const SvgIconCurrencyPoundFill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m8.596-2.611c0-1.017.864-1.889 1.99-1.889.55 0 1.043.21 1.4.547a.75.75 0 1 0 1.028-1.092A3.535 3.535 0 0 0 12.586 6c-1.9 0-3.49 1.491-3.49 3.389 0 .734.23 1.385.488 1.889H8.75a.75.75 0 0 0 0 1.5h1.13L8.603 15.97A.75.75 0 0 0 9.298 17h4.931a.75.75 0 0 0 0-1.5h-3.823l1.09-2.722h2.733a.75.75 0 0 0 0-1.5h-2.865a4.182 4.182 0 0 1-.302-.429c-.25-.409-.466-.924-.466-1.46",
+  clipRule: "evenodd"
+}));
+
+const SvgIconCurrencyPound = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M14.5 7.501a2.786 2.786 0 0 0-1.914-.751c-1.514 0-2.74 1.181-2.74 2.639C9.846 10.846 11 12 11 12l-.011.028m3.24 4.222h-4.93l1.69-4.222m0 0H8.75m2.239 0h3.24M21.25 12a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0"
+}));
+
+const SvgIconCurrencyYen = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M9.064 7.506a.75.75 0 1 0-1.128.988zm7 .988a.75.75 0 1 0-1.128-.988zM11.25 17.25a.75.75 0 0 0 1.5 0zm-1.5-5a.75.75 0 0 0 0 1.5zm4.5 1.5a.75.75 0 0 0 0-1.5zM7.936 8.494l3.5 4 1.128-.988-3.5-4zm4.628 4 3.5-4-1.128-.988-3.5 4zM11.25 12v1h1.5v-1zm0 1v4.25h1.5V13zm-1.5.75H12v-1.5H9.75zm2.25 0h2.25v-1.5H12zM20.5 12a8.5 8.5 0 0 1-8.5 8.5V22c5.523 0 10-4.477 10-10zM12 20.5A8.5 8.5 0 0 1 3.5 12H2c0 5.523 4.477 10 10 10zM3.5 12A8.5 8.5 0 0 1 12 3.5V2C6.477 2 2 6.477 2 12zM12 3.5a8.5 8.5 0 0 1 8.5 8.5H22c0-5.523-4.477-10-10-10z"
+}));
+
 const SvgIconCut = props => /*#__PURE__*/React.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -3164,33 +3316,6 @@ const SvgIconDiamond = props => /*#__PURE__*/React.createElement("svg", _extends
   strokeLinejoin: "round",
   strokeWidth: 1.5,
   d: "M8.5 7.75 6.25 10l2.25 2.25m4.207 7.793L22.05 10.7a1 1 0 0 0 .006-1.408l-5.154-5.244a1 1 0 0 0-.713-.299H7.812a1 1 0 0 0-.713.299L1.945 9.293A1 1 0 0 0 1.95 10.7l9.342 9.342a1 1 0 0 0 1.414 0Z"
-}));
-
-const SvgIconDollarFill = props => /*#__PURE__*/React.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React.createElement("path", {
-  fill: "currentColor",
-  fillRule: "evenodd",
-  d: "M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m10.75-6.25a.75.75 0 0 0-1.5 0v1.055c-.558.087-1.08.28-1.508.618-.643.508-.979 1.264-.979 2.178 0 1.064.432 1.786 1.091 2.271.53.39 1.203.615 1.74.795l.165.056.124.042c.598.201 1.043.352 1.373.595.28.206.48.483.48 1.064 0 .522-.174.816-.407 1-.26.205-.696.35-1.329.35-.804 0-1.318-.366-1.575-.826a.75.75 0 1 0-1.31.73c.43.77 1.177 1.331 2.135 1.524v1.048a.75.75 0 0 0 1.5 0v-1.03c.558-.087 1.08-.28 1.508-.618.644-.508.979-1.264.979-2.178 0-1.064-.432-1.786-1.091-2.271-.53-.391-1.203-.616-1.74-.796a50.794 50.794 0 0 1-.165-.055l-.124-.042c-.598-.202-1.043-.352-1.373-.596-.28-.205-.48-.482-.48-1.063 0-.522.174-.816.407-1 .26-.205.696-.35 1.329-.35.804 0 1.318.366 1.575.826a.75.75 0 0 0 1.31-.73c-.43-.77-1.177-1.331-2.135-1.524z",
-  clipRule: "evenodd"
-}));
-
-const SvgIconDollar = props => /*#__PURE__*/React.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React.createElement("path", {
-  stroke: "currentColor",
-  strokeLinecap: "round",
-  strokeLinejoin: "round",
-  strokeWidth: 1.5,
-  d: "M12 7.5c-1.466 0-2.487.665-2.487 2.1 0 1.646 1.267 1.999 2.487 2.412 1.22.414 2.487.767 2.487 2.412 0 1.436-1.021 2.1-2.487 2.1M12 7.5c1.06 0 1.834.502 2.23 1.212M12 7.5V5.75m0 10.774c-1.06 0-1.834-.5-2.23-1.211M12 16.524v1.726M21.25 12a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0"
 }));
 
 const SvgIconDotGrid2X3 = props => /*#__PURE__*/React.createElement("svg", _extends({
@@ -4082,6 +4207,31 @@ const SvgIconGrid4 = props => /*#__PURE__*/React.createElement("svg", _extends({
   d: "M3.75 5.35c0-.56 0-.84.109-1.054a1 1 0 0 1 .437-.437c.214-.109.494-.109 1.054-.109h4.9v6.5h-6.5zm10-1.6h4.9c.56 0 .84 0 1.054.109a1 1 0 0 1 .437.437c.109.214.109.494.109 1.054v4.9h-6.5zm-10 10h6.5v6.5h-4.9c-.56 0-.84 0-1.054-.109a1 1 0 0 1-.437-.437c-.109-.214-.109-.494-.109-1.054v-4.9Zm10 0h6.5v4.9c0 .56 0 .84-.109 1.054a1 1 0 0 1-.437.437c-.214.109-.494.109-1.054.109h-4.9v-6.5Z"
 }));
 
+const SvgIconGuideFill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M11.25 7.75A3.75 3.75 0 0 0 7.5 4H2.75A1.75 1.75 0 0 0 1 5.75v12.5c0 .966.784 1.75 1.75 1.75h5.973c.56 0 1.087.135 1.532.41.413.255.754.609.995 1.028V7.75Zm1.5 13.688c.24-.42.582-.773.995-1.028a2.89 2.89 0 0 1 1.532-.41h5.973A1.75 1.75 0 0 0 23 18.25V5.75A1.75 1.75 0 0 0 21.25 4H16.5a3.75 3.75 0 0 0-3.75 3.75v13.688m-.74.562h-.02.02"
+}));
+
+const SvgIconGuide = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M12 7.75a3 3 0 0 1 3-3h6.25a1 1 0 0 1 1 1v12.5a1 1 0 0 1-1 1h-5.973a3.64 3.64 0 0 0-1.926.522A3.663 3.663 0 0 0 12 21.25m0-13.5a3 3 0 0 0-3-3H2.75a1 1 0 0 0-1 1v12.5a1 1 0 0 0 1 1h5.973c.68 0 1.347.164 1.926.522s1.047.87 1.351 1.478m0-13.5v13.5"
+}));
+
 const SvgIconHamburger = props => /*#__PURE__*/React.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -4324,6 +4474,33 @@ const SvgIconInbox = props => /*#__PURE__*/React.createElement("svg", _extends({
   strokeLinejoin: "round",
   strokeWidth: 1.5,
   d: "M3.75 12.75h4.32a4.001 4.001 0 0 0 7.86 0h4.32m-1 7.5H4.75a1 1 0 0 1-1-1V4.75a1 1 0 0 1 1-1h14.5a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1Z"
+}));
+
+const SvgIconInviteFill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M5.75 3.5a.25.25 0 0 0-.25.25v7.103l6.423 2.084a.25.25 0 0 0 .154 0l6.423-2.084V3.75a.25.25 0 0 0-.25-.25zM20 10.393V3.75A1.75 1.75 0 0 0 18.25 2H5.75A1.75 1.75 0 0 0 4 3.75v6.643a1.75 1.75 0 0 0-2 1.733v7.124c0 .966.784 1.75 1.75 1.75h16.5A1.75 1.75 0 0 0 22 19.25v-7.124a1.75 1.75 0 0 0-2-1.733M9 7.75A.75.75 0 0 1 9.75 7h4.5a.75.75 0 0 1 0 1.5h-4.5A.75.75 0 0 1 9 7.75",
+  clipRule: "evenodd"
+}));
+
+const SvgIconInvite = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M4.75 10.985V3.75a1 1 0 0 1 1-1h12.5a1 1 0 0 1 1 1v7.235M9.75 7.75h4.5m-1.941 5.9 7.633-2.476a1 1 0 0 1 1.308.952v7.124a1 1 0 0 1-1 1H3.75a1 1 0 0 1-1-1v-7.124a1 1 0 0 1 1.309-.952l7.632 2.476a1 1 0 0 0 .617 0Z"
 }));
 
 const SvgIconInvoiceFill = props => /*#__PURE__*/React.createElement("svg", _extends({
@@ -5152,6 +5329,31 @@ const SvgIconOpenQuote = props => /*#__PURE__*/React.createElement("svg", _exten
   d: "M14.75 19.25h5.5a1 1 0 0 0 1-1v-6.286a1 1 0 0 0-1-1h-2.5V4.75s-4 1.554-4 6.214v7.288c0 .552.448.998 1 .998Zm-11 0h5.5a1 1 0 0 0 1-1v-6.286a1 1 0 0 0-1-1h-2.5V4.75s-4 1.554-4 6.214v7.288c0 .552.448.998 1 .998Z"
 }));
 
+const SvgIconPaperFill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M11.25 5.377 4.13 3.789A1.75 1.75 0 0 0 2 5.498v12.388c0 .82.569 1.53 1.37 1.708l7.88 1.757V5.377Zm1.5 15.974 7.88-1.757A1.75 1.75 0 0 0 22 17.886V5.498a1.75 1.75 0 0 0-2.13-1.709l-7.12 1.588V21.35Z"
+}));
+
+const SvgIconPaper = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M12 6.313 3.968 4.522a1 1 0 0 0-1.218.976v12.388a1 1 0 0 0 .782.976L12 20.75m0-14.437 8.032-1.791a1 1 0 0 1 1.218.976v12.388a1 1 0 0 1-.782.976L12 20.75m0-14.437V20.75"
+}));
+
 const SvgIconPaperclip2 = props => /*#__PURE__*/React.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -5427,33 +5629,6 @@ const SvgIconPlus = props => /*#__PURE__*/React.createElement("svg", _extends({
   strokeLinecap: "round",
   strokeWidth: 2,
   d: "M12 4v8m0 0v8m0-8H4m8 0h8"
-}));
-
-const SvgIconPoundFill = props => /*#__PURE__*/React.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React.createElement("path", {
-  fill: "currentColor",
-  fillRule: "evenodd",
-  d: "M2 12C2 6.477 6.477 2 12 2s10 4.477 10 10-4.477 10-10 10S2 17.523 2 12m8.596-2.611c0-1.017.864-1.889 1.99-1.889.55 0 1.043.21 1.4.547a.75.75 0 1 0 1.028-1.092A3.535 3.535 0 0 0 12.586 6c-1.9 0-3.49 1.491-3.49 3.389 0 .734.23 1.385.488 1.889H8.75a.75.75 0 0 0 0 1.5h1.13L8.603 15.97A.75.75 0 0 0 9.298 17h4.931a.75.75 0 0 0 0-1.5h-3.823l1.09-2.722h2.733a.75.75 0 0 0 0-1.5h-2.865a4.182 4.182 0 0 1-.302-.429c-.25-.409-.466-.924-.466-1.46",
-  clipRule: "evenodd"
-}));
-
-const SvgIconPound = props => /*#__PURE__*/React.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React.createElement("path", {
-  stroke: "currentColor",
-  strokeLinecap: "round",
-  strokeLinejoin: "round",
-  strokeWidth: 1.5,
-  d: "M14.5 7.501a2.786 2.786 0 0 0-1.914-.751c-1.514 0-2.74 1.181-2.74 2.639C9.846 10.846 11 12 11 12l-.011.028m3.24 4.222h-4.93l1.69-4.222m0 0H8.75m2.239 0h3.24M21.25 12a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0"
 }));
 
 const SvgIconPuzzlePin = props => /*#__PURE__*/React.createElement("svg", _extends({
@@ -5909,6 +6084,55 @@ const SvgIconSearch = props => /*#__PURE__*/React.createElement("svg", _extends(
   strokeLinejoin: "round",
   strokeWidth: 1.5,
   d: "m20.25 20.25-4.123-4.123m0 0A7.25 7.25 0 1 0 5.873 5.873a7.25 7.25 0 0 0 10.253 10.253Z"
+}));
+
+const SvgIconSend2Fill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M2.67 4.383c-.352-1.057.749-2.012 1.745-1.514l16.026 8.013c.921.46.921 1.776 0 2.236L4.415 21.131c-.996.498-2.097-.457-1.745-1.513l2.29-6.868h4.29a.75.75 0 0 0 0-1.5H4.96z"
+}));
+
+const SvgIconSend2 = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M6 12h3.25M6 12 3.382 4.145a.5.5 0 0 1 .698-.605l16.025 8.013a.5.5 0 0 1 0 .894L4.08 20.46a.5.5 0 0 1-.698-.605z"
+}));
+
+const SvgIconSend3Fill = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
+  d: "M1.468 6.058C.265 4.988 1.02 3 2.63 3h18.65c1.343 0 2.185 1.45 1.52 2.617l-9.146 16.038c-.789 1.383-2.864 1.08-3.225-.47l-2.063-8.853 6.61-3.677a.75.75 0 1 0-.73-1.31l-6.97 3.875-5.808-5.162Z"
+}));
+
+const SvgIconSend3 = props => /*#__PURE__*/React.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React.createElement("path", {
+  stroke: "currentColor",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M9 11.75 1.966 5.497c-.687-.61-.255-1.747.664-1.747h18.65a1 1 0 0 1 .868 1.495l-9.146 16.039c-.45.79-1.636.617-1.843-.269zm0 0L22.586 4"
 }));
 
 const SvgIconSendFill = props => /*#__PURE__*/React.createElement("svg", _extends({
@@ -7281,17 +7505,6 @@ const SvgIconYenFill = props => /*#__PURE__*/React.createElement("svg", _extends
   clipRule: "evenodd"
 }));
 
-const SvgIconYen = props => /*#__PURE__*/React.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React.createElement("path", {
-  fill: "currentColor",
-  d: "M9.064 7.506a.75.75 0 1 0-1.128.988zm7 .988a.75.75 0 1 0-1.128-.988zM11.25 17.25a.75.75 0 0 0 1.5 0zm-1.5-5a.75.75 0 0 0 0 1.5zm4.5 1.5a.75.75 0 0 0 0-1.5zM7.936 8.494l3.5 4 1.128-.988-3.5-4zm4.628 4 3.5-4-1.128-.988-3.5 4zM11.25 12v1h1.5v-1zm0 1v4.25h1.5V13zm-1.5.75H12v-1.5H9.75zm2.25 0h2.25v-1.5H12zM20.5 12a8.5 8.5 0 0 1-8.5 8.5V22c5.523 0 10-4.477 10-10zM12 20.5A8.5 8.5 0 0 1 3.5 12H2c0 5.523 4.477 10 10 10zM3.5 12A8.5 8.5 0 0 1 12 3.5V2C6.477 2 2 6.477 2 12zM12 3.5a8.5 8.5 0 0 1 8.5 8.5H22c0-5.523-4.477-10-10-10z"
-}));
-
 const SvgIconYesFill = props => /*#__PURE__*/React.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -7403,4 +7616,4 @@ const SvgIconZoom = props => /*#__PURE__*/React.createElement("svg", _extends({
   d: "m20 20-3.873-3.873m0 0A7.25 7.25 0 1 0 5.873 5.873a7.25 7.25 0 0 0 10.253 10.253ZM11 7.75v6.5M14.25 11h-6.5"
 }));
 
-export { SvgArrowPathDownFill as ArrowPathDownFill, SvgIconAdapter as IconAdapter, SvgIconAdapterFill as IconAdapterFill, SvgIconAdjustment as IconAdjustment, SvgIconAdjustmentFill as IconAdjustmentFill, SvgIconAlbum as IconAlbum, SvgIconAnonymous as IconAnonymous, SvgIconAnonymousFill as IconAnonymousFill, SvgIconArchive as IconArchive, SvgIconArchive2 as IconArchive2, SvgIconArchive2Fill as IconArchive2Fill, SvgIconArchiveFill as IconArchiveFill, SvgIconArrowDown as IconArrowDown, SvgIconArrowLeft as IconArrowLeft, SvgIconArrowPathDown as IconArrowPathDown, SvgIconArrowPathLeft as IconArrowPathLeft, SvgIconArrowPathLeftFill as IconArrowPathLeftFill, SvgIconArrowPathRight as IconArrowPathRight, SvgIconArrowPathRightFill as IconArrowPathRightFill, SvgIconArrowPathUp as IconArrowPathUp, SvgIconArrowPathUpFill as IconArrowPathUpFill, SvgIconArrowRight as IconArrowRight, SvgIconArrowUp as IconArrowUp, SvgIconArrowWallDown as IconArrowWallDown, SvgIconArrowWallLeft as IconArrowWallLeft, SvgIconArrowWallRight as IconArrowWallRight, SvgIconArrowWallUp as IconArrowWallUp, SvgIconAttention as IconAttention, SvgIconAttentionFill as IconAttentionFill, SvgIconBackspace as IconBackspace, SvgIconBackspaceFill as IconBackspaceFill, SvgIconBag as IconBag, SvgIconBag2 as IconBag2, SvgIconBag2Fill as IconBag2Fill, SvgIconBag3 as IconBag3, SvgIconBag3Fill as IconBag3Fill, SvgIconBag4 as IconBag4, SvgIconBag4Fill as IconBag4Fill, SvgIconBagBlank as IconBagBlank, SvgIconBagBlankFill as IconBagBlankFill, SvgIconBagFill as IconBagFill, SvgIconBarcode as IconBarcode, SvgIconBarsThree as IconBarsThree, SvgIconBarsThree2 as IconBarsThree2, SvgIconBarsThree3 as IconBarsThree3, SvgIconBarsTwo as IconBarsTwo, SvgIconBarsTwo2 as IconBarsTwo2, SvgIconBell as IconBell, SvgIconBellAlarm as IconBellAlarm, SvgIconBellAlarmFill as IconBellAlarmFill, SvgIconBellFill as IconBellFill, SvgIconBill as IconBill, SvgIconBillFill as IconBillFill, SvgIconBlock as IconBlock, SvgIconBlockFill as IconBlockFill, SvgIconBook as IconBook, SvgIconBookFill as IconBookFill, SvgIconBookmark as IconBookmark, SvgIconBookmarkCheck as IconBookmarkCheck, SvgIconBookmarkCheckFill as IconBookmarkCheckFill, SvgIconBookmarkFill as IconBookmarkFill, SvgIconBookmarkOff as IconBookmarkOff, SvgIconBookmarkOffFill as IconBookmarkOffFill, SvgIconBookmarkPlus as IconBookmarkPlus, SvgIconBookmarkPlusFill as IconBookmarkPlusFill, SvgIconBookmarkX as IconBookmarkX, SvgIconBookmarkXFill as IconBookmarkXFill, SvgIconBooks as IconBooks, SvgIconBooksFill as IconBooksFill, SvgIconBrandApple as IconBrandApple, SvgIconBrandAppleMusic as IconBrandAppleMusic, SvgIconBrandAppstore as IconBrandAppstore, SvgIconBrandArc as IconBrandArc, SvgIconBrandArtifactNews as IconBrandArtifactNews, SvgIconBrandCash as IconBrandCash, SvgIconBrandChrome as IconBrandChrome, SvgIconBrandCopilot as IconBrandCopilot, SvgIconBrandDiscord as IconBrandDiscord, SvgIconBrandFacebook as IconBrandFacebook, SvgIconBrandFigma as IconBrandFigma, SvgIconBrandFirefox as IconBrandFirefox, SvgIconBrandFramer as IconBrandFramer, SvgIconBrandGithub as IconBrandGithub, SvgIconBrandGooglePlayStore as IconBrandGooglePlayStore, SvgIconBrandGumroad as IconBrandGumroad, SvgIconBrandInstagram as IconBrandInstagram, SvgIconBrandLemonsqueezy as IconBrandLemonsqueezy, SvgIconBrandLinkedin as IconBrandLinkedin, SvgIconBrandLinktree as IconBrandLinktree, SvgIconBrandLottielab as IconBrandLottielab, SvgIconBrandMedium as IconBrandMedium, SvgIconBrandOpenai as IconBrandOpenai, SvgIconBrandParsinta as IconBrandParsinta, SvgIconBrandPatreon as IconBrandPatreon, SvgIconBrandPinterest as IconBrandPinterest, SvgIconBrandProducthunt as IconBrandProducthunt, SvgIconBrandRive as IconBrandRive, SvgIconBrandSafari as IconBrandSafari, SvgIconBrandSketch as IconBrandSketch, SvgIconBrandSlack as IconBrandSlack, SvgIconBrandSnapchat as IconBrandSnapchat, SvgIconBrandSpotify as IconBrandSpotify, SvgIconBrandTelegram as IconBrandTelegram, SvgIconBrandThreads as IconBrandThreads, SvgIconBrandTiktok as IconBrandTiktok, SvgIconBrandTwitch as IconBrandTwitch, SvgIconBrandTwitter as IconBrandTwitter, SvgIconBrandVenmo as IconBrandVenmo, SvgIconBrandWhatsapp as IconBrandWhatsapp, SvgIconBrandX as IconBrandX, SvgIconBrandYoutube as IconBrandYoutube, SvgIconBrokenChainLink as IconBrokenChainLink, SvgIconBrokenHeart as IconBrokenHeart, SvgIconBrokenHeartFill as IconBrokenHeartFill, SvgIconBug as IconBug, SvgIconBugFill as IconBugFill, SvgIconBuilding as IconBuilding, SvgIconBuildingFill as IconBuildingFill, SvgIconBullet as IconBullet, SvgIconBulletFill as IconBulletFill, SvgIconBulletList as IconBulletList, SvgIconBulletListFill as IconBulletListFill, SvgIconCalendar as IconCalendar, SvgIconCalendar2 as IconCalendar2, SvgIconCalendar2Fill as IconCalendar2Fill, SvgIconCalendar3 as IconCalendar3, SvgIconCalendar3Fill as IconCalendar3Fill, SvgIconCalendarCheck as IconCalendarCheck, SvgIconCalendarCheckFill as IconCalendarCheckFill, SvgIconCalendarClock as IconCalendarClock, SvgIconCalendarClockFill as IconCalendarClockFill, SvgIconCalendarFill as IconCalendarFill, SvgIconCalendarPlus as IconCalendarPlus, SvgIconCalendarPlusFill as IconCalendarPlusFill, SvgIconCalendarRemove as IconCalendarRemove, SvgIconCalendarRemoveFill as IconCalendarRemoveFill, SvgIconCalendarSearch as IconCalendarSearch, SvgIconCalendarSearchFill as IconCalendarSearchFill, SvgIconCar as IconCar, SvgIconCarFill as IconCarFill, SvgIconCart as IconCart, SvgIconCartFill as IconCartFill, SvgIconCheck as IconCheck, SvgIconChevronDoubleLeft as IconChevronDoubleLeft, SvgIconChevronDoubleRight as IconChevronDoubleRight, SvgIconChevronDown as IconChevronDown, SvgIconChevronLeft as IconChevronLeft, SvgIconChevronRight as IconChevronRight, SvgIconChevronUp as IconChevronUp, SvgIconChevronsUpDown as IconChevronsUpDown, SvgIconChevronsX as IconChevronsX, SvgIconChevronsY as IconChevronsY, SvgIconCircleArrowDown as IconCircleArrowDown, SvgIconCircleArrowDownFill as IconCircleArrowDownFill, SvgIconCircleArrowLeft as IconCircleArrowLeft, SvgIconCircleArrowLeftDown as IconCircleArrowLeftDown, SvgIconCircleArrowLeftDownFill as IconCircleArrowLeftDownFill, SvgIconCircleArrowLeftFill as IconCircleArrowLeftFill, SvgIconCircleArrowLeftUp as IconCircleArrowLeftUp, SvgIconCircleArrowLeftUpFill as IconCircleArrowLeftUpFill, SvgIconCircleArrowRight as IconCircleArrowRight, SvgIconCircleArrowRightFill as IconCircleArrowRightFill, SvgIconCircleArrowRightUp as IconCircleArrowRightUp, SvgIconCircleArrowRightUpFill as IconCircleArrowRightUpFill, SvgIconCircleArrowUp as IconCircleArrowUp, SvgIconCircleArrowUpFill as IconCircleArrowUpFill, SvgIconCircleCheck as IconCircleCheck, SvgIconCircleCheckFill as IconCircleCheckFill, SvgIconCircleDotsHorizontal as IconCircleDotsHorizontal, SvgIconCircleDotsHorizontalFill as IconCircleDotsHorizontalFill, SvgIconCircleDotsVertical as IconCircleDotsVertical, SvgIconCircleDotsVerticalFill as IconCircleDotsVerticalFill, SvgIconCircleDownload as IconCircleDownload, SvgIconCircleDownloadFill as IconCircleDownloadFill, SvgIconCircleHalf as IconCircleHalf, SvgIconCircleHalfFill as IconCircleHalfFill, SvgIconCircleInfo as IconCircleInfo, SvgIconCircleInfoFill as IconCircleInfoFill, SvgIconCircleMinus as IconCircleMinus, SvgIconCircleMinusFill as IconCircleMinusFill, SvgIconCirclePerson as IconCirclePerson, SvgIconCirclePersonFill as IconCirclePersonFill, SvgIconCirclePlaceholderDashed as IconCirclePlaceholderDashed, SvgIconCirclePlaceholderDashedFill as IconCirclePlaceholderDashedFill, SvgIconCirclePlay as IconCirclePlay, SvgIconCirclePlayFill as IconCirclePlayFill, SvgIconCirclePlus as IconCirclePlus, SvgIconCirclePlusFill as IconCirclePlusFill, SvgIconCircleQuestionmark as IconCircleQuestionmark, SvgIconCircleQuestionmarkFill as IconCircleQuestionmarkFill, SvgIconCircleStop as IconCircleStop, SvgIconCircleStopFill as IconCircleStopFill, SvgIconCircleX as IconCircleX, SvgIconCircleXFill as IconCircleXFill, SvgIconCirleArrowRightDown as IconCirleArrowRightDown, SvgIconCirleArrowRightDownFill as IconCirleArrowRightDownFill, SvgIconClipboard as IconClipboard, SvgIconClipboardFill as IconClipboardFill, SvgIconClock as IconClock, SvgIconClockFill as IconClockFill, SvgIconCloseQuote as IconCloseQuote, SvgIconCloseQuoteFill as IconCloseQuoteFill, SvgIconCloud as IconCloud, SvgIconCloud2 as IconCloud2, SvgIconCloudDownload as IconCloudDownload, SvgIconCloudDownloadFill as IconCloudDownloadFill, SvgIconCloudFill as IconCloudFill, SvgIconCloudSnow as IconCloudSnow, SvgIconCloudSync as IconCloudSync, SvgIconCloudSyncFill as IconCloudSyncFill, SvgIconCloudy as IconCloudy, SvgIconCloudySun as IconCloudySun, SvgIconCodeBrackets as IconCodeBrackets, SvgIconCompass as IconCompass, SvgIconCompassFill as IconCompassFill, SvgIconControl as IconControl, SvgIconControlFill as IconControlFill, SvgIconCreditCard as IconCreditCard, SvgIconCreditCardFill as IconCreditCardFill, SvgIconCupHot as IconCupHot, SvgIconCupHotFill as IconCupHotFill, SvgIconCut as IconCut, SvgIconDashboard as IconDashboard, SvgIconDashboardFill as IconDashboardFill, SvgIconDatabase as IconDatabase, SvgIconDatabaseFill as IconDatabaseFill, SvgIconDateTime as IconDateTime, SvgIconDeviceDesktop as IconDeviceDesktop, SvgIconDeviceDesktop2 as IconDeviceDesktop2, SvgIconDeviceDesktop2Fill as IconDeviceDesktop2Fill, SvgIconDeviceDesktopFill as IconDeviceDesktopFill, SvgIconDevicePhone as IconDevicePhone, SvgIconDevicePhoneFill as IconDevicePhoneFill, SvgIconDiamond as IconDiamond, SvgIconDiamondFill as IconDiamondFill, SvgIconDollar as IconDollar, SvgIconDollarFill as IconDollarFill, SvgIconDotGrid2X3 as IconDotGrid2X3, SvgIconDotGrid3X3 as IconDotGrid3X3, SvgIconDotsHorizontal as IconDotsHorizontal, SvgIconDotsVertical as IconDotsVertical, SvgIconDownload as IconDownload, SvgIconDuplicate as IconDuplicate, SvgIconDuplicateFill as IconDuplicateFill, SvgIconEnter as IconEnter, SvgIconEnterFill as IconEnterFill, SvgIconEnvelope as IconEnvelope, SvgIconEnvelopeFill as IconEnvelopeFill, SvgIconEye as IconEye, SvgIconEyeFill as IconEyeFill, SvgIconEyeOff as IconEyeOff, SvgIconEyeOffFill as IconEyeOffFill, SvgIconFastForward10S as IconFastForward10S, SvgIconFastForward15S as IconFastForward15S, SvgIconFastForward30S as IconFastForward30S, SvgIconFastForward5S as IconFastForward5S, SvgIconFilter as IconFilter, SvgIconFilter2 as IconFilter2, SvgIconFilter2Fill as IconFilter2Fill, SvgIconFilterFill as IconFilterFill, SvgIconFolder as IconFolder, SvgIconFolderDownload as IconFolderDownload, SvgIconFolderDownloadFill as IconFolderDownloadFill, SvgIconFolderFill as IconFolderFill, SvgIconFolderLink as IconFolderLink, SvgIconFolderLinkFill as IconFolderLinkFill, SvgIconFolderOpen as IconFolderOpen, SvgIconFolderOpenFill as IconFolderOpenFill, SvgIconFolderPaper as IconFolderPaper, SvgIconFolderPaperFill as IconFolderPaperFill, SvgIconFolderRestricted as IconFolderRestricted, SvgIconFolderRestrictedFill as IconFolderRestrictedFill, SvgIconFolderUpload as IconFolderUpload, SvgIconFolderUploadFill as IconFolderUploadFill, SvgIconFolders as IconFolders, SvgIconFoldersFill as IconFoldersFill, SvgIconForwardLeft as IconForwardLeft, SvgIconForwardLeftFill as IconForwardLeftFill, SvgIconForwardRight as IconForwardRight, SvgIconForwardRightFill as IconForwardRightFill, SvgIconFullscreen as IconFullscreen, SvgIconFullscreenFill as IconFullscreenFill, SvgIconGallery as IconGallery, SvgIconGalleryFill as IconGalleryFill, SvgIconGear as IconGear, SvgIconGearFill as IconGearFill, SvgIconGift as IconGift, SvgIconGiftFill as IconGiftFill, SvgIconGiroCard as IconGiroCard, SvgIconGiroCardFill as IconGiroCardFill, SvgIconGiroCards as IconGiroCards, SvgIconGiroCardsFill as IconGiroCardsFill, SvgIconGlasses as IconGlasses, SvgIconGlassesFill as IconGlassesFill, SvgIconGlobe as IconGlobe, SvgIconGlobe2 as IconGlobe2, SvgIconGlobe2Fill as IconGlobe2Fill, SvgIconGlobeFill as IconGlobeFill, SvgIconGraduate as IconGraduate, SvgIconGraduateCapFill as IconGraduateCapFill, SvgIconGraph as IconGraph, SvgIconGrid4 as IconGrid4, SvgIconGrid4Fill as IconGrid4Fill, SvgIconHamburger as IconHamburger, SvgIconHdd as IconHdd, SvgIconHddFill as IconHddFill, SvgIconHeadphones as IconHeadphones, SvgIconHeadphonesFill as IconHeadphonesFill, SvgIconHeart as IconHeart, SvgIconHeartBeat as IconHeartBeat, SvgIconHeartBeatFill as IconHeartBeatFill, SvgIconHeartFill as IconHeartFill, SvgIconHighlight as IconHighlight, SvgIconHome as IconHome, SvgIconHomeFill as IconHomeFill, SvgIconInbox as IconInbox, SvgIconInbox2 as IconInbox2, SvgIconInbox2Fill as IconInbox2Fill, SvgIconInboxEmpty as IconInboxEmpty, SvgIconInboxEmptyFill as IconInboxEmptyFill, SvgIconInboxFill as IconInboxFill, SvgIconInvoice as IconInvoice, SvgIconInvoiceFill as IconInvoiceFill, SvgIconKey as IconKey, SvgIconKeyFill as IconKeyFill, SvgIconKeyhole as IconKeyhole, SvgIconKeyholeFill as IconKeyholeFill, SvgIconLayers as IconLayers, SvgIconLayers2 as IconLayers2, SvgIconLayers2Fill as IconLayers2Fill, SvgIconLayersFill as IconLayersFill, SvgIconLightBulb as IconLightBulb, SvgIconLightBulb2 as IconLightBulb2, SvgIconLightBulb2Fill as IconLightBulb2Fill, SvgIconLightBulbFill as IconLightBulbFill, SvgIconLink as IconLink, SvgIconLiquid as IconLiquid, SvgIconLiquidFill as IconLiquidFill, SvgIconLoader as IconLoader, SvgIconLoader2 as IconLoader2, SvgIconLocation as IconLocation, SvgIconLocationFill as IconLocationFill, SvgIconLock as IconLock, SvgIconLockFill as IconLockFill, SvgIconLogout as IconLogout, SvgIconMacbook as IconMacbook, SvgIconMacbookAir as IconMacbookAir, SvgIconMacbookAirFill as IconMacbookAirFill, SvgIconMacbookFill as IconMacbookFill, SvgIconMagic as IconMagic, SvgIconMail as IconMail, SvgIconMailFill as IconMailFill, SvgIconMailNotify as IconMailNotify, SvgIconMailNotifyFill as IconMailNotifyFill, SvgIconMap as IconMap, SvgIconMapFill as IconMapFill, SvgIconMegaphone as IconMegaphone, SvgIconMegaphoneFill as IconMegaphoneFill, SvgIconMessage as IconMessage, SvgIconMessages as IconMessages, SvgIconMic as IconMic, SvgIconMicFill as IconMicFill, SvgIconMicOff as IconMicOff, SvgIconMicOffFill as IconMicOffFill, SvgIconMoon as IconMoon, SvgIconMoonStar as IconMoonStar, SvgIconMoonStarFill as IconMoonStarFill, SvgIconMouse as IconMouse, SvgIconMouseFill as IconMouseFill, SvgIconMusicNote as IconMusicNote, SvgIconMusicNoteFill as IconMusicNoteFill, SvgIconNotebookCover as IconNotebookCover, SvgIconNotebookCoverFill as IconNotebookCoverFill, SvgIconNotepad as IconNotepad, SvgIconNotepadFill as IconNotepadFill, SvgIconNotes as IconNotes, SvgIconNotesFill as IconNotesFill, SvgIconOpenLink as IconOpenLink, SvgIconOpenQuote as IconOpenQuote, SvgIconOpenQuoteFill as IconOpenQuoteFill, SvgIconPaperclip as IconPaperclip, SvgIconPaperclip2 as IconPaperclip2, SvgIconPaperclip3 as IconPaperclip3, SvgIconPause as IconPause, SvgIconPauseFill as IconPauseFill, SvgIconPencilBox as IconPencilBox, SvgIconPencilBoxFill as IconPencilBoxFill, SvgIconPeople as IconPeople, SvgIconPeopleFill as IconPeopleFill, SvgIconPerson as IconPerson, SvgIconPersonFill as IconPersonFill, SvgIconPilone as IconPilone, SvgIconPiloneFill as IconPiloneFill, SvgIconPin as IconPin, SvgIconPin2 as IconPin2, SvgIconPin2Fill as IconPin2Fill, SvgIconPinFill as IconPinFill, SvgIconPlay as IconPlay, SvgIconPlayFill as IconPlayFill, SvgIconPlaylist as IconPlaylist, SvgIconPlaylistFill as IconPlaylistFill, SvgIconPlus as IconPlus, SvgIconPound as IconPound, SvgIconPoundFill as IconPoundFill, SvgIconPuzzle as IconPuzzle, SvgIconPuzzlePin as IconPuzzlePin, SvgIconQrCode as IconQrCode, SvgIconQrCodeFill as IconQrCodeFill, SvgIconRainy as IconRainy, SvgIconRainyLight as IconRainyLight, SvgIconReceipt as IconReceipt, SvgIconReceiptFill as IconReceiptFill, SvgIconReceiptTax as IconReceiptTax, SvgIconReceiptTaxFill as IconReceiptTaxFill, SvgIconRecord as IconRecord, SvgIconRecordFill as IconRecordFill, SvgIconRefresh as IconRefresh, SvgIconRepeat as IconRepeat, SvgIconRepeat2 as IconRepeat2, SvgIconRepeatFill as IconRepeatFill, SvgIconRepost as IconRepost, SvgIconRewind10S as IconRewind10S, SvgIconRewind15S as IconRewind15S, SvgIconRewind30S as IconRewind30S, SvgIconRewind5S as IconRewind5S, SvgIconRocket as IconRocket, SvgIconRocketFill as IconRocketFill, SvgIconRotateLeft as IconRotateLeft, SvgIconRotateRight as IconRotateRight, SvgIconSdCard as IconSdCard, SvgIconSdCardFill as IconSdCardFill, SvgIconSearch as IconSearch, SvgIconSearchFill as IconSearchFill, SvgIconSearchSketchbook as IconSearchSketchbook, SvgIconSearchSketchbookFill as IconSearchSketchbookFill, SvgIconSend as IconSend, SvgIconSendFill as IconSendFill, SvgIconService as IconService, SvgIconServiceFill as IconServiceFill, SvgIconSettings as IconSettings, SvgIconSettingsFill as IconSettingsFill, SvgIconShield as IconShield, SvgIconShieldCheck as IconShieldCheck, SvgIconShieldCheckFill as IconShieldCheckFill, SvgIconShieldCrossed as IconShieldCrossed, SvgIconShieldCrossedFill as IconShieldCrossedFill, SvgIconShieldFill as IconShieldFill, SvgIconShuffle as IconShuffle, SvgIconSidebar as IconSidebar, SvgIconSidebarFill as IconSidebarFill, SvgIconSimCard as IconSimCard, SvgIconSimCardFill as IconSimCardFill, SvgIconSketchbook as IconSketchbook, SvgIconSketchbookFill as IconSketchbookFill, SvgIconSnowFlakes as IconSnowFlakes, SvgIconSort as IconSort, SvgIconSortFill as IconSortFill, SvgIconSquareInfo as IconSquareInfo, SvgIconSquareInfoFill as IconSquareInfoFill, SvgIconSquareMinus as IconSquareMinus, SvgIconSquareMinusFill as IconSquareMinusFill, SvgIconSquarePlaceholder as IconSquarePlaceholder, SvgIconSquarePlaceholderFill as IconSquarePlaceholderFill, SvgIconSquarePlus as IconSquarePlus, SvgIconSquarePlusFill as IconSquarePlusFill, SvgIconSquareX as IconSquareX, SvgIconSquareXFill as IconSquareXFill, SvgIconStar as IconStar, SvgIconStarFill as IconStarFill, SvgIconStarLines as IconStarLines, SvgIconStarLinesFill as IconStarLinesFill, SvgIconStop as IconStop, SvgIconStopFill as IconStopFill, SvgIconStorage as IconStorage, SvgIconStorageFill as IconStorageFill, SvgIconStore as IconStore, SvgIconStore2 as IconStore2, SvgIconStore2Fill as IconStore2Fill, SvgIconStore3 as IconStore3, SvgIconStore3Fill as IconStore3Fill, SvgIconStore4 as IconStore4, SvgIconStore4Fill as IconStore4Fill, SvgIconStoreFill as IconStoreFill, SvgIconSuitcase as IconSuitcase, SvgIconSuitcaseFill as IconSuitcaseFill, SvgIconSun as IconSun, SvgIconSupport as IconSupport, SvgIconSupportFill as IconSupportFill, SvgIconSwitchHorizontal as IconSwitchHorizontal, SvgIconSwitchVertical as IconSwitchVertical, SvgIconSwitchVerticalFill as IconSwitchVerticalFill, SvgIconTelephone as IconTelephone, SvgIconTelephoneFill as IconTelephoneFill, SvgIconThumbsDown as IconThumbsDown, SvgIconThumbsDownFill as IconThumbsDownFill, SvgIconTicket as IconTicket, SvgIconTicketFill as IconTicketFill, SvgIconToolbox as IconToolbox, SvgIconToolboxFill as IconToolboxFill, SvgIconTrash as IconTrash, SvgIconTrashEmpty as IconTrashEmpty, SvgIconTrashEmptyFill as IconTrashEmptyFill, SvgIconTrashFill as IconTrashFill, SvgIconTrashPaper as IconTrashPaper, SvgIconTrashPaperFill as IconTrashPaperFill, SvgIconTriangleInfo as IconTriangleInfo, SvgIconTriangleInfoFill as IconTriangleInfoFill, SvgIconTrophy as IconTrophy, SvgIconTrophyFill as IconTrophyFill, SvgIconTruck as IconTruck, SvgIconTruckFill as IconTruckFill, SvgIconUmbrella as IconUmbrella, SvgIconUmbrellaFill as IconUmbrellaFill, SvgIconUnlocked as IconUnlocked, SvgIconUnlockedFill as IconUnlockedFill, SvgIconUnpin as IconUnpin, SvgIconUnpinFill as IconUnpinFill, SvgIconUpload as IconUpload, SvgIconVerified as IconVerified, SvgIconVerifiedFill as IconVerifiedFill, SvgIconVip as IconVip, SvgIconVipFill as IconVipFill, SvgIconVolumeFull as IconVolumeFull, SvgIconVolumeFullFill as IconVolumeFullFill, SvgIconVolumeOff as IconVolumeOff, SvgIconVolumeOffFill as IconVolumeOffFill, SvgIconWallet as IconWallet, SvgIconWallet2 as IconWallet2, SvgIconWallet2Fill as IconWallet2Fill, SvgIconWallet3 as IconWallet3, SvgIconWallet3Fill as IconWallet3Fill, SvgIconWalletFill as IconWalletFill, SvgIconWind as IconWind, SvgIconWindow as IconWindow, SvgIconWindowFill as IconWindowFill, SvgIconX as IconX, SvgIconYen as IconYen, SvgIconYenFill as IconYenFill, SvgIconYes as IconYes, SvgIconYesFill as IconYesFill, SvgIconZip as IconZip, SvgIconZipFill as IconZipFill, SvgIconZoom as IconZoom, SvgIconZoomFill as IconZoomFill, SvgIconZoomOut as IconZoomOut, SvgIconZoomOutFill as IconZoomOutFill };
+export { SvgArrowPathDownFill as ArrowPathDownFill, SvgIconAdapter as IconAdapter, SvgIconAdapterFill as IconAdapterFill, SvgIconAdjustment as IconAdjustment, SvgIconAdjustmentFill as IconAdjustmentFill, SvgIconAlbum as IconAlbum, SvgIconAnonymous as IconAnonymous, SvgIconAnonymousFill as IconAnonymousFill, SvgIconArchive as IconArchive, SvgIconArchive2 as IconArchive2, SvgIconArchive2Fill as IconArchive2Fill, SvgIconArchiveFill as IconArchiveFill, SvgIconArrowDown as IconArrowDown, SvgIconArrowLeft as IconArrowLeft, SvgIconArrowPathDown as IconArrowPathDown, SvgIconArrowPathLeft as IconArrowPathLeft, SvgIconArrowPathLeftFill as IconArrowPathLeftFill, SvgIconArrowPathRight as IconArrowPathRight, SvgIconArrowPathRightFill as IconArrowPathRightFill, SvgIconArrowPathUp as IconArrowPathUp, SvgIconArrowPathUpFill as IconArrowPathUpFill, SvgIconArrowRight as IconArrowRight, SvgIconArrowUp as IconArrowUp, SvgIconArrowWallDown as IconArrowWallDown, SvgIconArrowWallLeft as IconArrowWallLeft, SvgIconArrowWallRight as IconArrowWallRight, SvgIconArrowWallUp as IconArrowWallUp, SvgIconAttention as IconAttention, SvgIconAttentionFill as IconAttentionFill, SvgIconBackspace as IconBackspace, SvgIconBackspaceFill as IconBackspaceFill, SvgIconBag as IconBag, SvgIconBag2 as IconBag2, SvgIconBag2Fill as IconBag2Fill, SvgIconBag3 as IconBag3, SvgIconBag3Fill as IconBag3Fill, SvgIconBag4 as IconBag4, SvgIconBag4Fill as IconBag4Fill, SvgIconBagBlank as IconBagBlank, SvgIconBagBlankFill as IconBagBlankFill, SvgIconBagFill as IconBagFill, SvgIconBarcode as IconBarcode, SvgIconBarsThree as IconBarsThree, SvgIconBarsThree2 as IconBarsThree2, SvgIconBarsThree3 as IconBarsThree3, SvgIconBarsTwo as IconBarsTwo, SvgIconBarsTwo2 as IconBarsTwo2, SvgIconBell as IconBell, SvgIconBellAlarm as IconBellAlarm, SvgIconBellAlarmFill as IconBellAlarmFill, SvgIconBellFill as IconBellFill, SvgIconBill as IconBill, SvgIconBillFill as IconBillFill, SvgIconBlock as IconBlock, SvgIconBlockFill as IconBlockFill, SvgIconBook as IconBook, SvgIconBookFill as IconBookFill, SvgIconBookmark as IconBookmark, SvgIconBookmarkCheck as IconBookmarkCheck, SvgIconBookmarkCheckFill as IconBookmarkCheckFill, SvgIconBookmarkFill as IconBookmarkFill, SvgIconBookmarkOff as IconBookmarkOff, SvgIconBookmarkOffFill as IconBookmarkOffFill, SvgIconBookmarkPlus as IconBookmarkPlus, SvgIconBookmarkPlusFill as IconBookmarkPlusFill, SvgIconBookmarkX as IconBookmarkX, SvgIconBookmarkXFill as IconBookmarkXFill, SvgIconBooks as IconBooks, SvgIconBooksFill as IconBooksFill, SvgIconBrandApple as IconBrandApple, SvgIconBrandAppleMusic as IconBrandAppleMusic, SvgIconBrandAppstore as IconBrandAppstore, SvgIconBrandArc as IconBrandArc, SvgIconBrandArtifactNews as IconBrandArtifactNews, SvgIconBrandCash as IconBrandCash, SvgIconBrandChrome as IconBrandChrome, SvgIconBrandCopilot as IconBrandCopilot, SvgIconBrandDiscord as IconBrandDiscord, SvgIconBrandFacebook as IconBrandFacebook, SvgIconBrandFigma as IconBrandFigma, SvgIconBrandFirefox as IconBrandFirefox, SvgIconBrandFramer as IconBrandFramer, SvgIconBrandGithub as IconBrandGithub, SvgIconBrandGooglePlayStore as IconBrandGooglePlayStore, SvgIconBrandGumroad as IconBrandGumroad, SvgIconBrandInstagram as IconBrandInstagram, SvgIconBrandLemonsqueezy as IconBrandLemonsqueezy, SvgIconBrandLinkedin as IconBrandLinkedin, SvgIconBrandLinktree as IconBrandLinktree, SvgIconBrandLottielab as IconBrandLottielab, SvgIconBrandMedium as IconBrandMedium, SvgIconBrandOpenai as IconBrandOpenai, SvgIconBrandParsinta as IconBrandParsinta, SvgIconBrandPatreon as IconBrandPatreon, SvgIconBrandPinterest as IconBrandPinterest, SvgIconBrandProducthunt as IconBrandProducthunt, SvgIconBrandRive as IconBrandRive, SvgIconBrandSafari as IconBrandSafari, SvgIconBrandSketch as IconBrandSketch, SvgIconBrandSlack as IconBrandSlack, SvgIconBrandSnapchat as IconBrandSnapchat, SvgIconBrandSpotify as IconBrandSpotify, SvgIconBrandTelegram as IconBrandTelegram, SvgIconBrandThreads as IconBrandThreads, SvgIconBrandTiktok as IconBrandTiktok, SvgIconBrandTwitch as IconBrandTwitch, SvgIconBrandTwitter as IconBrandTwitter, SvgIconBrandVenmo as IconBrandVenmo, SvgIconBrandWhatsapp as IconBrandWhatsapp, SvgIconBrandX as IconBrandX, SvgIconBrandYoutube as IconBrandYoutube, SvgIconBrokenChainLink as IconBrokenChainLink, SvgIconBrokenHeart as IconBrokenHeart, SvgIconBrokenHeartFill as IconBrokenHeartFill, SvgIconBug as IconBug, SvgIconBugFill as IconBugFill, SvgIconBuilding as IconBuilding, SvgIconBuildingFill as IconBuildingFill, SvgIconBullet as IconBullet, SvgIconBulletFill as IconBulletFill, SvgIconBulletList as IconBulletList, SvgIconBulletListFill as IconBulletListFill, SvgIconCalendar as IconCalendar, SvgIconCalendar2 as IconCalendar2, SvgIconCalendar2Fill as IconCalendar2Fill, SvgIconCalendar3 as IconCalendar3, SvgIconCalendar3Fill as IconCalendar3Fill, SvgIconCalendarCheck as IconCalendarCheck, SvgIconCalendarCheckFill as IconCalendarCheckFill, SvgIconCalendarClock as IconCalendarClock, SvgIconCalendarClockFill as IconCalendarClockFill, SvgIconCalendarFill as IconCalendarFill, SvgIconCalendarPlus as IconCalendarPlus, SvgIconCalendarPlusFill as IconCalendarPlusFill, SvgIconCalendarRemove as IconCalendarRemove, SvgIconCalendarRemoveFill as IconCalendarRemoveFill, SvgIconCalendarSearch as IconCalendarSearch, SvgIconCalendarSearchFill as IconCalendarSearchFill, SvgIconCallIncoming as IconCallIncoming, SvgIconCallIncomingFill as IconCallIncomingFill, SvgIconCallOff as IconCallOff, SvgIconCallOffFill as IconCallOffFill, SvgIconCallOutgoing as IconCallOutgoing, SvgIconCallOutgoingFill as IconCallOutgoingFill, SvgIconCar as IconCar, SvgIconCarFill as IconCarFill, SvgIconCart as IconCart, SvgIconCartFill as IconCartFill, SvgIconCheck as IconCheck, SvgIconChevronDoubleLeft as IconChevronDoubleLeft, SvgIconChevronDoubleRight as IconChevronDoubleRight, SvgIconChevronDown as IconChevronDown, SvgIconChevronLeft as IconChevronLeft, SvgIconChevronRight as IconChevronRight, SvgIconChevronUp as IconChevronUp, SvgIconChevronsUpDown as IconChevronsUpDown, SvgIconChevronsX as IconChevronsX, SvgIconChevronsY as IconChevronsY, SvgIconCircleArrowDown as IconCircleArrowDown, SvgIconCircleArrowDownFill as IconCircleArrowDownFill, SvgIconCircleArrowLeft as IconCircleArrowLeft, SvgIconCircleArrowLeftDown as IconCircleArrowLeftDown, SvgIconCircleArrowLeftDownFill as IconCircleArrowLeftDownFill, SvgIconCircleArrowLeftFill as IconCircleArrowLeftFill, SvgIconCircleArrowLeftUp as IconCircleArrowLeftUp, SvgIconCircleArrowLeftUpFill as IconCircleArrowLeftUpFill, SvgIconCircleArrowRight as IconCircleArrowRight, SvgIconCircleArrowRightFill as IconCircleArrowRightFill, SvgIconCircleArrowRightUp as IconCircleArrowRightUp, SvgIconCircleArrowRightUpFill as IconCircleArrowRightUpFill, SvgIconCircleArrowUp as IconCircleArrowUp, SvgIconCircleArrowUpFill as IconCircleArrowUpFill, SvgIconCircleCheck as IconCircleCheck, SvgIconCircleCheckFill as IconCircleCheckFill, SvgIconCircleDotsHorizontal as IconCircleDotsHorizontal, SvgIconCircleDotsHorizontalFill as IconCircleDotsHorizontalFill, SvgIconCircleDotsVertical as IconCircleDotsVertical, SvgIconCircleDotsVerticalFill as IconCircleDotsVerticalFill, SvgIconCircleDownload as IconCircleDownload, SvgIconCircleDownloadFill as IconCircleDownloadFill, SvgIconCircleHalf as IconCircleHalf, SvgIconCircleHalfFill as IconCircleHalfFill, SvgIconCircleInfo as IconCircleInfo, SvgIconCircleInfoFill as IconCircleInfoFill, SvgIconCircleMinus as IconCircleMinus, SvgIconCircleMinusFill as IconCircleMinusFill, SvgIconCirclePerson as IconCirclePerson, SvgIconCirclePersonFill as IconCirclePersonFill, SvgIconCirclePlaceholderDashed as IconCirclePlaceholderDashed, SvgIconCirclePlaceholderDashedFill as IconCirclePlaceholderDashedFill, SvgIconCirclePlay as IconCirclePlay, SvgIconCirclePlayFill as IconCirclePlayFill, SvgIconCirclePlus as IconCirclePlus, SvgIconCirclePlusFill as IconCirclePlusFill, SvgIconCircleQuestionmark as IconCircleQuestionmark, SvgIconCircleQuestionmarkFill as IconCircleQuestionmarkFill, SvgIconCircleStop as IconCircleStop, SvgIconCircleStopFill as IconCircleStopFill, SvgIconCircleX as IconCircleX, SvgIconCircleXFill as IconCircleXFill, SvgIconCirleArrowRightDown as IconCirleArrowRightDown, SvgIconCirleArrowRightDownFill as IconCirleArrowRightDownFill, SvgIconClipboard as IconClipboard, SvgIconClipboardFill as IconClipboardFill, SvgIconClock as IconClock, SvgIconClockFill as IconClockFill, SvgIconCloseQuote as IconCloseQuote, SvgIconCloseQuoteFill as IconCloseQuoteFill, SvgIconCloud as IconCloud, SvgIconCloud2 as IconCloud2, SvgIconCloudDownload as IconCloudDownload, SvgIconCloudDownloadFill as IconCloudDownloadFill, SvgIconCloudFill as IconCloudFill, SvgIconCloudSnow as IconCloudSnow, SvgIconCloudSync as IconCloudSync, SvgIconCloudSyncFill as IconCloudSyncFill, SvgIconCloudy as IconCloudy, SvgIconCloudySun as IconCloudySun, SvgIconCodeBrackets as IconCodeBrackets, SvgIconCompass as IconCompass, SvgIconCompassFill as IconCompassFill, SvgIconControl as IconControl, SvgIconControlFill as IconControlFill, SvgIconCreditCard as IconCreditCard, SvgIconCreditCardFill as IconCreditCardFill, SvgIconCupHot as IconCupHot, SvgIconCupHotFill as IconCupHotFill, SvgIconCurrencyDollar as IconCurrencyDollar, SvgIconCurrencyDollarFill as IconCurrencyDollarFill, SvgIconCurrencyPound as IconCurrencyPound, SvgIconCurrencyPoundFill as IconCurrencyPoundFill, SvgIconCurrencyYen as IconCurrencyYen, SvgIconCut as IconCut, SvgIconDashboard as IconDashboard, SvgIconDashboardFill as IconDashboardFill, SvgIconDatabase as IconDatabase, SvgIconDatabaseFill as IconDatabaseFill, SvgIconDateTime as IconDateTime, SvgIconDeviceDesktop as IconDeviceDesktop, SvgIconDeviceDesktop2 as IconDeviceDesktop2, SvgIconDeviceDesktop2Fill as IconDeviceDesktop2Fill, SvgIconDeviceDesktopFill as IconDeviceDesktopFill, SvgIconDevicePhone as IconDevicePhone, SvgIconDevicePhoneFill as IconDevicePhoneFill, SvgIconDiamond as IconDiamond, SvgIconDiamondFill as IconDiamondFill, SvgIconDotGrid2X3 as IconDotGrid2X3, SvgIconDotGrid3X3 as IconDotGrid3X3, SvgIconDotsHorizontal as IconDotsHorizontal, SvgIconDotsVertical as IconDotsVertical, SvgIconDownload as IconDownload, SvgIconDuplicate as IconDuplicate, SvgIconDuplicateFill as IconDuplicateFill, SvgIconEnter as IconEnter, SvgIconEnterFill as IconEnterFill, SvgIconEnvelope as IconEnvelope, SvgIconEnvelopeFill as IconEnvelopeFill, SvgIconEye as IconEye, SvgIconEyeFill as IconEyeFill, SvgIconEyeOff as IconEyeOff, SvgIconEyeOffFill as IconEyeOffFill, SvgIconFastForward10S as IconFastForward10S, SvgIconFastForward15S as IconFastForward15S, SvgIconFastForward30S as IconFastForward30S, SvgIconFastForward5S as IconFastForward5S, SvgIconFilter as IconFilter, SvgIconFilter2 as IconFilter2, SvgIconFilter2Fill as IconFilter2Fill, SvgIconFilterFill as IconFilterFill, SvgIconFolder as IconFolder, SvgIconFolderDownload as IconFolderDownload, SvgIconFolderDownloadFill as IconFolderDownloadFill, SvgIconFolderFill as IconFolderFill, SvgIconFolderLink as IconFolderLink, SvgIconFolderLinkFill as IconFolderLinkFill, SvgIconFolderOpen as IconFolderOpen, SvgIconFolderOpenFill as IconFolderOpenFill, SvgIconFolderPaper as IconFolderPaper, SvgIconFolderPaperFill as IconFolderPaperFill, SvgIconFolderRestricted as IconFolderRestricted, SvgIconFolderRestrictedFill as IconFolderRestrictedFill, SvgIconFolderUpload as IconFolderUpload, SvgIconFolderUploadFill as IconFolderUploadFill, SvgIconFolders as IconFolders, SvgIconFoldersFill as IconFoldersFill, SvgIconForwardLeft as IconForwardLeft, SvgIconForwardLeftFill as IconForwardLeftFill, SvgIconForwardRight as IconForwardRight, SvgIconForwardRightFill as IconForwardRightFill, SvgIconFullscreen as IconFullscreen, SvgIconFullscreenFill as IconFullscreenFill, SvgIconGallery as IconGallery, SvgIconGalleryFill as IconGalleryFill, SvgIconGear as IconGear, SvgIconGearFill as IconGearFill, SvgIconGift as IconGift, SvgIconGiftFill as IconGiftFill, SvgIconGiroCard as IconGiroCard, SvgIconGiroCardFill as IconGiroCardFill, SvgIconGiroCards as IconGiroCards, SvgIconGiroCardsFill as IconGiroCardsFill, SvgIconGlasses as IconGlasses, SvgIconGlassesFill as IconGlassesFill, SvgIconGlobe as IconGlobe, SvgIconGlobe2 as IconGlobe2, SvgIconGlobe2Fill as IconGlobe2Fill, SvgIconGlobeFill as IconGlobeFill, SvgIconGraduate as IconGraduate, SvgIconGraduateCapFill as IconGraduateCapFill, SvgIconGraph as IconGraph, SvgIconGrid4 as IconGrid4, SvgIconGrid4Fill as IconGrid4Fill, SvgIconGuide as IconGuide, SvgIconGuideFill as IconGuideFill, SvgIconHamburger as IconHamburger, SvgIconHdd as IconHdd, SvgIconHddFill as IconHddFill, SvgIconHeadphones as IconHeadphones, SvgIconHeadphonesFill as IconHeadphonesFill, SvgIconHeart as IconHeart, SvgIconHeartBeat as IconHeartBeat, SvgIconHeartBeatFill as IconHeartBeatFill, SvgIconHeartFill as IconHeartFill, SvgIconHighlight as IconHighlight, SvgIconHome as IconHome, SvgIconHomeFill as IconHomeFill, SvgIconInbox as IconInbox, SvgIconInbox2 as IconInbox2, SvgIconInbox2Fill as IconInbox2Fill, SvgIconInboxEmpty as IconInboxEmpty, SvgIconInboxEmptyFill as IconInboxEmptyFill, SvgIconInboxFill as IconInboxFill, SvgIconInvite as IconInvite, SvgIconInviteFill as IconInviteFill, SvgIconInvoice as IconInvoice, SvgIconInvoiceFill as IconInvoiceFill, SvgIconKey as IconKey, SvgIconKeyFill as IconKeyFill, SvgIconKeyhole as IconKeyhole, SvgIconKeyholeFill as IconKeyholeFill, SvgIconLayers as IconLayers, SvgIconLayers2 as IconLayers2, SvgIconLayers2Fill as IconLayers2Fill, SvgIconLayersFill as IconLayersFill, SvgIconLightBulb as IconLightBulb, SvgIconLightBulb2 as IconLightBulb2, SvgIconLightBulb2Fill as IconLightBulb2Fill, SvgIconLightBulbFill as IconLightBulbFill, SvgIconLink as IconLink, SvgIconLiquid as IconLiquid, SvgIconLiquidFill as IconLiquidFill, SvgIconLoader as IconLoader, SvgIconLoader2 as IconLoader2, SvgIconLocation as IconLocation, SvgIconLocationFill as IconLocationFill, SvgIconLock as IconLock, SvgIconLockFill as IconLockFill, SvgIconLogout as IconLogout, SvgIconMacbook as IconMacbook, SvgIconMacbookAir as IconMacbookAir, SvgIconMacbookAirFill as IconMacbookAirFill, SvgIconMacbookFill as IconMacbookFill, SvgIconMagic as IconMagic, SvgIconMail as IconMail, SvgIconMailFill as IconMailFill, SvgIconMailNotify as IconMailNotify, SvgIconMailNotifyFill as IconMailNotifyFill, SvgIconMap as IconMap, SvgIconMapFill as IconMapFill, SvgIconMegaphone as IconMegaphone, SvgIconMegaphoneFill as IconMegaphoneFill, SvgIconMessage as IconMessage, SvgIconMessages as IconMessages, SvgIconMic as IconMic, SvgIconMicFill as IconMicFill, SvgIconMicOff as IconMicOff, SvgIconMicOffFill as IconMicOffFill, SvgIconMoon as IconMoon, SvgIconMoonStar as IconMoonStar, SvgIconMoonStarFill as IconMoonStarFill, SvgIconMouse as IconMouse, SvgIconMouseFill as IconMouseFill, SvgIconMusicNote as IconMusicNote, SvgIconMusicNoteFill as IconMusicNoteFill, SvgIconNotebookCover as IconNotebookCover, SvgIconNotebookCoverFill as IconNotebookCoverFill, SvgIconNotepad as IconNotepad, SvgIconNotepadFill as IconNotepadFill, SvgIconNotes as IconNotes, SvgIconNotesFill as IconNotesFill, SvgIconOpenLink as IconOpenLink, SvgIconOpenQuote as IconOpenQuote, SvgIconOpenQuoteFill as IconOpenQuoteFill, SvgIconPaper as IconPaper, SvgIconPaperFill as IconPaperFill, SvgIconPaperclip as IconPaperclip, SvgIconPaperclip2 as IconPaperclip2, SvgIconPaperclip3 as IconPaperclip3, SvgIconPause as IconPause, SvgIconPauseFill as IconPauseFill, SvgIconPencilBox as IconPencilBox, SvgIconPencilBoxFill as IconPencilBoxFill, SvgIconPeople as IconPeople, SvgIconPeopleFill as IconPeopleFill, SvgIconPerson as IconPerson, SvgIconPersonFill as IconPersonFill, SvgIconPilone as IconPilone, SvgIconPiloneFill as IconPiloneFill, SvgIconPin as IconPin, SvgIconPin2 as IconPin2, SvgIconPin2Fill as IconPin2Fill, SvgIconPinFill as IconPinFill, SvgIconPlay as IconPlay, SvgIconPlayFill as IconPlayFill, SvgIconPlaylist as IconPlaylist, SvgIconPlaylistFill as IconPlaylistFill, SvgIconPlus as IconPlus, SvgIconPuzzle as IconPuzzle, SvgIconPuzzlePin as IconPuzzlePin, SvgIconQrCode as IconQrCode, SvgIconQrCodeFill as IconQrCodeFill, SvgIconRainy as IconRainy, SvgIconRainyLight as IconRainyLight, SvgIconReceipt as IconReceipt, SvgIconReceiptFill as IconReceiptFill, SvgIconReceiptTax as IconReceiptTax, SvgIconReceiptTaxFill as IconReceiptTaxFill, SvgIconRecord as IconRecord, SvgIconRecordFill as IconRecordFill, SvgIconRefresh as IconRefresh, SvgIconRepeat as IconRepeat, SvgIconRepeat2 as IconRepeat2, SvgIconRepeatFill as IconRepeatFill, SvgIconRepost as IconRepost, SvgIconRewind10S as IconRewind10S, SvgIconRewind15S as IconRewind15S, SvgIconRewind30S as IconRewind30S, SvgIconRewind5S as IconRewind5S, SvgIconRocket as IconRocket, SvgIconRocketFill as IconRocketFill, SvgIconRotateLeft as IconRotateLeft, SvgIconRotateRight as IconRotateRight, SvgIconSdCard as IconSdCard, SvgIconSdCardFill as IconSdCardFill, SvgIconSearch as IconSearch, SvgIconSearchFill as IconSearchFill, SvgIconSearchSketchbook as IconSearchSketchbook, SvgIconSearchSketchbookFill as IconSearchSketchbookFill, SvgIconSend as IconSend, SvgIconSend2 as IconSend2, SvgIconSend2Fill as IconSend2Fill, SvgIconSend3 as IconSend3, SvgIconSend3Fill as IconSend3Fill, SvgIconSendFill as IconSendFill, SvgIconService as IconService, SvgIconServiceFill as IconServiceFill, SvgIconSettings as IconSettings, SvgIconSettingsFill as IconSettingsFill, SvgIconShield as IconShield, SvgIconShieldCheck as IconShieldCheck, SvgIconShieldCheckFill as IconShieldCheckFill, SvgIconShieldCrossed as IconShieldCrossed, SvgIconShieldCrossedFill as IconShieldCrossedFill, SvgIconShieldFill as IconShieldFill, SvgIconShuffle as IconShuffle, SvgIconSidebar as IconSidebar, SvgIconSidebarFill as IconSidebarFill, SvgIconSimCard as IconSimCard, SvgIconSimCardFill as IconSimCardFill, SvgIconSketchbook as IconSketchbook, SvgIconSketchbookFill as IconSketchbookFill, SvgIconSnowFlakes as IconSnowFlakes, SvgIconSort as IconSort, SvgIconSortFill as IconSortFill, SvgIconSquareInfo as IconSquareInfo, SvgIconSquareInfoFill as IconSquareInfoFill, SvgIconSquareMinus as IconSquareMinus, SvgIconSquareMinusFill as IconSquareMinusFill, SvgIconSquarePlaceholder as IconSquarePlaceholder, SvgIconSquarePlaceholderFill as IconSquarePlaceholderFill, SvgIconSquarePlus as IconSquarePlus, SvgIconSquarePlusFill as IconSquarePlusFill, SvgIconSquareX as IconSquareX, SvgIconSquareXFill as IconSquareXFill, SvgIconStar as IconStar, SvgIconStarFill as IconStarFill, SvgIconStarLines as IconStarLines, SvgIconStarLinesFill as IconStarLinesFill, SvgIconStop as IconStop, SvgIconStopFill as IconStopFill, SvgIconStorage as IconStorage, SvgIconStorageFill as IconStorageFill, SvgIconStore as IconStore, SvgIconStore2 as IconStore2, SvgIconStore2Fill as IconStore2Fill, SvgIconStore3 as IconStore3, SvgIconStore3Fill as IconStore3Fill, SvgIconStore4 as IconStore4, SvgIconStore4Fill as IconStore4Fill, SvgIconStoreFill as IconStoreFill, SvgIconSuitcase as IconSuitcase, SvgIconSuitcaseFill as IconSuitcaseFill, SvgIconSun as IconSun, SvgIconSupport as IconSupport, SvgIconSupportFill as IconSupportFill, SvgIconSwitchHorizontal as IconSwitchHorizontal, SvgIconSwitchVertical as IconSwitchVertical, SvgIconSwitchVerticalFill as IconSwitchVerticalFill, SvgIconTelephone as IconTelephone, SvgIconTelephoneFill as IconTelephoneFill, SvgIconThumbsDown as IconThumbsDown, SvgIconThumbsDownFill as IconThumbsDownFill, SvgIconTicket as IconTicket, SvgIconTicketFill as IconTicketFill, SvgIconToolbox as IconToolbox, SvgIconToolboxFill as IconToolboxFill, SvgIconTrash as IconTrash, SvgIconTrashEmpty as IconTrashEmpty, SvgIconTrashEmptyFill as IconTrashEmptyFill, SvgIconTrashFill as IconTrashFill, SvgIconTrashPaper as IconTrashPaper, SvgIconTrashPaperFill as IconTrashPaperFill, SvgIconTriangleInfo as IconTriangleInfo, SvgIconTriangleInfoFill as IconTriangleInfoFill, SvgIconTrophy as IconTrophy, SvgIconTrophyFill as IconTrophyFill, SvgIconTruck as IconTruck, SvgIconTruckFill as IconTruckFill, SvgIconUmbrella as IconUmbrella, SvgIconUmbrellaFill as IconUmbrellaFill, SvgIconUnlocked as IconUnlocked, SvgIconUnlockedFill as IconUnlockedFill, SvgIconUnpin as IconUnpin, SvgIconUnpinFill as IconUnpinFill, SvgIconUpload as IconUpload, SvgIconVerified as IconVerified, SvgIconVerifiedFill as IconVerifiedFill, SvgIconVip as IconVip, SvgIconVipFill as IconVipFill, SvgIconVolumeFull as IconVolumeFull, SvgIconVolumeFullFill as IconVolumeFullFill, SvgIconVolumeOff as IconVolumeOff, SvgIconVolumeOffFill as IconVolumeOffFill, SvgIconWallet as IconWallet, SvgIconWallet2 as IconWallet2, SvgIconWallet2Fill as IconWallet2Fill, SvgIconWallet3 as IconWallet3, SvgIconWallet3Fill as IconWallet3Fill, SvgIconWalletFill as IconWalletFill, SvgIconWind as IconWind, SvgIconWindow as IconWindow, SvgIconWindowFill as IconWindowFill, SvgIconX as IconX, SvgIconYenFill as IconYenFill, SvgIconYes as IconYes, SvgIconYesFill as IconYesFill, SvgIconZip as IconZip, SvgIconZipFill as IconZipFill, SvgIconZoom as IconZoom, SvgIconZoomFill as IconZoomFill, SvgIconZoomOut as IconZoomOut, SvgIconZoomOutFill as IconZoomOutFill };
