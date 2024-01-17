@@ -12,7 +12,7 @@ const SvgIconLoader = (props) => (
             stroke="currentColor"
             strokeOpacity={0.25}
             strokeWidth={3.636}
-            d="M11.91 21a9.09 9.09 0 1 0 0-18.182 9.09 9.09 0 0 0 0 18.182Z"
+            d="M11.91 21a9.091 9.091 0 1 0-.001-18.182 9.091 9.091 0 0 0 0 18.182Z"
         />
         <path
             fill="currentColor"
