@@ -1,5 +1,3 @@
-
-
 ## [0.11.6](https://github.com/irsyadadl/paranoid/compare/0.11.5...0.11.6) (2024-2-10)
 
 ## [0.11.5](https://github.com/irsyadadl/paranoid/compare/0.11.4...0.11.5) (2024-01-17)
@@ -14,31 +12,27 @@
 
 ## [0.11.0](https://github.com/irsyadadl/paranoid/compare/0.10.0...0.11.0) (2024-01-17)
 
-
 ### Features
 
-* add and fix some icons ([fe477f4](https://github.com/irsyadadl/paranoid/commit/fe477f47c71087a277dd7be68b3a237f6d95e114))
+- add and fix some icons ([fe477f4](https://github.com/irsyadadl/paranoid/commit/fe477f47c71087a277dd7be68b3a237f6d95e114))
 
 ## [0.10.0](https://github.com/irsyadadl/paranoid/compare/0.9.0...0.10.0) (2024-01-17)
 
-
 ### Features
 
-* some new icon ([a04e88b](https://github.com/irsyadadl/paranoid/commit/a04e88bb0797a7badb012477058b45d813c2fbd4))
+- some new icon ([a04e88b](https://github.com/irsyadadl/paranoid/commit/a04e88bb0797a7badb012477058b45d813c2fbd4))
 
 ## [0.9.0](https://github.com/irsyadadl/paranoid/compare/0.8.0...0.9.0) (2024-01-17)
 
-
 ### Features
 
-* add new icons ([813d838](https://github.com/irsyadadl/paranoid/commit/813d838804930d3414f1d8d059dbf1173151f44d))
+- add new icons ([813d838](https://github.com/irsyadadl/paranoid/commit/813d838804930d3414f1d8d059dbf1173151f44d))
 
 ## [0.8.0](https://github.com/irsyadadl/paranoid/compare/0.7.3...0.8.0) (2024-01-17)
 
-
 ### Features
 
-* add few new icons ([f61d14e](https://github.com/irsyadadl/paranoid/commit/f61d14e105a44519db7cca9531280ece36bba00f))
+- add few new icons ([f61d14e](https://github.com/irsyadadl/paranoid/commit/f61d14e105a44519db7cca9531280ece36bba00f))
 
 ## [0.7.3](https://github.com/irsyadadl/paranoid/compare/0.7.2...0.7.3) (2024-01-12)
 

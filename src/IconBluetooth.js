@@ -1,20 +1,20 @@
-import * as React from 'react';
+import * as React from "react";
 const SvgIconBluetooth = (props) => (
-    <svg
-        xmlns="http://www.w3.org/2000/svg"
-        width={24}
-        height={24}
-        fill="none"
-        viewBox="0 0 24 24"
-        {...props}
-    >
-        <path
-            stroke="currentColor"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-            strokeWidth={1.5}
-            d="m11.912 12 4.828-3.95a.5.5 0 0 0 .003-.771l-5.215-4.346a.5.5 0 0 0-.82.384v7.698m1.204.985-1.204.985M11.912 12l4.828 3.95a.5.5 0 0 1 .003.77l-5.215 4.347a.5.5 0 0 1-.82-.385v-7.697M11.912 12l-1.204-.985m0 1.97-5.416 4.432m5.416-4.432v-1.97m0 0L5.292 6.583"
-        />
-    </svg>
+  <svg
+    xmlns="http://www.w3.org/2000/svg"
+    width={24}
+    height={24}
+    fill="none"
+    viewBox="0 0 24 24"
+    {...props}
+  >
+    <path
+      stroke="currentColor"
+      strokeLinecap="round"
+      strokeLinejoin="round"
+      strokeWidth={1.5}
+      d="m11.912 12 4.828-3.95a.5.5 0 0 0 .003-.771l-5.215-4.346a.5.5 0 0 0-.82.384v7.698m1.204.985-1.204.985M11.912 12l4.828 3.95a.5.5 0 0 1 .003.77l-5.215 4.347a.5.5 0 0 1-.82-.385v-7.697M11.912 12l-1.204-.985m0 1.97-5.416 4.432m5.416-4.432v-1.97m0 0L5.292 6.583"
+    />
+  </svg>
 );
 export default SvgIconBluetooth;
