@@ -964,6 +964,33 @@
     d: "M16 18.25c-.673 1.766-2.21 3-4 3s-3.327-1.234-4-3m-3.326 0h14.652a1 1 0 0 0 .987-1.16l-1.358-8.417a7.045 7.045 0 0 0-13.91 0l-1.358 8.418a1 1 0 0 0 .987 1.159Z"
   }));
 
+  const SvgIconBezierCurvesFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M4.75 3A1.75 1.75 0 0 0 3 4.75v14.5c0 .966.784 1.75 1.75 1.75h14.5A1.75 1.75 0 0 0 21 19.25V4.75A1.75 1.75 0 0 0 19.25 3zm11.447 4c-1.34 0-2.316.703-3.057 1.601-.712.863-1.274 1.99-1.788 3.019l-.023.045c-.541 1.084-1.034 2.062-1.626 2.78-.574.695-1.165 1.055-1.9 1.055H7.75a.75.75 0 0 0 0 1.5h.053c1.34 0 2.316-.703 3.057-1.6.712-.864 1.274-1.99 1.788-3.02l.023-.045c.541-1.083 1.034-2.061 1.626-2.78.574-.695 1.165-1.055 1.9-1.055h.053a.75.75 0 0 0 0-1.5z",
+    clipRule: "evenodd"
+  }));
+
+  const SvgIconBezierCurves = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+    d: "M16.25 7.75h-.053c-4.15.001-4.245 8.5-8.394 8.5H7.75m-3-12.5h14.5a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1H4.75a1 1 0 0 1-1-1V4.75a1 1 0 0 1 1-1"
+  }));
+
   const SvgIconBillFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -1266,6 +1293,34 @@
     strokeLinejoin: "round",
     strokeWidth: 1.5,
     d: "M10 1.75v5.062a1 1 0 0 1-.322.735L7.072 9.953a1 1 0 0 0-.322.735V21.25a1 1 0 0 0 1 1h8.5a1 1 0 0 0 1-1V10.688a1 1 0 0 0-.322-.735l-2.606-2.406A1 1 0 0 1 14 6.812V1.75m-4 0h4m-4 0h-.625m4.625 0h.625"
+  }));
+
+  const SvgIconBrackets2 = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+    d: "M8.25 3.75h-2.5a1 1 0 0 0-1 1V11a1 1 0 0 1-1 1m0 0h-1m1 0a1 1 0 0 1 1 1v6.25a1 1 0 0 0 1 1h2.5m12-8.25h1m-1 0a1 1 0 0 1-1-1V4.75a1 1 0 0 0-1-1h-2.5m4.5 8.25a1 1 0 0 0-1 1v6.25a1 1 0 0 1-1 1h-2.5"
+  }));
+
+  const SvgIconBrackets = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+    d: "M7.25 3.75h-2.5a1 1 0 0 0-1 1v14.5a1 1 0 0 0 1 1h2.5m9.5-16.5h2.5a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1h-2.5"
   }));
 
   const SvgIconBrandAppleMusic = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -3570,6 +3625,20 @@
     strokeLinejoin: "round",
     strokeWidth: 1.5,
     d: "m9.75 20.25 4.5-16.5m4 4 3.355 3.565a1 1 0 0 1 0 1.37L18.25 16.25m-12.5 0-3.355-3.565a1 1 0 0 1 0-1.37L5.75 7.75"
+  }));
+
+  const SvgIconCodeLines = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+    d: "M2.75 4.75H13.2m4.55 0h3.5M2.75 12h5.5m4.5 0h8.5m-18.5 7.25h7.5m4.5 0h6.5"
   }));
 
   const SvgIconCompassFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -8035,6 +8104,33 @@
     d: "M19.76 14.75a8.25 8.25 0 1 1-7.78-11c2.816 0 4.7 1.204 6.52 3.259M19.25 4v3.5a.5.5 0 0 1-.5.5h-3.5"
   }));
 
+  const SvgIconRunShortcutFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M3 4.75C3 3.784 3.784 3 4.75 3h14.5c.966 0 1.75.784 1.75 1.75v14.5A1.75 1.75 0 0 1 19.25 21H4.75A1.75 1.75 0 0 1 3 19.25zm11.571 1.822a.75.75 0 0 1 .357 1l-4.5 9.5a.75.75 0 0 1-1.356-.643l4.5-9.5a.75.75 0 0 1 1-.357Z",
+    clipRule: "evenodd"
+  }));
+
+  const SvgIconRunShortcut = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+    d: "m9.75 16.75 4.5-9.5m-9.5-3.5h14.5a1 1 0 0 1 1 1v14.5a1 1 0 0 1-1 1H4.75a1 1 0 0 1-1-1V4.75a1 1 0 0 1 1-1"
+  }));
+
   const SvgIconSandwichFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -9990,6 +10086,8 @@
   exports.IconBellAlarm = SvgIconBellAlarm;
   exports.IconBellAlarmFill = SvgIconBellAlarmFill;
   exports.IconBellFill = SvgIconBellFill;
+  exports.IconBezierCurves = SvgIconBezierCurves;
+  exports.IconBezierCurvesFill = SvgIconBezierCurvesFill;
   exports.IconBill = SvgIconBill;
   exports.IconBillFill = SvgIconBillFill;
   exports.IconBirthdayCake = SvgIconBirthdayCake;
@@ -10013,6 +10111,8 @@
   exports.IconBooksFill = SvgIconBooksFill;
   exports.IconBottle = SvgIconBottle;
   exports.IconBottleFill = SvgIconBottleFill;
+  exports.IconBrackets = SvgIconBrackets;
+  exports.IconBrackets2 = SvgIconBrackets2;
   exports.IconBrandApple = SvgIconBrandApple;
   exports.IconBrandAppleMusic = SvgIconBrandAppleMusic;
   exports.IconBrandAppstore = SvgIconBrandAppstore;
@@ -10185,6 +10285,7 @@
   exports.IconCocktail = SvgIconCocktail;
   exports.IconCocktailFill = SvgIconCocktailFill;
   exports.IconCodeBrackets = SvgIconCodeBrackets;
+  exports.IconCodeLines = SvgIconCodeLines;
   exports.IconCompass = SvgIconCompass;
   exports.IconCompassFill = SvgIconCompassFill;
   exports.IconComputer = SvgIconComputer;
@@ -10506,6 +10607,8 @@
   exports.IconRocketFill = SvgIconRocketFill;
   exports.IconRotateLeft = SvgIconRotateLeft;
   exports.IconRotateRight = SvgIconRotateRight;
+  exports.IconRunShortcut = SvgIconRunShortcut;
+  exports.IconRunShortcutFill = SvgIconRunShortcutFill;
   exports.IconSandwich = SvgIconSandwich;
   exports.IconSandwichFill = SvgIconSandwichFill;
   exports.IconSdCard = SvgIconSdCard;
