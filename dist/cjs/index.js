@@ -366,6 +366,20 @@ const SvgIconArrowRight = props => /*#__PURE__*/React__namespace.createElement("
   d: "m14.332 5.832 5.543 5.543a1 1 0 0 1 0 1.414l-5.543 5.543m5-6.25h-15.5"
 }));
 
+const SvgIconArrowSplit = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M3.75 9.25v-5.5m0 0h5.5m-5.5 0L12 12m2.75-8.25h5.5m0 0v5.5m0-5.5L12 12m0 0v8.25"
+}));
+
 const SvgIconArrowUp = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -2741,6 +2755,33 @@ const SvgIconCircleArrowLeft = props => /*#__PURE__*/React__namespace.createElem
   d: "M11 15.25 7.75 12 11 8.75M16.25 12H8.5m-5.75 0a9.25 9.25 0 1 1 18.5 0 9.25 9.25 0 0 1-18.5 0"
 }));
 
+const SvgIconCircleArrowRightDownFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10m-6 3.25a.75.75 0 0 1-.75.75h-5.5a.75.75 0 0 1 0-1.5h3.69L8.22 9.28a.75.75 0 0 1 1.06-1.06l5.22 5.22V9.75a.75.75 0 0 1 1.5 0z",
+  clipRule: "evenodd"
+}));
+
+const SvgIconCircleArrowRightDown = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m8.75 8.75 5.82 5.82m.68-4.82v5.5h-5.5M21.25 12a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0"
+}));
+
 const SvgIconCircleArrowRightFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -3227,33 +3268,6 @@ const SvgIconCircleX = props => /*#__PURE__*/React__namespace.createElement("svg
   strokeLinecap: "round",
   strokeWidth: 1.5,
   d: "m15 9-6 6m6 0L9 9m12.25 3a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0Z"
-}));
-
-const SvgIconCirleArrowRightDownFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "currentColor",
-  fillRule: "evenodd",
-  d: "M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10m-6 3.25a.75.75 0 0 1-.75.75h-5.5a.75.75 0 0 1 0-1.5h3.69L8.22 9.28a.75.75 0 0 1 1.06-1.06l5.22 5.22V9.75a.75.75 0 0 1 1.5 0z",
-  clipRule: "evenodd"
-}));
-
-const SvgIconCirleArrowRightDown = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React__namespace.createElement("path", {
-  stroke: "currentColor",
-  strokeLinecap: "round",
-  strokeLinejoin: "round",
-  strokeWidth: 1.5,
-  d: "m8.75 8.75 5.82 5.82m.68-4.82v5.5h-5.5M21.25 12a9.25 9.25 0 1 1-18.5 0 9.25 9.25 0 0 1 18.5 0"
 }));
 
 const SvgIconClipboardFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -3819,6 +3833,55 @@ const SvgIconCurrencyYen = props => /*#__PURE__*/React__namespace.createElement(
   d: "M9.064 7.506a.75.75 0 1 0-1.128.988zm7 .988a.75.75 0 1 0-1.128-.988zM11.25 17.25a.75.75 0 0 0 1.5 0zm-1.5-5a.75.75 0 0 0 0 1.5zm4.5 1.5a.75.75 0 0 0 0-1.5zM7.936 8.494l3.5 4 1.128-.988-3.5-4zm4.628 4 3.5-4-1.128-.988-3.5 4zM11.25 12v1h1.5v-1zm0 1v4.25h1.5V13zm-1.5.75H12v-1.5H9.75zm2.25 0h2.25v-1.5H12zM20.5 12a8.5 8.5 0 0 1-8.5 8.5V22c5.523 0 10-4.477 10-10zM12 20.5A8.5 8.5 0 0 1 3.5 12H2c0 5.523 4.477 10 10 10zM3.5 12A8.5 8.5 0 0 1 12 3.5V2C6.477 2 2 6.477 2 12zM12 3.5a8.5 8.5 0 0 1 8.5 8.5H22c0-5.523-4.477-10-10-10z"
 }));
 
+const SvgIconCursor1Fill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  d: "M4.287 2.68c-1.003-.374-1.982.605-1.608 1.608l5.595 14.995a1.25 1.25 0 0 0 2.056.447l4.17-4.17 6.219 6.22a.75.75 0 1 0 1.06-1.06l-6.22-6.22 4.17-4.17a1.25 1.25 0 0 0-.447-2.055z"
+}));
+
+const SvgIconCursor1 = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m14.5 14.5 4.7-4.7a.5.5 0 0 0-.179-.822L4.026 3.383a.5.5 0 0 0-.643.643l5.595 14.995a.5.5 0 0 0 .822.179zm0 0 6.75 6.75"
+}));
+
+const SvgIconCursorFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  d: "M4.254 2.655c-.995-.359-1.958.604-1.6 1.6l6.132 17.03c.388 1.076 1.896 1.11 2.332.054l2.984-7.236 7.237-2.985c1.057-.436 1.022-1.944-.053-2.332z"
+}));
+
+const SvgIconCursor = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m3.36 4 6.132 17.03a.5.5 0 0 0 .932.021l3.024-7.332a.5.5 0 0 1 .272-.272l7.332-3.024a.5.5 0 0 0-.02-.932L4 3.36a.5.5 0 0 0-.64.64Z"
+}));
+
 const SvgIconCut = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -4120,7 +4183,7 @@ const SvgIconDotGrid2X3 = props => /*#__PURE__*/React__namespace.createElement("
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React__namespace.createElement("path", {
   fill: "currentColor",
-  d: "M7.5 5.75a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 1 1-3.5 0m5.5 0a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 1 1-3.5 0m-5.5 12.5a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 1 1-3.5 0m5.5 0a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 1 1-3.5 0M7.5 11.9a1.75 1.75 0 1 1 3.5 0v.1a1.75 1.75 0 1 1-3.5 0zm5.5 0a1.75 1.75 0 1 1 3.5 0v.1a1.75 1.75 0 1 1-3.5 0z"
+  d: "M7.5 5.75a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0m5.5 0a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0m-5.5 12.5a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0m5.5 0a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0M7.5 11.9a1.75 1.75 0 1 1 3.5 0v.1a1.75 1.75 0 1 1-3.5 0zm5.5 0a1.75 1.75 0 1 1 3.5 0v.1a1.75 1.75 0 1 1-3.5 0z"
 }));
 
 const SvgIconDotGrid3X3 = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -6744,6 +6807,20 @@ const SvgIconMouse = props => /*#__PURE__*/React__namespace.createElement("svg",
   d: "M12 6.75v2m0 12.5A6.25 6.25 0 0 1 5.75 15V9a6.25 6.25 0 1 1 12.5 0v6A6.25 6.25 0 0 1 12 21.25"
 }));
 
+const SvgIconMove = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m9 5.5 2.47-2.47a.75.75 0 0 1 1.06 0L15 5.5M5.5 9l-2.47 2.47a.75.75 0 0 0 0 1.06L5.5 15m13-6 2.47 2.47a.75.75 0 0 1 0 1.06L18.5 15M15 18.5l-2.47 2.47a.75.75 0 0 1-1.06 0L9 18.5M12 4v8m0 0v8m0-8H4m8 0h8"
+}));
+
 const SvgIconMusicNoteFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -7400,7 +7477,7 @@ const SvgIconPrinter = props => /*#__PURE__*/React__namespace.createElement("svg
   d: "M9.25 10.75h-2.5m0 3v6.5a1 1 0 0 0 1 1h8.5a1 1 0 0 0 1-1v-6.5m-10.5 0h10.5m-10.5 0v3.5h-3a1 1 0 0 1-1-1v-8.5a1 1 0 0 1 1-1h16.5a1 1 0 0 1 1 1v8.5a1 1 0 0 1-1 1h-3v-3.5m-9.5-11h8.5a1 1 0 0 1 1 1v3H6.75v-3a1 1 0 0 1 1-1"
 }));
 
-const SvgIconPuzzlePin = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+const SvgIconPuzzleFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
@@ -7591,6 +7668,20 @@ const SvgIconRecord = props => /*#__PURE__*/React__namespace.createElement("svg"
   d: "M16 12a4 4 0 1 1-8 0 4 4 0 0 1 8 0"
 }));
 
+const SvgIconRedo = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m17.25 3.25 3 3-3 3m2.25-3H9.75a6.25 6.25 0 1 0 0 12.5h8.5"
+}));
+
 const SvgIconRefresh = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -7622,15 +7713,18 @@ const SvgIconRepeat2 = props => /*#__PURE__*/React__namespace.createElement("svg
   d: "m17.5 21.25 2.646-2.646a.5.5 0 0 0 0-.708L17.5 15.25m-11-12.5L3.854 5.396a.5.5 0 0 0 0 .708L6.5 8.75m-1.25-3h14a1 1 0 0 1 1 1v4m-16.5 3v3.5a1 1 0 0 0 1 1h14"
 }));
 
-const SvgIconRepeatFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+const SvgIconRepeat3 = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
   fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "currentColor",
-  d: "M16.97 2.22a.75.75 0 0 1 1.06 0l2.647 2.646a1.25 1.25 0 0 1 0 1.768L18.03 9.28a.75.75 0 1 1-1.06-1.06l1.72-1.72H4.75a.25.25 0 0 0-.25.25v3.5a.75.75 0 0 1-1.5 0v-3.5C3 5.784 3.784 5 4.75 5h13.94l-1.72-1.72a.75.75 0 0 1 0-1.06M21 13.25a.75.75 0 0 0-1.5 0v4a.25.25 0 0 1-.25.25H5.31l1.72-1.72a.75.75 0 1 0-1.06-1.06l-2.647 2.646a1.25 1.25 0 0 0 0 1.768L5.97 21.78a.75.75 0 0 0 1.06-1.06L5.31 19h13.94A1.75 1.75 0 0 0 21 17.25z"
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M7.25 18.25h-3.5a1 1 0 0 1-1-1V4.75a1 1 0 0 1 1-1h16.5a1 1 0 0 1 1 1v12.5a1 1 0 0 1-1 1h-8M15 15l-3.25 3.25 3.25 3"
 }));
 
 const SvgIconRepeat = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -9092,6 +9186,20 @@ const SvgIconUmbrella = props => /*#__PURE__*/React__namespace.createElement("sv
   d: "M0 0h24v24H0z"
 }))));
 
+const SvgIconUndo = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m6.75 3.25-3 3 3 3m-2.25-3h9.75a6.25 6.25 0 1 1 0 12.5h-8.5"
+}));
+
 const SvgIconUnlockedFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -9685,6 +9793,7 @@ exports.IconArrowPathRightFill = SvgIconArrowPathRightFill;
 exports.IconArrowPathUp = SvgIconArrowPathUp;
 exports.IconArrowPathUpFill = SvgIconArrowPathUpFill;
 exports.IconArrowRight = SvgIconArrowRight;
+exports.IconArrowSplit = SvgIconArrowSplit;
 exports.IconArrowUp = SvgIconArrowUp;
 exports.IconArrowWallDown = SvgIconArrowWallDown;
 exports.IconArrowWallLeft = SvgIconArrowWallLeft;
@@ -9865,6 +9974,8 @@ exports.IconCircleArrowLeftFill = SvgIconCircleArrowLeftFill;
 exports.IconCircleArrowLeftUp = SvgIconCircleArrowLeftUp;
 exports.IconCircleArrowLeftUpFill = SvgIconCircleArrowLeftUpFill;
 exports.IconCircleArrowRight = SvgIconCircleArrowRight;
+exports.IconCircleArrowRightDown = SvgIconCircleArrowRightDown;
+exports.IconCircleArrowRightDownFill = SvgIconCircleArrowRightDownFill;
 exports.IconCircleArrowRightFill = SvgIconCircleArrowRightFill;
 exports.IconCircleArrowRightUp = SvgIconCircleArrowRightUp;
 exports.IconCircleArrowRightUpFill = SvgIconCircleArrowRightUpFill;
@@ -9898,8 +10009,6 @@ exports.IconCircleStop = SvgIconCircleStop;
 exports.IconCircleStopFill = SvgIconCircleStopFill;
 exports.IconCircleX = SvgIconCircleX;
 exports.IconCircleXFill = SvgIconCircleXFill;
-exports.IconCirleArrowRightDown = SvgIconCirleArrowRightDown;
-exports.IconCirleArrowRightDownFill = SvgIconCirleArrowRightDownFill;
 exports.IconClipboard = SvgIconClipboard;
 exports.IconClipboardFill = SvgIconClipboardFill;
 exports.IconClock = SvgIconClock;
@@ -9942,6 +10051,10 @@ exports.IconCurrencyDollarFill = SvgIconCurrencyDollarFill;
 exports.IconCurrencyPound = SvgIconCurrencyPound;
 exports.IconCurrencyPoundFill = SvgIconCurrencyPoundFill;
 exports.IconCurrencyYen = SvgIconCurrencyYen;
+exports.IconCursor = SvgIconCursor;
+exports.IconCursor1 = SvgIconCursor1;
+exports.IconCursor1Fill = SvgIconCursor1Fill;
+exports.IconCursorFill = SvgIconCursorFill;
 exports.IconCut = SvgIconCut;
 exports.IconDashboard = SvgIconDashboard;
 exports.IconDashboardFill = SvgIconDashboardFill;
@@ -10150,6 +10263,7 @@ exports.IconMoonStar = SvgIconMoonStar;
 exports.IconMoonStarFill = SvgIconMoonStarFill;
 exports.IconMouse = SvgIconMouse;
 exports.IconMouseFill = SvgIconMouseFill;
+exports.IconMove = SvgIconMove;
 exports.IconMusicNote = SvgIconMusicNote;
 exports.IconMusicNoteFill = SvgIconMusicNoteFill;
 exports.IconNotebookCover = SvgIconNotebookCover;
@@ -10200,7 +10314,7 @@ exports.IconPopcornFill = SvgIconPopcornFill;
 exports.IconPrinter = SvgIconPrinter;
 exports.IconPrinterFill = SvgIconPrinterFill;
 exports.IconPuzzle = SvgIconPuzzle;
-exports.IconPuzzlePin = SvgIconPuzzlePin;
+exports.IconPuzzleFill = SvgIconPuzzleFill;
 exports.IconQrCode = SvgIconQrCode;
 exports.IconQrCodeFill = SvgIconQrCodeFill;
 exports.IconRainy = SvgIconRainy;
@@ -10213,10 +10327,11 @@ exports.IconReceiptTax = SvgIconReceiptTax;
 exports.IconReceiptTaxFill = SvgIconReceiptTaxFill;
 exports.IconRecord = SvgIconRecord;
 exports.IconRecordFill = SvgIconRecordFill;
+exports.IconRedo = SvgIconRedo;
 exports.IconRefresh = SvgIconRefresh;
 exports.IconRepeat = SvgIconRepeat;
 exports.IconRepeat2 = SvgIconRepeat2;
-exports.IconRepeatFill = SvgIconRepeatFill;
+exports.IconRepeat3 = SvgIconRepeat3;
 exports.IconRepost = SvgIconRepost;
 exports.IconRewind10S = SvgIconRewind10S;
 exports.IconRewind15S = SvgIconRewind15S;
@@ -10323,6 +10438,7 @@ exports.IconTruck = SvgIconTruck;
 exports.IconTruckFill = SvgIconTruckFill;
 exports.IconUmbrella = SvgIconUmbrella;
 exports.IconUmbrellaFill = SvgIconUmbrellaFill;
+exports.IconUndo = SvgIconUndo;
 exports.IconUnlocked = SvgIconUnlocked;
 exports.IconUnlockedFill = SvgIconUnlockedFill;
 exports.IconUnpin = SvgIconUnpin;
