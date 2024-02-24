@@ -7859,9 +7859,6 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props), /*#__PURE__*/React__namespace.createElement("path", {
-    fill: "#fff",
-    d: "M0 0h24v24H0z"
-  }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
     strokeLinecap: "round",
     strokeLinejoin: "round",
