@@ -18,7 +18,7 @@ cooked by [irsyadadl](https://parsinta.com/@irsyadadl).
 </div>
 
 <p align="center">
-  <a href="https://irsyad.co/paranoid">Explore icons</a>
+  <a href="https://paranoid.irsyad.co">Explore icons</a>
 </p>
 
 <div align="center">
@@ -45,7 +45,7 @@ bun i @irsyadadl/paranoid
 
 ## Usage
 
-Elevating simplicity to elegance, effortlessly import your desired icon and wield it as a component. Unsure of your choice? Discover the perfect icon right [here](https://irsyad.co/paranoid).
+Elevating simplicity to elegance, effortlessly import your desired icon and wield it as a component. Unsure of your choice? Discover the perfect icon right [here](https://paranoid.irsyad.co).
 
 ```jsx
 import { IconBag } from "@irsyadadl/paranoid";
@@ -59,7 +59,7 @@ export default App;
 
 ## Find Icon
 
-[Here](https://irsyad.co/paranoid)
+[Here](https://paranoid.irsyad.co)
 
 ## License
 
