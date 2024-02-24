@@ -527,6 +527,31 @@
     d: "M7.664 20.156v-6.17h-.038l-.87.616c-.273.177-.431.234-.615.234-.35 0-.61-.26-.61-.609 0-.267.165-.501.489-.717l1.136-.794c.457-.31.82-.438 1.175-.438.615 0 1.028.426 1.028 1.067v6.81c0 .585-.311.921-.85.921-.534 0-.845-.343-.845-.92m3.193-3.276v-.406c0-2.602 1.244-4.304 3.307-4.304 2.07 0 3.288 1.682 3.288 4.304v.406c0 2.597-1.257 4.304-3.313 4.304s-3.282-1.688-3.282-4.304m1.714-.4v.388c0 1.828.597 2.92 1.58 2.92s1.58-1.092 1.58-2.92v-.387c0-1.822-.596-2.914-1.58-2.914-.983 0-1.58 1.085-1.58 2.913"
   }));
 
+  const SvgIconBackFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M18.062 19.865A1.25 1.25 0 0 0 20 18.82V5.18a1.25 1.25 0 0 0-1.938-1.044L7.72 10.956a1.25 1.25 0 0 0 0 2.087zM4 19.25a.75.75 0 0 0 1.5 0V4.75a.75.75 0 0 0-1.5 0z"
+  }));
+
+  const SvgIconBack = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeLinecap: "round",
+    strokeLinejoin: "round",
+    strokeWidth: 1.5,
+    d: "M4.75 19.25V4.75m13.725.011L8.133 11.583a.5.5 0 0 0 0 .834l10.342 6.822a.5.5 0 0 0 .775-.418V5.18a.5.5 0 0 0-.775-.418Z"
+  }));
+
   const SvgIconBackspaceFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -7131,6 +7156,17 @@
     d: "m15.5 18.88-4.39-2.81-1.086 1.086 5.822 3.726A.75.75 0 0 0 17 20.25V10.18l-1.5 1.5z"
   }));
 
+  const SvgIconNextFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M5.938 4.135A1.25 1.25 0 0 0 4 5.18v13.64a1.25 1.25 0 0 0 1.938 1.044l10.342-6.821a1.25 1.25 0 0 0 0-2.087zM20 4.75a.75.75 0 0 0-1.5 0v14.5a.75.75 0 0 0 1.5 0z"
+  }));
+
   const SvgIconNext = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -10190,7 +10226,9 @@
   exports.IconAttentionFill = SvgIconAttentionFill;
   exports.IconAvocado = SvgIconAvocado;
   exports.IconAvocadoFill = SvgIconAvocadoFill;
+  exports.IconBack = SvgIconBack;
   exports.IconBack10S = SvgIconBack10S;
+  exports.IconBackFill = SvgIconBackFill;
   exports.IconBackspace = SvgIconBackspace;
   exports.IconBackspaceFill = SvgIconBackspaceFill;
   exports.IconBag = SvgIconBag;
@@ -10675,6 +10713,7 @@
   exports.IconMute = SvgIconMute;
   exports.IconMuteFill = SvgIconMuteFill;
   exports.IconNext = SvgIconNext;
+  exports.IconNextFill = SvgIconNextFill;
   exports.IconNotebookCover = SvgIconNotebookCover;
   exports.IconNotebookCoverFill = SvgIconNotebookCoverFill;
   exports.IconNotepad = SvgIconNotepad;
