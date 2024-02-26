@@ -13,7 +13,7 @@ const SvgIconArrowDown = (props) => (
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={1.5}
-      d="m18.25 14.414-5.543 5.543a1 1 0 0 1-1.414 0L5.75 14.414m6.25 5v-15.5"
+      d="M18.25 14 12 20.25 5.75 14M12 19.5V3.75"
     />
   </svg>
 );

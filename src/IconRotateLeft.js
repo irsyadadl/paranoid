@@ -13,7 +13,7 @@ const SvgIconRotateLeft = (props) => (
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={1.5}
-      d="M4.24 14.75a8.25 8.25 0 1 0 7.78-11c-2.816 0-4.699 1.204-6.52 3.259M4.75 4v3.5a.5.5 0 0 0 .5.5h3.5"
+      d="M4.24 14.75a8.25 8.25 0 1 0 7.78-11c-2.816 0-4.7 1.204-6.52 3.259M4.75 4v3.5a.5.5 0 0 0 .5.5h3.5"
     />
   </svg>
 );

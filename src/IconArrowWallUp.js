@@ -13,7 +13,7 @@ const SvgIconArrowWallUp = (props) => (
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={1.5}
-      d="m16.25 10.75-3.72-3.72a.75.75 0 0 0-1.06 0l-3.72 3.72M12 21.25v-14m7.25-4.5H4.75"
+      d="M16.25 11 12 6.75m0 0L7.75 11M12 6.75v14.5m7.25-18.5H4.75"
     />
   </svg>
 );
