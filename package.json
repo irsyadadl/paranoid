@@ -45,6 +45,7 @@
     "@svgr/cli": "^8.1.0",
     "husky": "^8.0.3",
     "prettier": "^3.1.0",
+    "prettier-plugin-tailwindcss": "^0.5.11",
     "release-it": "^17.0.0",
     "rimraf": "^5.0.5",
     "rollup": "^4.6.1",
