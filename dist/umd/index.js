@@ -2339,7 +2339,6 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props), /*#__PURE__*/React__namespace.createElement("path", {
-    fill: "#fff",
     stroke: "currentColor",
     strokeWidth: 1.2,
     d: "M4.4 3.9h-.6v5.802h11.305V21.1H21V3.9z"
