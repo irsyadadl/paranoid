@@ -12,7 +12,7 @@ const SvgIconCompass = (props) => (
       stroke="currentColor"
       strokeLinejoin="round"
       strokeWidth={1.5}
-      d="M16.466 17.152a1 1 0 0 0 .687-.686l3.6-12.6a.5.5 0 0 0-.618-.619l-12.6 3.6a1 1 0 0 0-.688.687l-3.6 12.6a.5.5 0 0 0 .618.619z"
+      d="M16.466 17.153a1 1 0 0 0 .687-.687l3.6-12.6a.5.5 0 0 0-.618-.619l-12.6 3.6a1 1 0 0 0-.688.687l-3.6 12.6a.5.5 0 0 0 .618.619z"
     />
     <path
       stroke="currentColor"

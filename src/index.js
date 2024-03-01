@@ -170,7 +170,7 @@ export { default as IconBrandLinktree } from "./IconBrandLinktree";
 export { default as IconBrandLottielab } from "./IconBrandLottielab";
 export { default as IconBrandMedium } from "./IconBrandMedium";
 export { default as IconBrandOpenai } from "./IconBrandOpenai";
-export { default as IconBrandParsintaWb } from "./IconBrandParsintaWb";
+export { default as IconBrandParanoid } from "./IconBrandParanoid";
 export { default as IconBrandParsinta } from "./IconBrandParsinta";
 export { default as IconBrandPatreon } from "./IconBrandPatreon";
 export { default as IconBrandPinterest } from "./IconBrandPinterest";
