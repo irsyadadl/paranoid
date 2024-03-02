@@ -1,4 +1,8 @@
 import React from 'react';
+export declare const ChevronLgBottom: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const ChevronLgLeft: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const ChevronLgRight: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const ChevronLgTop: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const Icon4K: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const Icon4KFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconAccessible: React.FC<React.SVGProps<SVGSVGElement>>;

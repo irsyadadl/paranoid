@@ -1,3 +1,7 @@
+export { default as ChevronLgBottom } from "./ChevronLgBottom";
+export { default as ChevronLgLeft } from "./ChevronLgLeft";
+export { default as ChevronLgRight } from "./ChevronLgRight";
+export { default as ChevronLgTop } from "./ChevronLgTop";
 export { default as Icon4KFill } from "./Icon4KFill";
 export { default as Icon4K } from "./Icon4K";
 export { default as IconAccessibleFill } from "./IconAccessibleFill";
