@@ -3475,7 +3475,7 @@ const SvgIconChevronLeft = props => /*#__PURE__*/React__namespace.createElement(
   d: "m14 16-4-4 4-4"
 }));
 
-const SvgIconChevronLgBottom = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+const SvgIconChevronLgDown = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
@@ -3511,7 +3511,7 @@ const SvgIconChevronLgRight = props => /*#__PURE__*/React__namespace.createEleme
   d: "m9 4 8 8-8 8"
 }));
 
-const SvgIconChevronLgTop = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+const SvgIconChevronLgUp = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
@@ -13146,10 +13146,10 @@ exports.IconChevronDoubleRight = SvgIconChevronDoubleRight;
 exports.IconChevronDoubleUp = SvgIconChevronDoubleUp;
 exports.IconChevronDown = SvgIconChevronDown;
 exports.IconChevronLeft = SvgIconChevronLeft;
-exports.IconChevronLgBottom = SvgIconChevronLgBottom;
+exports.IconChevronLgDown = SvgIconChevronLgDown;
 exports.IconChevronLgLeft = SvgIconChevronLgLeft;
 exports.IconChevronLgRight = SvgIconChevronLgRight;
-exports.IconChevronLgTop = SvgIconChevronLgTop;
+exports.IconChevronLgUp = SvgIconChevronLgUp;
 exports.IconChevronRight = SvgIconChevronRight;
 exports.IconChevronUp = SvgIconChevronUp;
 exports.IconChevronsUpDown = SvgIconChevronsUpDown;

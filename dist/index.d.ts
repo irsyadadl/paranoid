@@ -257,10 +257,10 @@ export declare const IconChevronDoubleRight: React.FC<React.SVGProps<SVGSVGEleme
 export declare const IconChevronDoubleUp: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronDown: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronLeft: React.FC<React.SVGProps<SVGSVGElement>>;
-export declare const IconChevronLgBottom: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconChevronLgDown: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronLgLeft: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronLgRight: React.FC<React.SVGProps<SVGSVGElement>>;
-export declare const IconChevronLgTop: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconChevronLgUp: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronRight: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronUp: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronsUpDown: React.FC<React.SVGProps<SVGSVGElement>>;
