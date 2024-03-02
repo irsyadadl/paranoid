@@ -23,55 +23,6 @@
 
   var React__namespace = /*#__PURE__*/_interopNamespaceDefault(React);
 
-  const SvgChevronLgBottom = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
-    xmlns: "http://www.w3.org/2000/svg",
-    width: 24,
-    height: 24,
-    fill: "none",
-    viewBox: "0 0 24 24"
-  }, props), /*#__PURE__*/React__namespace.createElement("path", {
-    stroke: "currentColor",
-    strokeWidth: 2,
-    d: "m20 9-8 8-8-8"
-  }));
-
-  const SvgChevronLgLeft = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
-    xmlns: "http://www.w3.org/2000/svg",
-    width: 24,
-    height: 24,
-    fill: "none",
-    viewBox: "0 0 24 24"
-  }, props), /*#__PURE__*/React__namespace.createElement("path", {
-    stroke: "currentColor",
-    strokeWidth: 2,
-    d: "m15 20-8-8 8-8"
-  }));
-
-  const SvgChevronLgRight = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
-    xmlns: "http://www.w3.org/2000/svg",
-    width: 24,
-    height: 24,
-    fill: "none",
-    viewBox: "0 0 24 24"
-  }, props), /*#__PURE__*/React__namespace.createElement("path", {
-    stroke: "currentColor",
-    strokeWidth: 2,
-    d: "m9 4 8 8-8 8"
-  }));
-
-  const SvgChevronLgTop = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
-    xmlns: "http://www.w3.org/2000/svg",
-    width: 24,
-    height: 24,
-    fill: "none",
-    viewBox: "0 0 24 24"
-  }, props), /*#__PURE__*/React__namespace.createElement("path", {
-    fill: "currentColor",
-    fillRule: "evenodd",
-    d: "m12 5.586 8.707 8.707-1.414 1.414L12 8.414l-7.293 7.293-1.414-1.414z",
-    clipRule: "evenodd"
-  }));
-
   const SvgIcon4KFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -3523,6 +3474,55 @@
     strokeLinecap: "square",
     strokeWidth: 2,
     d: "m14 16-4-4 4-4"
+  }));
+
+  const SvgIconChevronLgBottom = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeWidth: 2,
+    d: "m20 9-8 8-8-8"
+  }));
+
+  const SvgIconChevronLgLeft = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeWidth: 2,
+    d: "m15 20-8-8 8-8"
+  }));
+
+  const SvgIconChevronLgRight = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeWidth: 2,
+    d: "m9 4 8 8-8 8"
+  }));
+
+  const SvgIconChevronLgTop = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "m12 5.586 8.707 8.707-1.414 1.414L12 8.414l-7.293 7.293-1.414-1.414z",
+    clipRule: "evenodd"
   }));
 
   const SvgIconChevronRight = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -12889,10 +12889,6 @@
     d: "m20 20-3.873-3.873m0 0A7.25 7.25 0 1 0 5.873 5.873a7.25 7.25 0 0 0 10.253 10.253ZM11 7.75v6.5M14.25 11h-6.5"
   }));
 
-  exports.ChevronLgBottom = SvgChevronLgBottom;
-  exports.ChevronLgLeft = SvgChevronLgLeft;
-  exports.ChevronLgRight = SvgChevronLgRight;
-  exports.ChevronLgTop = SvgChevronLgTop;
   exports.Icon4K = SvgIcon4K;
   exports.Icon4KFill = SvgIcon4KFill;
   exports.IconAccessible = SvgIconAccessible;
@@ -13151,6 +13147,10 @@
   exports.IconChevronDoubleUp = SvgIconChevronDoubleUp;
   exports.IconChevronDown = SvgIconChevronDown;
   exports.IconChevronLeft = SvgIconChevronLeft;
+  exports.IconChevronLgBottom = SvgIconChevronLgBottom;
+  exports.IconChevronLgLeft = SvgIconChevronLgLeft;
+  exports.IconChevronLgRight = SvgIconChevronLgRight;
+  exports.IconChevronLgTop = SvgIconChevronLgTop;
   exports.IconChevronRight = SvgIconChevronRight;
   exports.IconChevronUp = SvgIconChevronUp;
   exports.IconChevronsUpDown = SvgIconChevronsUpDown;

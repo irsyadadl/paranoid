@@ -1,7 +1,3 @@
-export { default as ChevronLgBottom } from "./ChevronLgBottom";
-export { default as ChevronLgLeft } from "./ChevronLgLeft";
-export { default as ChevronLgRight } from "./ChevronLgRight";
-export { default as ChevronLgTop } from "./ChevronLgTop";
 export { default as Icon4KFill } from "./Icon4KFill";
 export { default as Icon4K } from "./Icon4K";
 export { default as IconAccessibleFill } from "./IconAccessibleFill";
@@ -260,6 +256,10 @@ export { default as IconChevronDoubleRight } from "./IconChevronDoubleRight";
 export { default as IconChevronDoubleUp } from "./IconChevronDoubleUp";
 export { default as IconChevronDown } from "./IconChevronDown";
 export { default as IconChevronLeft } from "./IconChevronLeft";
+export { default as IconChevronLgBottom } from "./IconChevronLgBottom";
+export { default as IconChevronLgLeft } from "./IconChevronLgLeft";
+export { default as IconChevronLgRight } from "./IconChevronLgRight";
+export { default as IconChevronLgTop } from "./IconChevronLgTop";
 export { default as IconChevronRight } from "./IconChevronRight";
 export { default as IconChevronUp } from "./IconChevronUp";
 export { default as IconChevronsUpDown } from "./IconChevronsUpDown";
