@@ -172,7 +172,6 @@ export { default as IconBrandLinkedin } from "./IconBrandLinkedin";
 export { default as IconBrandLinktree } from "./IconBrandLinktree";
 export { default as IconBrandLottielab } from "./IconBrandLottielab";
 export { default as IconBrandMedium } from "./IconBrandMedium";
-export { default as IconBrandNextjs } from "./IconBrandNextjs";
 export { default as IconBrandOpenai } from "./IconBrandOpenai";
 export { default as IconBrandParanoid } from "./IconBrandParanoid";
 export { default as IconBrandParsinta } from "./IconBrandParsinta";

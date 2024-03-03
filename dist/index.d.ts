@@ -173,7 +173,6 @@ export declare const IconBrandLinkedin: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLinktree: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLottielab: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandMedium: React.FC<React.SVGProps<SVGSVGElement>>;
-export declare const IconBrandNextjs: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandOpenai: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandParanoid: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandParsinta: React.FC<React.SVGProps<SVGSVGElement>>;

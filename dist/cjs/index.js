@@ -2365,61 +2365,6 @@ const SvgIconBrandMedium = props => /*#__PURE__*/React__namespace.createElement(
   d: "M6.769 18.82c3.738 0 6.768-3.051 6.768-6.815S10.507 5.19 6.769 5.19 0 8.24 0 12.005s3.03 6.815 6.769 6.815m10.809-.4c1.87 0 3.385-2.872 3.385-6.415 0-3.542-1.515-6.415-3.385-6.415s-3.384 2.873-3.384 6.415 1.515 6.415 3.384 6.415m5.232-.667c.657 0 1.19-2.573 1.19-5.748 0-3.174-.532-5.748-1.19-5.748s-1.19 2.574-1.19 5.748.532 5.748 1.19 5.748"
 }));
 
-const SvgIconBrandNextjs = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React__namespace.createElement("g", {
-  className: "icon-brand-nextjs_svg__icon-brand-nextjs"
-}, /*#__PURE__*/React__namespace.createElement("g", {
-  className: "icon-brand-nextjs_svg__Group icon-brand-nextjs_svg__1"
-}, /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "currentColor",
-  d: "M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10",
-  className: "icon-brand-nextjs_svg__Vector"
-}), /*#__PURE__*/React__namespace.createElement("g", {
-  className: "icon-brand-nextjs_svg__Vector"
-}, /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "currentColor",
-  d: "M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10"
-}), /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "url(#icon-brand-nextjs_svg__a)",
-  d: "M18.612 19.502 9.682 8H8v7.997h1.346V9.709l8.21 10.607q.556-.373 1.056-.814"
-}), /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "url(#icon-brand-nextjs_svg__b)",
-  d: "M16.111 8h-1.333v8h1.333z"
-})))), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("linearGradient", {
-  id: "icon-brand-nextjs_svg__a",
-  x1: 13.517,
-  x2: 19.66,
-  y1: 13.277,
-  y2: 22.113,
-  className: "icon-brand-nextjs_svg__a",
-  gradientUnits: "userSpaceOnUse"
-}, /*#__PURE__*/React__namespace.createElement("stop", {
-  stopColor: "#fff"
-}), /*#__PURE__*/React__namespace.createElement("stop", {
-  offset: 1,
-  stopColor: "#fff",
-  stopOpacity: 0
-})), /*#__PURE__*/React__namespace.createElement("linearGradient", {
-  id: "icon-brand-nextjs_svg__b",
-  x1: 15.444,
-  x2: 15.422,
-  y1: 8,
-  y2: 13.875,
-  className: "icon-brand-nextjs_svg__b",
-  gradientUnits: "userSpaceOnUse"
-}, /*#__PURE__*/React__namespace.createElement("stop", {
-  stopColor: "#fff"
-}), /*#__PURE__*/React__namespace.createElement("stop", {
-  offset: 1,
-  stopColor: "#fff",
-  stopOpacity: 0
-}))));
-
 const SvgIconBrandOpenai = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -13326,7 +13271,6 @@ exports.IconBrandLinkedin = SvgIconBrandLinkedin;
 exports.IconBrandLinktree = SvgIconBrandLinktree;
 exports.IconBrandLottielab = SvgIconBrandLottielab;
 exports.IconBrandMedium = SvgIconBrandMedium;
-exports.IconBrandNextjs = SvgIconBrandNextjs;
 exports.IconBrandOpenai = SvgIconBrandOpenai;
 exports.IconBrandParanoid = SvgIconBrandParanoid;
 exports.IconBrandParsinta = SvgIconBrandParsinta;
