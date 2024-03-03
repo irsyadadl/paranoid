@@ -2194,6 +2194,24 @@
     d: "M8.665 22A3.334 3.334 0 0 0 12 18.667v-3.334H8.665a3.335 3.335 0 0 0 0 6.667"
   }));
 
+  const SvgIconBrandFilament = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("g", {
+    className: "icon-brand-filament_svg__icon-brand-filament"
+  }, /*#__PURE__*/React__namespace.createElement("g", {
+    className: "icon-brand-filament_svg__Vector"
+  }, /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M17.7 1.333H4.967a3.633 3.633 0 0 0-3.633 3.633V17.7a3.633 3.633 0 0 0 3.633 3.633h12.735a3.633 3.633 0 0 0 3.633-3.633V4.966A3.633 3.633 0 0 0 17.7 1.333"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#fff",
+    d: "M9.986 4.282c-1.094.18-1.867.653-2.438 1.5-.379.555-.582 1.133-.84 2.364l-.167.785-.778.011-.781.008-.207.988c-.113.54-.215 1.024-.227 1.07l-.02.09.778.008.781.012-.148.703c-.262 1.235-1.363 6.54-1.363 6.563 0 .011.629.02 1.402.02H7.38l.02-.11c.367-1.75 1.379-6.602 1.43-6.844l.066-.332 2.574-.039.2-.937c.109-.516.206-.996.222-1.067l.027-.125H9.232l.129-.625c.199-.96.41-1.324.91-1.57.262-.129.262-.129.848-.129.578.004.593.004 1.011.148.23.082.426.145.434.137.004-.008.156-.515.34-1.133l.332-1.12-.219-.079c-.617-.223-1.183-.316-2.016-.336-.464-.012-.77 0-1.015.04Zm5.847.058c-.652.118-1.09.407-1.328.884-.207.406-.273 1.07-.148 1.449.09.27.324.527.601.664.196.094.278.11.672.121 1.18.04 1.782-.355 2.012-1.309.184-.753-.094-1.445-.684-1.707-.27-.12-.761-.164-1.125-.101Zm-1.207 4.606c-.328.016-.609.043-.628.063-.06.066-.207.648-.184.722.012.04.246.227.52.415l.496.347-.43.031c-.762.055-.762.055-.828.215a1.2 1.2 0 0 0-.063.371l-.008.235.48.336c.364.254.462.34.411.36a5 5 0 0 1-.57.054c-.582.031-.578.031-.656.457-.04.215-.04.273.003.324.032.035.262.207.52.383l.465.32-.266.024a8 8 0 0 1-.523.03c-.38.009-.438.052-.52.388-.09.367-.086.378.5.78l.453.313-.148.024a12 12 0 0 1-.559.047q-.411.023-.472.082c-.079.066-.172.52-.137.644.016.059.203.215.52.434.492.34.492.34.34.344-.454.003-1.005.07-1.06.125-.046.046-.44 1.44-.44 1.558 0 .02.28.031.62.031h.625l.086-.383c.047-.206.086-.382.09-.386s.356-.035.785-.07c.47-.044.817-.09.864-.122.093-.054.199-.492.16-.652-.016-.055-.192-.203-.496-.414-.258-.18-.465-.336-.457-.344.007-.008.261-.031.558-.054.34-.024.563-.059.594-.09.066-.067.172-.528.144-.637-.011-.05-.207-.215-.515-.43l-.496-.343.574-.04c.414-.027.586-.054.629-.097.078-.078.176-.547.137-.652-.016-.047-.243-.231-.504-.41l-.477-.325.23-.027c.126-.016.383-.04.57-.055.4-.027.423-.047.5-.437.04-.176.04-.266.013-.313-.024-.035-.258-.215-.524-.398-.379-.266-.457-.336-.386-.34.05-.008.308-.027.574-.043.344-.024.496-.05.539-.094.031-.031.086-.176.12-.32.052-.227.052-.27 0-.348-.03-.047-.339-.285-.683-.527l-.629-.438.137-.34c.074-.191.133-.347.133-.351 0-.008-.031-.008-.066-.004-.04.004-.34.016-.665.027"
+  }))));
+
   const SvgIconBrandFirefox = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -2251,6 +2269,20 @@
     clipRule: "evenodd"
   }));
 
+  const SvgIconBrandInertiajs = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M8.101 6.743H2.35L7.907 12.3 2.35 17.857H8.1l5.557-5.557L8.1 6.743Z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M16.793 6.743H11.04L16.6 12.3l-5.558 5.557h5.752L22.35 12.3z"
+  }));
+
   const SvgIconBrandInstagram = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -2260,6 +2292,19 @@
   }, props), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
     d: "M12 4.212c2.537 0 2.837.01 3.839.055a5.3 5.3 0 0 1 1.763.327c.413.153.786.395 1.093.711.316.307.558.68.71 1.093.21.564.32 1.16.328 1.763.046 1.002.055 1.303.055 3.839s-.01 2.837-.055 3.839a5.3 5.3 0 0 1-.327 1.763 3.15 3.15 0 0 1-1.804 1.804c-.564.209-1.16.32-1.763.327-1.002.046-1.303.055-3.839.055s-2.837-.01-3.839-.055a5.3 5.3 0 0 1-1.764-.327 2.94 2.94 0 0 1-1.092-.711 2.94 2.94 0 0 1-.71-1.093 5.3 5.3 0 0 1-.328-1.763c-.046-1.002-.055-1.303-.055-3.839s.01-2.837.055-3.839a5.3 5.3 0 0 1 .327-1.763c.153-.413.395-.786.711-1.093.307-.316.68-.558 1.093-.71a5.3 5.3 0 0 1 1.763-.328c1.002-.046 1.303-.055 3.839-.055M12 2.5c-2.58 0-2.904.011-3.917.057a7 7 0 0 0-2.306.441 4.66 4.66 0 0 0-1.683 1.097 4.66 4.66 0 0 0-1.096 1.683 7 7 0 0 0-.44 2.305C2.51 9.096 2.5 9.42 2.5 12s.011 2.903.057 3.917c.016.788.165 1.567.441 2.306a4.66 4.66 0 0 0 1.097 1.683 4.66 4.66 0 0 0 1.683 1.096 7 7 0 0 0 2.305.44c1.013.048 1.337.058 3.917.058s2.903-.011 3.917-.057a7 7 0 0 0 2.306-.441 4.86 4.86 0 0 0 2.779-2.78 7 7 0 0 0 .44-2.305c.048-1.014.058-1.337.058-3.917s-.011-2.904-.057-3.917a7 7 0 0 0-.441-2.306 4.66 4.66 0 0 0-1.097-1.683 4.66 4.66 0 0 0-1.683-1.096 7 7 0 0 0-2.305-.44C14.903 2.51 14.58 2.5 12 2.5m0 4.621a4.879 4.879 0 1 0 0 9.758 4.879 4.879 0 0 0 0-9.758m0 8.046a3.167 3.167 0 1 1 0-6.334 3.167 3.167 0 0 1 0 6.334m5.071-9.378a1.14 1.14 0 1 0 0 2.28 1.14 1.14 0 0 0 0-2.28"
+  }));
+
+  const SvgIconBrandLaravel = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M21.85 6.626a.3.3 0 0 1 .012.083v4.389a.32.32 0 0 1-.161.277l-3.684 2.121V17.7a.32.32 0 0 1-.16.277l-7.689 4.427q-.027.014-.056.023-.01.005-.022.009a.3.3 0 0 1-.164 0l-.025-.01q-.026-.009-.053-.022l-7.687-4.427A.32.32 0 0 1 2 17.7V4.534q0-.044.011-.084l.011-.027q.008-.026.02-.05l.023-.028q.013-.02.028-.037.015-.014.032-.024a.2.2 0 0 1 .035-.028l3.844-2.213a.32.32 0 0 1 .32 0l3.844 2.213q.02.013.036.027.016.011.032.024l.028.038q.012.014.022.028c.01.016.014.033.02.05q.007.013.012.027a.3.3 0 0 1 .011.084v8.223l3.203-1.844V6.709q0-.043.012-.083.005-.014.01-.028.01-.025.022-.05.01-.014.021-.028.014-.02.029-.037l.031-.024q.018-.016.035-.027l3.845-2.214a.32.32 0 0 1 .32 0l3.844 2.214q.02.013.036.027.016.011.031.024.016.018.029.037.012.014.021.029.014.024.021.05.007.013.011.027m-.63 4.287v-3.65l-3.203 1.845v3.65l3.204-1.845Zm-3.843 6.602v-3.652l-7.048 4.023v3.686zM2.64 5.088v12.427l7.047 4.057v-3.686l-3.682-2.083v-.001h-.002q-.018-.013-.035-.027-.016-.011-.03-.024h-.001q-.014-.016-.026-.034-.013-.015-.024-.032-.01-.02-.018-.04-.009-.018-.015-.037-.005-.023-.006-.047-.004-.018-.005-.036V6.932zM6.165 2.69 2.962 4.534l3.202 1.843 3.202-1.844zm3.523 10.436V5.088L6.485 6.932v8.038zm8.01-8.26-3.203 1.843 3.202 1.844L20.9 6.709zm-.321 4.242-3.204-1.845v3.65l3.204 1.844v-3.65Zm-7.369 8.224 7.045-4.022-3.2-1.842-7.042 4.054z",
+    clipRule: "evenodd"
   }));
 
   const SvgIconBrandLemonsqueezy = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -2321,6 +2366,78 @@
     d: "M6.769 18.82c3.738 0 6.768-3.051 6.768-6.815S10.507 5.19 6.769 5.19 0 8.24 0 12.005s3.03 6.815 6.769 6.815m10.809-.4c1.87 0 3.385-2.872 3.385-6.415 0-3.542-1.515-6.415-3.385-6.415s-3.384 2.873-3.384 6.415 1.515 6.415 3.384 6.415m5.232-.667c.657 0 1.19-2.573 1.19-5.748 0-3.174-.532-5.748-1.19-5.748s-1.19 2.574-1.19 5.748.532 5.748 1.19 5.748"
   }));
 
+  const SvgIconBrandNextjs = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("g", {
+    className: "icon-brand-nextjs_svg__icon-brand-nextjs"
+  }, /*#__PURE__*/React__namespace.createElement("g", {
+    className: "icon-brand-nextjs_svg__Mask icon-brand-nextjs_svg__group"
+  }, /*#__PURE__*/React__namespace.createElement("mask", {
+    id: "icon-brand-nextjs_svg__a",
+    width: 20,
+    height: 20,
+    x: 2,
+    y: 2,
+    className: "icon-brand-nextjs_svg__a",
+    maskUnits: "userSpaceOnUse",
+    style: {
+      maskType: "alpha"
+    }
+  }, /*#__PURE__*/React__namespace.createElement("g", {
+    className: "icon-brand-nextjs_svg__Group"
+  }, /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10",
+    className: "icon-brand-nextjs_svg__Vector"
+  }))), /*#__PURE__*/React__namespace.createElement("g", {
+    className: "icon-brand-nextjs_svg__Group",
+    mask: "url(#icon-brand-nextjs_svg__a)"
+  }, /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10",
+    className: "icon-brand-nextjs_svg__Vector"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "url(#icon-brand-nextjs_svg__b)",
+    d: "M18.612 19.502 9.682 8H8v7.997h1.346V9.709l8.21 10.607q.556-.373 1.056-.814",
+    className: "icon-brand-nextjs_svg__Vector"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "url(#icon-brand-nextjs_svg__c)",
+    d: "M16.111 8h-1.333v8h1.333z",
+    className: "icon-brand-nextjs_svg__Vector"
+  })))), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("linearGradient", {
+    id: "icon-brand-nextjs_svg__b",
+    x1: 14.111,
+    x2: 18.056,
+    y1: 14.944,
+    y2: 19.833,
+    className: "icon-brand-nextjs_svg__b",
+    gradientUnits: "userSpaceOnUse"
+  }, /*#__PURE__*/React__namespace.createElement("stop", {
+    stopColor: "#fff"
+  }), /*#__PURE__*/React__namespace.createElement("stop", {
+    offset: 1,
+    stopColor: "#fff",
+    stopOpacity: 0
+  })), /*#__PURE__*/React__namespace.createElement("linearGradient", {
+    id: "icon-brand-nextjs_svg__c",
+    x1: 15.444,
+    x2: 15.422,
+    y1: 8,
+    y2: 13.875,
+    className: "icon-brand-nextjs_svg__c",
+    gradientUnits: "userSpaceOnUse"
+  }, /*#__PURE__*/React__namespace.createElement("stop", {
+    stopColor: "#fff"
+  }), /*#__PURE__*/React__namespace.createElement("stop", {
+    offset: 1,
+    stopColor: "#fff",
+    stopOpacity: 0
+  }))));
+
   const SvgIconBrandOpenai = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -2373,6 +2490,29 @@
     d: "M19.449 11.994c-1.383 1.451-3.11 1.668-4.982 2.085-1.869.408-2.776 1.828-3.39 3.525-.487 1.368-.959 3.307-2.361 4.049-.86.458-1.947.487-2.772-.06-1.313-.91-1.834-2.543-2.143-4.035-.413-1.957-.753-3.964-.794-5.97-.04-1.701.077-3.594.937-5.113C6.628 1.763 15.03.47 19.124 4.055c2.345 2.043 2.535 5.715.325 7.939"
   }));
 
+  const SvgIconBrandPhp = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M11.422 17.046c5.522 0 10-2.27 10-5.068s-4.478-5.068-10-5.068-10 2.268-10 5.068 4.478 5.068 10 5.068",
+    clipRule: "evenodd"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "m13.448 13.616.496-2.554q.168-.863-.276-1.276c-.296-.276-.772-.4-1.486-.4h-.858l.246-1.256a.2.2 0 0 0 0-.072.2.2 0 0 0-.032-.062.15.15 0 0 0-.056-.044.2.2 0 0 0-.07-.016h-1.19a.164.164 0 0 0-.16.132l-.524 2.71a1.54 1.54 0 0 0-.354-.784c-.348-.4-.898-.6-1.636-.6H5.25a.164.164 0 0 0-.16.132l-1.068 5.486a.16.16 0 0 0 .09.178.2.2 0 0 0 .07.016h1.2a.16.16 0 0 0 .16-.132l.258-1.326h.89c.394.01.787-.042 1.166-.152.319-.105.61-.28.854-.512a2.6 2.6 0 0 0 .512-.626l-.214 1.096a.17.17 0 0 0 .034.134.17.17 0 0 0 .126.06h1.186a.164.164 0 0 0 .16-.132l.584-3.012h.804c.346 0 .448.07.476.098s.078.124.018.424l-.47 2.428a.14.14 0 0 0 0 .07.15.15 0 0 0 .032.064.15.15 0 0 0 .124.058h1.2a.16.16 0 0 0 .102-.036.15.15 0 0 0 .056-.094zM7.952 11.51a1.3 1.3 0 0 1-.418.8 1.6 1.6 0 0 1-.976.238h-.536l.382-1.97h.686c.502 0 .706.108.786.2.114.124.138.374.07.722zm10.49-1.516c-.346-.4-.896-.6-1.634-.6H14.51a.164.164 0 0 0-.16.132l-1.066 5.486a.16.16 0 0 0 .09.178.2.2 0 0 0 .07.016h1.2a.16.16 0 0 0 .16-.132l.258-1.326h.89a3.8 3.8 0 0 0 1.164-.152c.32-.104.612-.28.856-.512a2.6 2.6 0 0 0 .518-.648c.134-.245.23-.51.282-.784.136-.698.028-1.256-.324-1.658zM17.28 11.51a1.3 1.3 0 0 1-.418.8 1.6 1.6 0 0 1-.976.238h-.53l.382-1.97h.684c.502 0 .704.108.786.2.112.124.136.374.07.722z",
+    clipRule: "evenodd"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#fff",
+    fillRule: "evenodd",
+    d: "M7.062 10.424q.68-.001.908.25.226.252.108.864a1.45 1.45 0 0 1-.478.908 1.75 1.75 0 0 1-1.076.264h-.728l.446-2.286zm-2.912 4.62h1.2l.272-1.46h1.024a3.6 3.6 0 0 0 1.114-.142c.298-.097.572-.26.8-.476a2.4 2.4 0 0 0 .75-1.344q.2-.978-.286-1.52-.474-.545-1.512-.544h-2.29zm6.04-6.946h1.186l-.284 1.46h1.056q1 0 1.376.346t.228 1.128l-.496 2.552h-1.2l.466-2.426q.081-.415-.06-.566c-.094-.1-.29-.15-.6-.15h-.942l-.61 3.142H9.124zm6.2 2.326q.681-.001.906.25.227.252.108.864a1.44 1.44 0 0 1-.476.908 1.75 1.75 0 0 1-1.076.264h-.728l.446-2.294zm-2.912 4.62h1.2l.284-1.46h1.024a3.6 3.6 0 0 0 1.114-.142c.298-.097.572-.26.8-.476a2.4 2.4 0 0 0 .75-1.344q.19-.977-.286-1.52-.477-.543-1.512-.544h-2.308z",
+    clipRule: "evenodd"
+  }));
+
   const SvgIconBrandPinterest = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -2399,6 +2539,51 @@
     d: "M22 12c0 5.523-4.477 10-10 10S2 17.523 2 12 6.477 2 12 2s10 4.477 10 10M8.5 7h4.833a3.5 3.5 0 0 1 0 7H10.5v3h-2z",
     clipRule: "evenodd"
   }));
+
+  const SvgIconBrandReactjs = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M21.951 11.623c0-1.325-1.659-2.58-4.203-3.359.587-2.593.326-4.655-.823-5.316a1.8 1.8 0 0 0-.913-.228v.909c.187 0 .338.037.465.106.554.318.794 1.529.607 3.086-.045.383-.118.787-.208 1.199a20 20 0 0 0-2.589-.445 20 20 0 0 0-1.696-2.038c1.33-1.235 2.577-1.912 3.425-1.912v-.91c-1.121 0-2.589.8-4.073 2.186-1.484-1.378-2.951-2.169-4.072-2.169v.91c.844 0 2.095.672 3.424 1.899-.57.6-1.141 1.28-1.684 2.034-.92.098-1.793.249-2.592.449a12 12 0 0 1-.212-1.183c-.192-1.557.045-2.768.595-3.09a.9.9 0 0 1 .469-.106v-.909c-.343 0-.653.074-.922.228-1.145.66-1.402 2.72-.81 5.304-2.537.783-4.188 2.034-4.188 3.355 0 1.325 1.66 2.58 4.203 3.36-.587 2.592-.326 4.655.824 5.315.265.155.575.229.917.229 1.121 0 2.589-.8 4.073-2.185 1.484 1.378 2.951 2.168 4.072 2.168.343 0 .653-.073.922-.228 1.145-.66 1.402-2.72.81-5.304 2.528-.778 4.18-2.034 4.18-3.355Zm-5.307-2.719a19 19 0 0 1-.55 1.61 22 22 0 0 0-1.121-1.932q.869.128 1.67.322Zm-1.867 4.342a22 22 0 0 1-.983 1.557 21 21 0 0 1-3.677.004 21 21 0 0 1-1.834-3.172 21.7 21.7 0 0 1 1.826-3.184 21 21 0 0 1 3.677-.003 21 21 0 0 1 1.835 3.172 23 23 0 0 1-.845 1.626Zm1.316-.53c.22.546.408 1.092.563 1.622-.534.13-1.097.24-1.68.327a23 23 0 0 0 1.117-1.95Zm-4.133 4.35a17 17 0 0 1-1.134-1.305c.367.016.742.029 1.121.029q.577.001 1.134-.029a16 16 0 0 1-1.121 1.305m-3.033-2.401a18 18 0 0 1-1.672-.323c.151-.526.338-1.068.55-1.61.168.326.343.652.535.979a27 27 0 0 0 .587.954m3.012-8.484q.57.588 1.133 1.304a25 25 0 0 0-1.12-.028q-.577-.001-1.134.028c.367-.476.746-.913 1.121-1.304M8.922 8.582a23 23 0 0 0-1.117 1.945 18 18 0 0 1-.562-1.623 20 20 0 0 1 1.68-.322Zm-3.689 5.104c-1.443-.616-2.377-1.423-2.377-2.063s.934-1.451 2.377-2.063c.35-.15.734-.285 1.13-.411.232.799.537 1.63.917 2.482a19 19 0 0 0-.905 2.47 12 12 0 0 1-1.142-.415m2.193 5.826c-.554-.318-.795-1.53-.607-3.086.045-.384.118-.787.208-1.199.799.196 1.671.346 2.589.444.55.755 1.12 1.44 1.695 2.039-1.329 1.235-2.576 1.912-3.424 1.912a1 1 0 0 1-.46-.11Zm9.67-3.107c.192 1.557-.045 2.768-.595 3.09a.9.9 0 0 1-.469.106c-.844 0-2.095-.672-3.424-1.9.57-.599 1.141-1.28 1.683-2.034a19 19 0 0 0 2.593-.448q.143.618.212 1.186m1.57-2.719c-.35.15-.734.285-1.13.412a20 20 0 0 0-.917-2.483 19 19 0 0 0 .905-2.47q.607.19 1.146.415c1.443.616 2.376 1.423 2.376 2.063-.004.64-.937 1.452-2.38 2.063"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M11.947 13.486a1.863 1.863 0 1 0 0-3.726 1.863 1.863 0 0 0 0 3.726"
+  }));
+
+  const SvgIconBrandRemix = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("g", {
+    clipPath: "url(#icon-brand-remix_svg__a)"
+  }, /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#212121",
+    d: "M22 2H2v20h20z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#fff",
+    fillRule: "evenodd",
+    d: "M16.699 15.194c.106 1.367.106 2.007.106 2.706h-3.161c0-.152.003-.291.005-.433.009-.439.018-.897-.053-1.821-.094-1.354-.677-1.655-1.75-1.655h-4.97v-2.463h5.122c1.354 0 2.031-.412 2.031-1.503 0-.958-.677-1.54-2.03-1.54H6.874v-2.41h5.686c3.066 0 4.589 1.448 4.589 3.76 0 1.73-1.072 2.859-2.52 3.047 1.222.244 1.937.94 2.069 2.312Z",
+    clipRule: "evenodd"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#fff",
+    d: "M6.875 17.9v-1.836h3.342c.559 0 .68.414.68.66V17.9z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeOpacity: 0.8,
+    strokeWidth: 0.025,
+    d: "M6.863 17.9v.012h4.046v-1.187a.73.73 0 0 0-.132-.43c-.103-.139-.277-.244-.56-.244H6.863z"
+  })), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("clipPath", {
+    id: "icon-brand-remix_svg__a"
+  }, /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#fff",
+    d: "M2 2h20v20H2z"
+  }))));
 
   const SvgIconBrandRive = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
@@ -2472,6 +2657,19 @@
     d: "M12 2C6.475 2 2 6.477 2 12s4.476 10 10 10c5.523 0 10-4.477 10-10S17.523 2 12 2m4.585 14.423a.623.623 0 0 1-.857.207c-2.348-1.435-5.304-1.76-8.785-.964a.624.624 0 0 1-.277-1.216c3.81-.87 7.077-.495 9.713 1.116.293.18.387.563.206.857M17.81 13.7a.78.78 0 0 1-1.072.257c-2.688-1.653-6.786-2.131-9.965-1.166a.78.78 0 0 1-.453-1.492c3.632-1.102 8.147-.568 11.234 1.329a.78.78 0 0 1 .256 1.072m.105-2.836c-3.223-1.914-8.54-2.09-11.617-1.156a.935.935 0 1 1-.543-1.79c3.532-1.072 9.404-.865 13.115 1.338a.934.934 0 1 1-.954 1.608Z"
   }));
 
+  const SvgIconBrandTailwindcss = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M11.993 6c-2.662 0-4.32 1.324-4.99 3.97 1.004-1.323 2.168-1.817 3.506-1.497.756.189 1.31.742 1.905 1.338.975 1.004 2.11 2.153 4.582 2.153 2.662 0 4.335-1.324 5.004-3.971q-1.506 1.985-3.49 1.483c-.757-.189-1.31-.741-1.906-1.338C15.614 7.15 14.48 6 11.993 6m-4.99 5.964c-2.676 0-4.334 1.323-5.003 3.97 1.004-1.323 2.167-1.818 3.505-1.498.757.19 1.31.742 1.906 1.338.974 1.004 2.109 2.153 4.582 2.153 2.662 0 4.334-1.323 5.003-3.97-1.003 1.323-2.167 1.817-3.505 1.483-.756-.19-1.31-.742-1.905-1.338-.975-.99-2.11-2.138-4.582-2.138Z",
+    clipRule: "evenodd"
+  }));
+
   const SvgIconBrandTelegram = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -2503,6 +2701,40 @@
   }, props), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
     d: "M20.714 10.213a8.2 8.2 0 0 1-4.773-1.526v6.986A6.33 6.33 0 0 1 9.611 22a6.3 6.3 0 0 1-3.524-1.07A6.329 6.329 0 0 1 10.48 9.405v3.499a2.895 2.895 0 1 0 2.017 2.769V2h3.444v.44a4.79 4.79 0 0 0 4.773 4.35z"
+  }));
+
+  const SvgIconBrandTurbopack = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M9.737 9.34a.41.41 0 0 0-.41.41v4.554c0 .226.184.41.41.41h4.555a.41.41 0 0 0 .41-.41V9.75a.41.41 0 0 0-.41-.41zM6.452 6.089a.375.375 0 0 0-.375.375V17.59c0 .207.168.375.375.375h11.126a.375.375 0 0 0 .375-.375V6.464a.375.375 0 0 0-.375-.375z",
+    clipRule: "evenodd"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M2 12.213v7.234c0 .485.135.939.37 1.325l2.609-2.608v-5.951zm1.19 9.393 2.585-2.586.055.001h5.698V22H4.553c-.501 0-.97-.145-1.364-.394Zm9.506.394h6.75A2.553 2.553 0 0 0 22 19.447V4.553A2.553 2.553 0 0 0 19.447 2h-7.234v2.979h5.957c.47 0 .851.38.851.85V18.17a.85.85 0 0 1-.85.851h-5.475z",
+    clipRule: "evenodd"
+  }));
+
+  const SvgIconBrandTurborepo = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M11.992 5.496C8.41 5.496 5.494 8.414 5.494 12s2.915 6.503 6.498 6.503 6.499-2.917 6.499-6.503-2.915-6.504-6.499-6.504m0 9.87A3.364 3.364 0 0 1 8.63 12a3.364 3.364 0 1 1 6.726 0 3.364 3.364 0 0 1-3.363 3.366Z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M12.537 4.428V2C17.81 2.282 22 6.652 22 12s-4.19 9.717-9.463 10v-2.428c3.93-.281 7.043-3.568 7.043-7.572s-3.113-7.29-7.043-7.572M6.26 16.965a7.57 7.57 0 0 1-1.833-4.42H2a9.98 9.98 0 0 0 2.543 6.139zM11.447 22v-2.428a7.55 7.55 0 0 1-4.418-1.835l-1.717 1.719A9.96 9.96 0 0 0 11.446 22h.002Z",
+    clipRule: "evenodd"
   }));
 
   const SvgIconBrandTwitch = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -2542,6 +2774,55 @@
     fill: "currentColor",
     d: "M19.766 2.5c.678 1.11.984 2.255.984 3.7 0 4.609-3.97 10.596-7.19 14.8H6.2L3.25 3.51l6.443-.607 1.56 12.446c1.458-2.354 3.257-6.054 3.257-8.576 0-1.381-.239-2.321-.611-3.096z"
   }));
+
+  const SvgIconBrandVercel = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "m12 3 10 17.32H2z"
+  }));
+
+  const SvgIconBrandVscode = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M2.19 8.903s-.486-.352.098-.82L3.65 6.864a.58.58 0 0 1 .8-.052l12.567 9.519v4.566s0 .716-.927.636z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M5.421 11.845 2.19 14.791s-.332.248 0 .69l1.504 1.369s.359.384.887-.052l3.436-2.601-2.596-2.354Zm5.689.025 5.945-4.54-.038-4.53s-.254-1-1.1-.484l-7.91 7.203z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M16.09 21.54a.82.82 0 0 0 .763.237l4.632-2.283c.6-.4.51-.904.51-.904V4.96c0-.601-.612-.801-.612-.801l-4.016-1.941c-.877-.542-1.45.098-1.45.098s.738-.532 1.1.484v18.01a.8.8 0 0 1-.08.356c-.106.212-.334.412-.885.328z"
+  }));
+
+  const SvgIconBrandVuejs = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("g", {
+    clipPath: "url(#icon-brand-vuejs_svg__a)"
+  }, /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#41B883",
+    d: "m14.309 3-2.31 4L9.69 3H2l10 17.32L22 3z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#34495E",
+    d: "m14.309 3-2.31 4L9.69 3H6l6 10.392L18 3z"
+  })), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("clipPath", {
+    id: "icon-brand-vuejs_svg__a"
+  }, /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#fff",
+    d: "M2 3h20v17.32H2z"
+  }))));
 
   const SvgIconBrandWhatsapp = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
@@ -13049,35 +13330,48 @@
   exports.IconBrandDiscord = SvgIconBrandDiscord;
   exports.IconBrandFacebook = SvgIconBrandFacebook;
   exports.IconBrandFigma = SvgIconBrandFigma;
+  exports.IconBrandFilament = SvgIconBrandFilament;
   exports.IconBrandFirefox = SvgIconBrandFirefox;
   exports.IconBrandFramer = SvgIconBrandFramer;
   exports.IconBrandGithub = SvgIconBrandGithub;
   exports.IconBrandGooglePlayStore = SvgIconBrandGooglePlayStore;
   exports.IconBrandGumroad = SvgIconBrandGumroad;
+  exports.IconBrandInertiajs = SvgIconBrandInertiajs;
   exports.IconBrandInstagram = SvgIconBrandInstagram;
+  exports.IconBrandLaravel = SvgIconBrandLaravel;
   exports.IconBrandLemonsqueezy = SvgIconBrandLemonsqueezy;
   exports.IconBrandLinkedin = SvgIconBrandLinkedin;
   exports.IconBrandLinktree = SvgIconBrandLinktree;
   exports.IconBrandLottielab = SvgIconBrandLottielab;
   exports.IconBrandMedium = SvgIconBrandMedium;
+  exports.IconBrandNextjs = SvgIconBrandNextjs;
   exports.IconBrandOpenai = SvgIconBrandOpenai;
   exports.IconBrandParanoid = SvgIconBrandParanoid;
   exports.IconBrandParsinta = SvgIconBrandParsinta;
   exports.IconBrandPatreon = SvgIconBrandPatreon;
+  exports.IconBrandPhp = SvgIconBrandPhp;
   exports.IconBrandPinterest = SvgIconBrandPinterest;
   exports.IconBrandProducthunt = SvgIconBrandProducthunt;
+  exports.IconBrandReactjs = SvgIconBrandReactjs;
+  exports.IconBrandRemix = SvgIconBrandRemix;
   exports.IconBrandRive = SvgIconBrandRive;
   exports.IconBrandSafari = SvgIconBrandSafari;
   exports.IconBrandSketch = SvgIconBrandSketch;
   exports.IconBrandSlack = SvgIconBrandSlack;
   exports.IconBrandSnapchat = SvgIconBrandSnapchat;
   exports.IconBrandSpotify = SvgIconBrandSpotify;
+  exports.IconBrandTailwindcss = SvgIconBrandTailwindcss;
   exports.IconBrandTelegram = SvgIconBrandTelegram;
   exports.IconBrandThreads = SvgIconBrandThreads;
   exports.IconBrandTiktok = SvgIconBrandTiktok;
+  exports.IconBrandTurbopack = SvgIconBrandTurbopack;
+  exports.IconBrandTurborepo = SvgIconBrandTurborepo;
   exports.IconBrandTwitch = SvgIconBrandTwitch;
   exports.IconBrandTwitter = SvgIconBrandTwitter;
   exports.IconBrandVenmo = SvgIconBrandVenmo;
+  exports.IconBrandVercel = SvgIconBrandVercel;
+  exports.IconBrandVscode = SvgIconBrandVscode;
+  exports.IconBrandVuejs = SvgIconBrandVuejs;
   exports.IconBrandWhatsapp = SvgIconBrandWhatsapp;
   exports.IconBrandX = SvgIconBrandX;
   exports.IconBrandYoutube = SvgIconBrandYoutube;
