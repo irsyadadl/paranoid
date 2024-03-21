@@ -1114,6 +1114,35 @@ const SvgIconAttention = props => /*#__PURE__*/React__namespace.createElement("s
   d: "M2.75 20.25 6.565 4.514a1 1 0 0 1 .972-.764h8.442m0 0h.485a1 1 0 0 1 .971.764L21.25 20.25m-5.271-16.5a1 1 0 0 1 .972 1.236L14.098 16.75m-.848 3.5.848-3.5m0 0H4m10.098 0H20"
 }));
 
+const SvgIconAugmentedRealityFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M2.75 5A1.75 1.75 0 0 0 1 6.75v11.5c0 .966.784 1.75 1.75 1.75h4.767c.432 0 .847-.16 1.168-.447L12 16.583l3.315 2.97a1.75 1.75 0 0 0 1.168.447h4.767A1.75 1.75 0 0 0 23 18.25V6.75A1.75 1.75 0 0 0 21.25 5zM7.5 9.375a2.125 2.125 0 1 0 0 4.25 2.125 2.125 0 0 0 0-4.25m6.875 2.125a2.125 2.125 0 1 1 4.25 0 2.125 2.125 0 0 1-4.25 0",
+  clipRule: "evenodd"
+}));
+
+const SvgIconAugmentedReality = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeWidth: 1.5,
+  d: "M1.75 6.75a1 1 0 0 1 1-1h18.5a1 1 0 0 1 1 1v11.5a1 1 0 0 1-1 1h-4.767a1 1 0 0 1-.668-.255l-3.481-3.12a.5.5 0 0 0-.668 0l-3.481 3.12a1 1 0 0 1-.668.255H2.75a1 1 0 0 1-1-1z"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeWidth: 1.5,
+  d: "M9.25 11.5a1.75 1.75 0 1 1-3.5 0 1.75 1.75 0 0 1 3.5 0Zm9 0a1.75 1.75 0 1 1-3.5 0 1.75 1.75 0 0 1 3.5 0Z"
+}));
+
 const SvgIconAvocadoFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -5092,6 +5121,31 @@ const SvgIconCrop = props => /*#__PURE__*/React__namespace.createElement("svg", 
   strokeLinecap: "round",
   strokeWidth: 1.5,
   d: "M2.75 5.75h14.5a1 1 0 0 1 1 1v14.5M5.75 2.75v14.5a1 1 0 0 0 1 1h14.5"
+}));
+
+const SvgIconCubeFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  d: "M11.13 2.32a1.77 1.77 0 0 1 1.74 0l7.25 4.08q.075.042.146.092L12 11.14 3.735 6.49q.07-.048.146-.091zM2.983 7.789a2 2 0 0 0-.006.155v8.112c0 .64.345 1.232.904 1.546l7.25 4.078q.059.033.12.061V12.44L2.983 7.79ZM12.75 21.74q.06-.027.12-.06l7.25-4.078c.558-.314.903-.905.903-1.546V7.944q0-.078-.006-.155l-8.266 4.65v9.302Z"
+}));
+
+const SvgIconCube = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M12 12v8.5m0-8.5L4.5 7.781m7.5 4.22 7.263-4.086m.987.03v8.11a1 1 0 0 1-.51.872l-7.25 4.079a1 1 0 0 1-.98 0l-7.25-4.079a1 1 0 0 1-.51-.871V7.944a1 1 0 0 1 .51-.871l7.25-4.078a1 1 0 0 1 .98 0l7.25 4.078a1 1 0 0 1 .51.871Z"
 }));
 
 const SvgIconCupHotFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -13249,6 +13303,8 @@ exports.IconArrowWallUp = SvgIconArrowWallUp;
 exports.IconArrowWallUpFill = SvgIconArrowWallUpFill;
 exports.IconAttention = SvgIconAttention;
 exports.IconAttentionFill = SvgIconAttentionFill;
+exports.IconAugmentedReality = SvgIconAugmentedReality;
+exports.IconAugmentedRealityFill = SvgIconAugmentedRealityFill;
 exports.IconAvocado = SvgIconAvocado;
 exports.IconAvocadoFill = SvgIconAvocadoFill;
 exports.IconBack = SvgIconBack;
@@ -13544,6 +13600,8 @@ exports.IconCreditCard = SvgIconCreditCard;
 exports.IconCreditCardFill = SvgIconCreditCardFill;
 exports.IconCrop = SvgIconCrop;
 exports.IconCropFill = SvgIconCropFill;
+exports.IconCube = SvgIconCube;
+exports.IconCubeFill = SvgIconCubeFill;
 exports.IconCupHot = SvgIconCupHot;
 exports.IconCupHotFill = SvgIconCupHotFill;
 exports.IconCupStraw = SvgIconCupStraw;
