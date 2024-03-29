@@ -152,11 +152,13 @@ const SvgIconAddToBasketFill = props => /*#__PURE__*/React.createElement("svg", 
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   d: "m21.073 13.594.717-4.134h-.01C21.91 8.7 21.33 8 20.55 8h-2.4l-1.81-4.53a.745.745 0 0 0-.97-.42c-.39.15-.57.59-.42.97l1.59 3.97H7.26l1.59-3.97a.753.753 0 0 0-.42-.97.753.753 0 0 0-.97.42L5.65 8h-2.4c-.77 0-1.36.7-1.23 1.46l1.76 10.09c.14.84.87 1.45 1.72 1.45h6.303a6 6 0 0 1 9.27-7.406"
 }), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   fillRule: "evenodd",
   d: "M17 14a.75.75 0 0 1 .75.75v2.5h2.5a.75.75 0 0 1 0 1.5h-2.5v2.5a.75.75 0 0 1-1.5 0v-2.5h-2.5a.75.75 0 0 1 0-1.5h2.5v-2.5A.75.75 0 0 1 17 14",
   clipRule: "evenodd"
@@ -166,7 +168,7 @@ const SvgIconAddToBasket = props => /*#__PURE__*/React.createElement("svg", _ext
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
   stroke: "currentColor",
@@ -180,11 +182,13 @@ const SvgIconAddToCartFill = props => /*#__PURE__*/React.createElement("svg", _e
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   d: "M21.265 10.505A5.5 5.5 0 0 1 13.05 5H4.716l-.319-1.593A1.75 1.75 0 0 0 2.68 2h-.93a.75.75 0 0 0 0 1.5h.93a.25.25 0 0 1 .245.201l2.179 10.892A1.75 1.75 0 0 0 6.82 16h11.869a1.75 1.75 0 0 0 1.712-1.39zM8 17a2 2 0 1 0 0 4 2 2 0 0 0 0-4m7 2a2 2 0 1 1 4 0 2 2 0 0 1-4 0"
 }), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   fillRule: "evenodd",
   d: "M18.5 2a.75.75 0 0 1 .75.75V5h2.25a.75.75 0 0 1 0 1.5h-2.25v2.25a.75.75 0 0 1-1.5 0V6.5H15.5a.75.75 0 0 1 0-1.5h2.25V2.75A.75.75 0 0 1 18.5 2",
   clipRule: "evenodd"
@@ -194,7 +198,7 @@ const SvgIconAddToCart = props => /*#__PURE__*/React.createElement("svg", _exten
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
   stroke: "currentColor",
@@ -1427,13 +1431,15 @@ const SvgIconBagHeartFill = props => /*#__PURE__*/React.createElement("svg", _ex
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   fillRule: "evenodd",
   d: "M5.691 3c-.925 0-1.69.72-1.747 1.644l-.878 14.5A1.75 1.75 0 0 0 4.812 21h9.021c-.693-.814-1.333-1.937-1.333-3.333 0-1.203.385-2.324 1.173-3.164a3.95 3.95 0 0 1 2.883-1.253c.551 0 1.037.1 1.444.24a4.4 4.4 0 0 1 1.444-.24c.386 0 .772.057 1.143.17l-.531-8.776A1.75 1.75 0 0 0 18.309 3zM9 7.25a.75.75 0 0 1 .75.75 2.25 2.25 0 0 0 4.5 0 .75.75 0 0 1 1.5 0 3.75 3.75 0 1 1-7.5 0A.75.75 0 0 1 9 7.25",
   clipRule: "evenodd"
 }), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   d: "M18 22.03c-.67 0-4-1.81-4-4.36 0-1.92 1.29-2.92 2.56-2.92.62 0 1.11.19 1.44.38.34-.19.83-.38 1.44-.38 1.27 0 2.56 1 2.56 2.92 0 2.56-3.33 4.36-4 4.36m-1.44-5.78c-.53 0-1.06.44-1.06 1.42 0 1.33 1.87 2.52 2.5 2.82.63-.29 2.5-1.49 2.5-2.82 0-.98-.53-1.42-1.06-1.42-.56 0-.91.32-.92.33-.3.28-.77.28-1.05 0 0 0-.35-.32-.91-.32z"
 }));
 
@@ -1441,7 +1447,7 @@ const SvgIconBagHeart = props => /*#__PURE__*/React.createElement("svg", _extend
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
   stroke: "currentColor",
@@ -1552,9 +1558,10 @@ const SvgIconBasketFill = props => /*#__PURE__*/React.createElement("svg", _exte
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   fillRule: "evenodd",
   d: "m21.79 9.46-1.75 10.09c-.15.84-.87 1.45-1.72 1.45H5.5c-.85 0-1.58-.61-1.72-1.45L2.02 9.46C1.89 8.7 2.48 8 3.25 8h2.4l1.81-4.53c.15-.38.59-.57.97-.42s.57.59.42.97L7.26 7.99h9.28l-1.59-3.97c-.15-.38.03-.82.42-.97.38-.15.82.03.97.42L18.15 8h2.4c.78 0 1.36.7 1.23 1.46z",
   clipRule: "evenodd"
@@ -1564,7 +1571,7 @@ const SvgIconBasket = props => /*#__PURE__*/React.createElement("svg", _extends(
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
   stroke: "currentColor",
@@ -9136,9 +9143,10 @@ const SvgIconMoneybagFill = props => /*#__PURE__*/React.createElement("svg", _ex
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   d: "M3.851 19.03C3.294 18.19 3 17.178 3 16c.45-3.15 1.71-5.49 4.51-7.75h8.99v-.064C19.241 10.42 20.541 12.789 21 16c0 1.178-.294 2.19-.851 3.03-.553.834-1.326 1.439-2.195 1.872C16.247 21.756 14.058 22 12 22c-2.059 0-4.247-.245-5.954-1.098-.869-.433-1.642-1.038-2.195-1.872M16.334 3.973c.168-.448-.002-.958-.433-1.163C14.738 2.257 13.433 2 12 2s-2.738.257-3.901.81c-.432.205-.601.715-.433 1.163l1.036 2.764-.035.013h6.666l-.035-.013z"
 }));
 
@@ -9146,7 +9154,7 @@ const SvgIconMoneybag = props => /*#__PURE__*/React.createElement("svg", _extend
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
   stroke: "currentColor",
@@ -13046,9 +13054,10 @@ const SvgIconWalletFill = props => /*#__PURE__*/React.createElement("svg", _exte
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   fillRule: "evenodd",
   d: "M1.95 6a2 2 0 0 1 2-2h14.3c.966 0 1.75.784 1.75 1.75v.75h.2c.966 0 1.75.784 1.75 1.75v10A1.75 1.75 0 0 1 20.2 20H4.7a2.75 2.75 0 0 1-2.75-2.75zm1.5 0a.5.5 0 0 0 .5.5H18.5v-.75a.25.25 0 0 0-.25-.25H3.95a.5.5 0 0 0-.5.5M15 13.25a1.5 1.5 0 1 1 3 0 1.5 1.5 0 0 1-3 0",
   clipRule: "evenodd"
@@ -13058,7 +13067,7 @@ const SvgIconWallet = props => /*#__PURE__*/React.createElement("svg", _extends(
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
-  fill: "currentColor",
+  fill: "none",
   viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React.createElement("path", {
   stroke: "currentColor",
