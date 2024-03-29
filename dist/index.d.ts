@@ -1,5 +1,4 @@
 import React from 'react';
-export declare const Duolingo: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const Icon4K: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const Icon4KFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconAccessible: React.FC<React.SVGProps<SVGSVGElement>>;
@@ -170,6 +169,7 @@ export declare const IconBrandChrome: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandCodepen: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandCopilot: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandDiscord: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBrandDuolingo: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandFacebook: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandFigma: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandFirefox: React.FC<React.SVGProps<SVGSVGElement>>;

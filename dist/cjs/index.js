@@ -22,19 +22,6 @@ function _interopNamespaceDefault(e) {
 
 var React__namespace = /*#__PURE__*/_interopNamespaceDefault(React);
 
-const SvgDuolingo = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
-  xmlns: "http://www.w3.org/2000/svg",
-  width: 24,
-  height: 24,
-  fill: "none",
-  viewBox: "0 0 24 24"
-}, props), /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "currentColor",
-  fillRule: "evenodd",
-  d: "M19.295 11.265a6.565 6.565 0 0 1-4.524 7.024 6.53 6.53 0 0 1-7.725-3.13c-2.542.105-4.85-1.403-5.762-3.723a.78.78 0 0 1 .674-1.06l3.391-.21-.842-2.679a2.22 2.22 0 0 1 .39-2.057 2.2 2.2 0 0 1 1.925-.813q2.763.264 3.67-.021.906-.286 2.967-2.062a2.2 2.2 0 0 1 3.538 1.013L17.83 6.2l2.852-1.754a.773.773 0 0 1 1.159.48c.573 2.408-.437 4.953-2.546 6.338Zm-8.676 8.663-1.548-.742a1.093 1.093 0 0 0-.936 1.974l1.549.741a1.093 1.093 0 0 0 .936-1.974h-.001Zm10.803-4.595a1.084 1.084 0 0 0-1.483.413l-.844 1.497a1.088 1.088 0 0 0 1.894 1.076l.844-1.496a1.094 1.094 0 0 0-.41-1.49Z",
-  clipRule: "evenodd"
-}));
-
 const SvgIcon4KFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -2345,6 +2332,19 @@ const SvgIconBrandDiscord = props => /*#__PURE__*/React__namespace.createElement
 }, props), /*#__PURE__*/React__namespace.createElement("path", {
   fill: "currentColor",
   d: "M19.636 5.023a18.1 18.1 0 0 0-4.539-1.404q-.321.579-.581 1.188a16.8 16.8 0 0 0-5.037 0 13 13 0 0 0-.582-1.188 18.3 18.3 0 0 0-4.542 1.407C1.483 9.3.705 13.465 1.093 17.572A18.3 18.3 0 0 0 6.66 20.38q.677-.916 1.192-1.933a12 12 0 0 1-1.877-.9c.157-.115.311-.234.46-.348a13.02 13.02 0 0 0 11.13 0q.225.186.46.347-.902.535-1.88.903.513 1.017 1.191 1.931a18.2 18.2 0 0 0 5.57-2.808c.457-4.762-.78-8.89-3.27-12.55ZM8.346 15.046c-1.086 0-1.982-.99-1.982-2.207 0-1.218.865-2.217 1.978-2.217s2.002.999 1.983 2.216c-.02 1.218-.874 2.208-1.98 2.208Zm7.309 0c-1.087 0-1.98-.99-1.98-2.207 0-1.218.865-2.217 1.98-2.217s1.996.999 1.977 2.216-.872 2.208-1.978 2.208Z"
+}));
+
+const SvgIconBrandDuolingo = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M19.295 11.265a6.565 6.565 0 0 1-4.524 7.024 6.53 6.53 0 0 1-7.725-3.13c-2.542.105-4.85-1.403-5.762-3.723a.78.78 0 0 1 .674-1.06l3.391-.21-.842-2.679a2.22 2.22 0 0 1 .39-2.057 2.2 2.2 0 0 1 1.925-.813q2.763.264 3.67-.021.906-.286 2.967-2.062a2.2 2.2 0 0 1 3.538 1.013L17.83 6.2l2.852-1.754a.773.773 0 0 1 1.159.48c.573 2.408-.437 4.953-2.546 6.338Zm-8.676 8.663-1.548-.742a1.093 1.093 0 0 0-.936 1.974l1.549.741a1.093 1.093 0 0 0 .936-1.974h-.001Zm10.803-4.595a1.084 1.084 0 0 0-1.483.413l-.844 1.497a1.088 1.088 0 0 0 1.894 1.076l.844-1.496a1.094 1.094 0 0 0-.41-1.49Z",
+  clipRule: "evenodd"
 }));
 
 const SvgIconBrandFacebook = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -13358,7 +13358,6 @@ const SvgIconZoom = props => /*#__PURE__*/React__namespace.createElement("svg", 
   d: "m20 20-3.873-3.873m0 0A7.25 7.25 0 1 0 5.873 5.873a7.25 7.25 0 0 0 10.253 10.253ZM11 7.75v6.5M14.25 11h-6.5"
 }));
 
-exports.Duolingo = SvgDuolingo;
 exports.Icon4K = SvgIcon4K;
 exports.Icon4KFill = SvgIcon4KFill;
 exports.IconAccessible = SvgIconAccessible;
@@ -13529,6 +13528,7 @@ exports.IconBrandChrome = SvgIconBrandChrome;
 exports.IconBrandCodepen = SvgIconBrandCodepen;
 exports.IconBrandCopilot = SvgIconBrandCopilot;
 exports.IconBrandDiscord = SvgIconBrandDiscord;
+exports.IconBrandDuolingo = SvgIconBrandDuolingo;
 exports.IconBrandFacebook = SvgIconBrandFacebook;
 exports.IconBrandFigma = SvgIconBrandFigma;
 exports.IconBrandFirefox = SvgIconBrandFirefox;

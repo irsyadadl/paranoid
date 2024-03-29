@@ -1,4 +1,3 @@
-export { default as Duolingo } from "./Duolingo";
 export { default as Icon4KFill } from "./Icon4KFill";
 export { default as Icon4K } from "./Icon4K";
 export { default as IconAccessibleFill } from "./IconAccessibleFill";
@@ -169,6 +168,7 @@ export { default as IconBrandChrome } from "./IconBrandChrome";
 export { default as IconBrandCodepen } from "./IconBrandCodepen";
 export { default as IconBrandCopilot } from "./IconBrandCopilot";
 export { default as IconBrandDiscord } from "./IconBrandDiscord";
+export { default as IconBrandDuolingo } from "./IconBrandDuolingo";
 export { default as IconBrandFacebook } from "./IconBrandFacebook";
 export { default as IconBrandFigma } from "./IconBrandFigma";
 export { default as IconBrandFirefox } from "./IconBrandFirefox";
