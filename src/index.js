@@ -279,6 +279,7 @@ export { default as IconChart5 } from "./IconChart5";
 export { default as IconChartFill } from "./IconChartFill";
 export { default as IconChart } from "./IconChart";
 export { default as IconCheck } from "./IconCheck";
+export { default as IconChecklist } from "./IconChecklist";
 export { default as IconChevronDoubleDown } from "./IconChevronDoubleDown";
 export { default as IconChevronDoubleLeft } from "./IconChevronDoubleLeft";
 export { default as IconChevronDoubleRight } from "./IconChevronDoubleRight";
