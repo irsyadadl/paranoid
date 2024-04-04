@@ -9262,7 +9262,7 @@ const SvgIconMinus = props => /*#__PURE__*/React__namespace.createElement("svg",
   stroke: "currentColor",
   strokeLinecap: "round",
   strokeWidth: 1.5,
-  d: "M6.75 12h10.5"
+  d: "M3.75 12h16.5"
 }));
 
 const SvgIconMoneybagFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
