@@ -1453,6 +1453,36 @@ const SvgIconBag4 = props => /*#__PURE__*/React__namespace.createElement("svg", 
   d: "M7.252 7.75a.75.75 0 1 0 1.5 0zm8 0a.75.75 0 0 0 1.5 0zm1.498-.5V6.5h-1.5v.75zm-1.5 13V21h1.5v-.75zm-6.5-13V6.5h-1.5v.75zm-1.5 13V21h1.5v-.75zm13-.75H3.75V21h16.5zm-16.5-11h16.5V7H3.75zm16.75.25v10.5H22V8.75zm-17 10.5V8.75H2v10.5zM20.25 8.5a.25.25 0 0 1 .25.25H22A1.75 1.75 0 0 0 20.25 7zM3.75 7A1.75 1.75 0 0 0 2 8.75h1.5a.25.25 0 0 1 .25-.25zm0 12.5a.25.25 0 0 1-.25-.25H2c0 .966.784 1.75 1.75 1.75zm16.5 1.5A1.75 1.75 0 0 0 22 19.25h-1.5a.25.25 0 0 1-.25.25zM8.752 7.75v-3h-1.5v3zm.25-3.25h6V3h-6zm6.25.25v3h1.5v-3zm-.25-.25a.25.25 0 0 1 .25.25h1.5A1.75 1.75 0 0 0 15.002 3zm-6.25.25a.25.25 0 0 1 .25-.25V3a1.75 1.75 0 0 0-1.75 1.75zm6.498 2.5v13h1.5v-13zm-8 0v13h1.5v-13z"
 }));
 
+const SvgIconBagAddFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M8 6a4 4 0 1 1 8 0v1h.887a1.75 1.75 0 0 1 1.731 1.494l.871 5.878A2.25 2.25 0 0 0 16 16.25V17h-.749a2.25 2.25 0 0 0 0 4.5H16v.5H5.409a1.75 1.75 0 0 1-1.731-2.006l1.704-11.5A1.75 1.75 0 0 1 7.112 7H8zm6.5 1V6a2.5 2.5 0 0 0-5 0v1z",
+  clipRule: "evenodd"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  d: "M19 16.25a.75.75 0 0 0-1.5 0v2.25h-2.25a.75.75 0 0 0 0 1.5h2.25v2.25a.75.75 0 0 0 1.5 0V20h2.25a.75.75 0 0 0 0-1.5H19z"
+}));
+
+const SvgIconBagAdd = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M15.25 7.75V6a3.25 3.25 0 0 0-6.5 0v1.75m3.5 13.5H5.409a1 1 0 0 1-.99-1.146l1.705-11.5a1 1 0 0 1 .989-.854h9.774a1 1 0 0 1 .99.853l.65 4.397m-.277 3.25v3m0 0v3m0-3h-3m3 0h3"
+}));
+
 const SvgIconBagBlankFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -7725,6 +7755,34 @@ const SvgIconGif = props => /*#__PURE__*/React__namespace.createElement("svg", _
   d: "M20.25 4.75H3.75a1 1 0 0 0-1 1v12.5a1 1 0 0 0 1 1h16.5a1 1 0 0 0 1-1V5.75a1 1 0 0 0-1-1Z"
 }));
 
+const SvgIconGift2Fill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  d: "M11.25 3h-6.5A1.75 1.75 0 0 0 3 4.75v6.5h4.668A3.57 3.57 0 0 1 7 9.167C7 7.97 7.97 7 9.167 7a3.56 3.56 0 0 1 2.083.668zM3 12.75v6.5c0 .966.784 1.75 1.75 1.75h6.5v-6.794a13.8 13.8 0 0 1-2.843 2.424.75.75 0 0 1-.814-1.26 12.3 12.3 0 0 0 2.928-2.62zM12.75 21h6.5A1.75 1.75 0 0 0 21 19.25v-6.5h-7.521a12.3 12.3 0 0 0 2.928 2.62.75.75 0 0 1-.814 1.26 13.8 13.8 0 0 1-2.843-2.424zM21 11.25v-6.5A1.75 1.75 0 0 0 19.25 3h-6.5v4.668A3.57 3.57 0 0 1 14.833 7C16.03 7 17 7.97 17 9.167a3.56 3.56 0 0 1-.668 2.083z"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  d: "M9.167 8.5c1.15 0 2.083.933 2.083 2.083v.667h-.667A2.083 2.083 0 0 1 8.5 9.167c0-.369.298-.667.667-.667m3.583 2.083v.667h.667c1.15 0 2.083-.933 2.083-2.083a.667.667 0 0 0-.667-.667c-1.15 0-2.083.933-2.083 2.083"
+}));
+
+const SvgIconGift2 = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M8 16c1.648-1.064 2.916-2.363 4-4m0 0c1.084 1.637 2.352 2.936 4 4m-4-4v-1.417M12 12h-1.417A2.833 2.833 0 0 1 7.75 9.167c0-.783.634-1.417 1.417-1.417A2.833 2.833 0 0 1 12 10.583M12 12h1.417a2.833 2.833 0 0 0 2.833-2.833c0-.783-.634-1.417-1.417-1.417A2.833 2.833 0 0 0 12 10.583M12 12v8.25m0-9.667V3.75m0 0H4.75a1 1 0 0 0-1 1V12M12 3.75h7.25a1 1 0 0 1 1 1V12m0 0v7.25a1 1 0 0 1-1 1H12M20.25 12H3.75M12 20.25H4.75a1 1 0 0 1-1-1V12"
+}));
+
 const SvgIconGiftFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -13934,6 +13992,8 @@ exports.IconBag3 = SvgIconBag3;
 exports.IconBag3Fill = SvgIconBag3Fill;
 exports.IconBag4 = SvgIconBag4;
 exports.IconBag4Fill = SvgIconBag4Fill;
+exports.IconBagAdd = SvgIconBagAdd;
+exports.IconBagAddFill = SvgIconBagAddFill;
 exports.IconBagBlank = SvgIconBagBlank;
 exports.IconBagBlankFill = SvgIconBagBlankFill;
 exports.IconBagFill = SvgIconBagFill;
@@ -14393,6 +14453,8 @@ exports.IconGearFill = SvgIconGearFill;
 exports.IconGif = SvgIconGif;
 exports.IconGifFill = SvgIconGifFill;
 exports.IconGift = SvgIconGift;
+exports.IconGift2 = SvgIconGift2;
+exports.IconGift2Fill = SvgIconGift2Fill;
 exports.IconGiftFill = SvgIconGiftFill;
 exports.IconGiroCard = SvgIconGiroCard;
 exports.IconGiroCardFill = SvgIconGiroCardFill;
