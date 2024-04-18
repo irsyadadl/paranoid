@@ -9,11 +9,10 @@ const SvgIconSunsetFill = (props) => (
     {...props}
   >
     <path
-      stroke="currentColor"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      strokeWidth={1.5}
-      d="M3.75 12.25V12a8.25 8.25 0 1 1 16.5 0v.25m-18.5 4h20.5m-15.5 4h10.5"
+      fill="currentColor"
+      fillRule="evenodd"
+      d="M3.75 13a.75.75 0 0 1-.75-.75V12a9 9 0 0 1 18 0v.25a.75.75 0 0 1-.75.75zM1 16.25a.75.75 0 0 1 .75-.75h20.5a.75.75 0 0 1 0 1.5H1.75a.75.75 0 0 1-.75-.75m5 4a.75.75 0 0 1 .75-.75h10.5a.75.75 0 0 1 0 1.5H6.75a.75.75 0 0 1-.75-.75"
+      clipRule="evenodd"
     />
   </svg>
 );
