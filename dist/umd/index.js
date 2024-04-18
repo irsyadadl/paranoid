@@ -2616,6 +2616,17 @@
     d: "M4.91 2.013c.372-.048.75.035 1.067.233l10.846 6.15-2.745 2.77zm-.835.833A2 2 0 0 0 4 3.403v17.192q-.003.284.075.557L13.252 12zm10.012 9.985L4.91 21.985c.372.052.751-.03 1.067-.233l10.846-6.15zm7.108-1.947L17.908 9.02l-3.004 2.979 2.995 2.987 3.288-1.864c1.084-.615 1.084-1.63 0-2.246z"
   }));
 
+  const SvgIconBrandGoogle = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 24"
+  }, props), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M22 12.234C22 17.939 18.029 22 12.164 22 6.54 22 2 17.532 2 12S6.541 2 12.164 2c2.738 0 5.04.988 6.816 2.617l-2.767 2.617C12.594 3.798 5.865 6.379 5.865 12c0 3.488 2.832 6.314 6.299 6.314 4.025 0 5.533-2.838 5.77-4.31h-5.77v-3.44h9.676c.094.513.16 1.005.16 1.67"
+  }));
+
   const SvgIconBrandGumroad = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -14078,6 +14089,7 @@
   exports.IconBrandFirefox = SvgIconBrandFirefox;
   exports.IconBrandFramer = SvgIconBrandFramer;
   exports.IconBrandGithub = SvgIconBrandGithub;
+  exports.IconBrandGoogle = SvgIconBrandGoogle;
   exports.IconBrandGooglePlayStore = SvgIconBrandGooglePlayStore;
   exports.IconBrandGumroad = SvgIconBrandGumroad;
   exports.IconBrandInertiajs = SvgIconBrandInertiajs;

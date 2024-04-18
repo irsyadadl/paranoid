@@ -190,6 +190,7 @@ export declare const IconBrandFigma: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandFirefox: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandFramer: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandGithub: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBrandGoogle: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandGooglePlayStore: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandGumroad: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandInertiajs: React.FC<React.SVGProps<SVGSVGElement>>;

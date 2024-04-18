@@ -190,6 +190,7 @@ export { default as IconBrandFirefox } from "./IconBrandFirefox";
 export { default as IconBrandFramer } from "./IconBrandFramer";
 export { default as IconBrandGithub } from "./IconBrandGithub";
 export { default as IconBrandGooglePlayStore } from "./IconBrandGooglePlayStore";
+export { default as IconBrandGoogle } from "./IconBrandGoogle";
 export { default as IconBrandGumroad } from "./IconBrandGumroad";
 export { default as IconBrandInertiajs } from "./IconBrandInertiajs";
 export { default as IconBrandInstagram } from "./IconBrandInstagram";
