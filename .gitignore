@@ -1,0 +1,17 @@
+/.phpunit.cache
+/node_modules
+.phpunit.result.cache
+Homestead.json
+auth.json
+package-lock.json
+yarn.lock
+.env
+.env.local
+.DS_Store
+npm-debug.log
+yarn-error.log
+/.fleet
+/.idea
+/.vscode
+rr
+.rr.yaml
