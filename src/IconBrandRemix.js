@@ -18,7 +18,7 @@ const SvgIconBrandRemix = (props) => (
       />
       <path
         fill="#fff"
-        d="M6.875 17.9v-1.836h3.342c.559 0 .68.414.68.66V17.9z"
+        d="M6.875 17.9v-1.836h3.342c.559 0 .68.414.68.661V17.9z"
       />
       <path
         stroke="currentColor"
