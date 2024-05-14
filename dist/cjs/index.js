@@ -3305,6 +3305,35 @@ const SvgIconBrokenHeart = props => /*#__PURE__*/React__namespace.createElement(
   d: "M12 5.572c6.333-6.44 17.19 5.52 0 15.178C-5.19 11.092 5.667-.868 12 5.572m0 0c-.88.964-1.512 2.216-2 3.428l3 3-1 3"
 }));
 
+const SvgIconBubbleQuotesFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M2 4.75C2 3.784 2.784 3 3.75 3h16.5c.966 0 1.75.784 1.75 1.75v12.5A1.75 1.75 0 0 1 20.25 19h-4.874a.25.25 0 0 0-.16.058l-2.098 1.738a1.75 1.75 0 0 1-2.24-.007l-2.066-1.73a.25.25 0 0 0-.16-.059H3.75A1.75 1.75 0 0 1 2 17.25zm5.5 5.283C7.5 8.91 8.406 8 9.523 8c1.113 0 2.017.904 2.023 2.02.059 1.15-.184 1.986-.658 2.66-.462.656-1.12 1.12-1.79 1.57a.45.45 0 0 1-.624-.126.453.453 0 0 1 .125-.627c.679-.454 1.201-.837 1.554-1.339q.084-.12.157-.251a2.028 2.028 0 0 1-2.81-1.874m4.945 0c0-1.123.906-2.033 2.023-2.033 1.114 0 2.017.904 2.023 2.02.059 1.15-.184 1.986-.658 2.66-.462.656-1.12 1.12-1.79 1.57a.45.45 0 0 1-.623-.126.453.453 0 0 1 .125-.627c.678-.454 1.2-.837 1.554-1.339q.084-.12.156-.251a2 2 0 0 1-.787.16 2.03 2.03 0 0 1-2.023-2.034",
+  clipRule: "evenodd"
+}));
+
+const SvgIconBubbleQuotes = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M2.75 4.75a1 1 0 0 1 1-1h16.5a1 1 0 0 1 1 1v12.5a1 1 0 0 1-1 1h-4.874a1 1 0 0 0-.638.23l-2.098 1.738a1 1 0 0 1-1.28-.003l-2.066-1.731a1 1 0 0 0-.642-.234H3.75a1 1 0 0 1-1-1z"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  d: "M9.523 8C8.406 8 7.5 8.91 7.5 10.033a2.028 2.028 0 0 0 2.81 1.874q-.072.132-.157.251c-.353.502-.875.885-1.554 1.34a.453.453 0 0 0-.125.626.45.45 0 0 0 .624.125c.67-.449 1.328-.913 1.79-1.569.474-.674.716-1.51.658-2.66A2.03 2.03 0 0 0 9.523 8m4.945 0c-1.117 0-2.023.91-2.023 2.033a2.028 2.028 0 0 0 2.81 1.874q-.072.132-.156.251c-.353.502-.876.885-1.554 1.34a.453.453 0 0 0-.125.626.45.45 0 0 0 .623.125c.67-.449 1.328-.913 1.79-1.569.474-.674.717-1.51.658-2.66A2.03 2.03 0 0 0 14.468 8"
+}));
+
 const SvgIconBugFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -3936,7 +3965,7 @@ const SvgIconChainLinkFill = props => /*#__PURE__*/React__namespace.createElemen
 }, props), /*#__PURE__*/React__namespace.createElement("path", {
   fill: "currentColor",
   fillRule: "evenodd",
-  d: "M6.641 9.298a4.75 4.75 0 0 1 6.718 0l.343.343a4.73 4.73 0 0 1 1.354 2.766.75.75 0 1 1-1.488.186 3.23 3.23 0 0 0-.927-1.891l-.343-.343a3.25 3.25 0 0 0-4.596 0l-3.343 3.343a3.25 3.25 0 0 0 0 4.596l.343.343a3.25 3.25 0 0 0 4.596 0l.172-.171a.75.75 0 1 1 1.06 1.06l-.171.172a4.75 4.75 0 0 1-6.718 0l-.343-.343a4.75 4.75 0 0 1 0-6.718z",
+  d: "M6.641 9.298a4.75 4.75 0 0 1 6.718 0l.343.343a4.73 4.73 0 0 1 1.354 2.766.75.75 0 0 1-1.488.186 3.23 3.23 0 0 0-.927-1.891l-.343-.343a3.25 3.25 0 0 0-4.596 0l-3.343 3.343a3.25 3.25 0 0 0 0 4.596l.343.343a3.25 3.25 0 0 0 4.596 0l.172-.171a.75.75 0 1 1 1.06 1.06l-.171.172a4.75 4.75 0 0 1-6.718 0l-.343-.343a4.75 4.75 0 0 1 0-6.718z",
   clipRule: "evenodd"
 }), /*#__PURE__*/React__namespace.createElement("path", {
   fill: "currentColor",
@@ -3956,7 +3985,7 @@ const SvgIconChainLink = props => /*#__PURE__*/React__namespace.createElement("s
   strokeLinecap: "round",
   strokeLinejoin: "round",
   strokeWidth: 1.5,
-  d: "m10 19-.172.172a4 4 0 0 1-5.657 0l-.343-.344a4 4 0 0 1 0-5.656l3.343-3.344a4 4 0 0 1 5.657 0l.344.344a3.98 3.98 0 0 1 1.14 2.328"
+  d: "m10 19-.172.172a4 4 0 0 1-5.656 0l-.344-.344a4 4 0 0 1 0-5.656l3.344-3.344a4 4 0 0 1 5.656 0l.344.344a4 4 0 0 1 1.14 2.328"
 }), /*#__PURE__*/React__namespace.createElement("path", {
   stroke: "currentColor",
   strokeLinecap: "round",
@@ -11013,26 +11042,54 @@ const SvgIconQrCode = props => /*#__PURE__*/React__namespace.createElement("svg"
   d: "M13 20a1 1 0 1 1 2 0 1 1 0 0 1-2 0"
 }));
 
-const SvgIconQuoteClosing = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+const SvgIconQuoteCloseFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
   fill: "none",
-  viewBox: "0 0 28 28"
+  viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React__namespace.createElement("path", {
   fill: "currentColor",
-  d: "M4.042 11.782c0 2.408 1.731 4.272 3.981 4.272 1.09 0 2.083-.405 2.787-1.213h.298c-.483 1.608-2.012 3.023-4.016 3.568-.281.088-.501.167-.624.299-.15.114-.22.281-.22.492 0 .396.308.677.747.677.352 0 .589-.062 1.037-.202a7.8 7.8 0 0 0 3.13-1.969c1.212-1.274 1.924-2.962 1.924-4.913 0-3.393-2.136-5.353-4.702-5.353-2.479 0-4.342 1.864-4.342 4.342m10.863 0c0 2.408 1.732 4.272 3.982 4.272 1.09 0 2.065-.405 2.786-1.213h.29c-.475 1.608-2.013 3.023-4.017 3.568-.281.088-.492.167-.615.299a.59.59 0 0 0-.229.492c0 .396.317.677.765.677.334 0 .58-.062 1.02-.202a7.8 7.8 0 0 0 3.129-1.969c1.221-1.274 1.933-2.962 1.933-4.913 0-3.393-2.136-5.353-4.702-5.353-2.487 0-4.342 1.864-4.342 4.342"
+  d: "M6.49 5C4.028 5 2 6.95 2 9.396s2.028 4.396 4.49 4.396c.939 0 1.815-.284 2.54-.77a6 6 0 0 1-.776 1.435c-.877 1.207-2.165 2.117-3.776 3.164a.75.75 0 0 0 .818 1.258c1.595-1.037 3.111-2.08 4.172-3.541 1.083-1.494 1.649-3.359 1.512-5.963C10.968 6.939 8.944 5 6.49 5m11 0C15.028 5 13 6.95 13 9.396s2.028 4.396 4.49 4.396c.939 0 1.815-.284 2.54-.77a6 6 0 0 1-.776 1.435c-.877 1.207-2.165 2.117-3.776 3.164a.75.75 0 0 0 .818 1.258c1.595-1.037 3.111-2.08 4.172-3.541 1.083-1.494 1.649-3.359 1.512-5.963C21.968 6.939 19.944 5 17.49 5"
 }));
 
-const SvgIconQuoteOpening = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+const SvgIconQuoteClose = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
   height: 24,
   fill: "none",
-  viewBox: "0 0 28 28"
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M10.23 9.396c0 2.013-1.675 3.646-3.74 3.646s-3.74-1.633-3.74-3.646S4.424 5.75 6.49 5.75c2.065 0 3.74 1.632 3.74 3.646m0 0c.267 4.948-2.137 6.77-5.343 8.854M21.23 9.396c0 2.013-1.675 3.646-3.74 3.646s-3.74-1.633-3.74-3.646 1.674-3.646 3.74-3.646c2.065 0 3.74 1.632 3.74 3.646m0 0c.267 4.948-2.137 6.77-5.343 8.854"
+}));
+
+const SvgIconQuoteOpenFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
 }, props), /*#__PURE__*/React__namespace.createElement("path", {
   fill: "currentColor",
-  d: "M13.086 15.535c0-2.408-1.732-4.271-3.99-4.271-1.081 0-2.066.404-2.786 1.213h-.282c.475-1.609 2.013-3.015 4.017-3.569.281-.088.492-.167.615-.29a.6.6 0 0 0 .229-.5c0-.396-.317-.678-.765-.678-.343 0-.589.062-1.028.203a7.7 7.7 0 0 0-3.12 1.977c-1.222 1.266-1.934 2.953-1.934 4.904 0 3.393 2.136 5.353 4.702 5.353 2.479 0 4.342-1.863 4.342-4.342m10.863 0c0-2.408-1.74-4.271-3.99-4.271-1.081 0-2.074.404-2.786 1.213h-.29c.483-1.609 2.012-3.015 4.016-3.569.282-.088.501-.167.624-.29.15-.123.22-.281.22-.5 0-.396-.307-.678-.756-.678-.351 0-.589.062-1.037.203a7.7 7.7 0 0 0-3.12 1.977c-1.213 1.266-1.925 2.953-1.925 4.904 0 3.393 2.136 5.353 4.694 5.353 2.487 0 4.35-1.863 4.35-4.342"
+  d: "M17.51 19c2.462 0 4.49-1.95 4.49-4.396s-2.028-4.396-4.49-4.396c-.939 0-1.815.284-2.54.771.204-.539.467-1.01.776-1.436.877-1.207 2.165-2.117 3.776-3.164a.75.75 0 0 0-.818-1.258c-1.595 1.037-3.111 2.08-4.172 3.541-1.083 1.494-1.649 3.359-1.512 5.963.012 2.436 2.036 4.375 4.49 4.375m-11 0C8.972 19 11 17.05 11 14.604s-2.028-4.396-4.49-4.396c-.939 0-1.815.284-2.54.771.204-.539.467-1.01.776-1.436.877-1.207 2.165-2.117 3.776-3.164a.75.75 0 1 0-.818-1.258C6.11 6.158 4.593 7.201 3.532 8.662c-1.083 1.494-1.649 3.359-1.512 5.963C2.032 17.061 4.056 19 6.51 19"
+}));
+
+const SvgIconQuoteOpen = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "M13.77 14.604c0-2.013 1.675-3.646 3.74-3.646s3.74 1.633 3.74 3.646-1.674 3.646-3.74 3.646c-2.065 0-3.74-1.632-3.74-3.646m0 0c-.267-4.948 2.137-6.77 5.343-8.854M2.77 14.604c0-2.013 1.675-3.646 3.74-3.646s3.74 1.633 3.74 3.646-1.674 3.646-3.74 3.646c-2.065 0-3.74-1.632-3.74-3.646m0 0c-.267-4.948 2.137-6.77 5.343-8.854"
 }));
 
 const SvgIconRainyFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
@@ -14477,6 +14534,8 @@ exports.IconBreakfestFill = SvgIconBreakfestFill;
 exports.IconBrokenChainLink = SvgIconBrokenChainLink;
 exports.IconBrokenHeart = SvgIconBrokenHeart;
 exports.IconBrokenHeartFill = SvgIconBrokenHeartFill;
+exports.IconBubbleQuotes = SvgIconBubbleQuotes;
+exports.IconBubbleQuotesFill = SvgIconBubbleQuotesFill;
 exports.IconBug = SvgIconBug;
 exports.IconBugFill = SvgIconBugFill;
 exports.IconBuilding = SvgIconBuilding;
@@ -15036,8 +15095,10 @@ exports.IconPuzzle = SvgIconPuzzle;
 exports.IconPuzzleFill = SvgIconPuzzleFill;
 exports.IconQrCode = SvgIconQrCode;
 exports.IconQrCodeFill = SvgIconQrCodeFill;
-exports.IconQuoteClosing = SvgIconQuoteClosing;
-exports.IconQuoteOpening = SvgIconQuoteOpening;
+exports.IconQuoteClose = SvgIconQuoteClose;
+exports.IconQuoteCloseFill = SvgIconQuoteCloseFill;
+exports.IconQuoteOpen = SvgIconQuoteOpen;
+exports.IconQuoteOpenFill = SvgIconQuoteOpenFill;
 exports.IconRainy = SvgIconRainy;
 exports.IconRainyFill = SvgIconRainyFill;
 exports.IconRainyLight = SvgIconRainyLight;
