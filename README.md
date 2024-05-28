@@ -21,11 +21,11 @@ cooked by [irsyadadl](https://parsinta.com/@irsyadadl).
   <a href="https://paranoid.irsyad.co">Explore icons</a>
 </p>
 
-<div align="center">
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-</div>
+<p align="center">
+    <a href="https://www.npmjs.com/package/@irsyadadl/paranoid"><img src="https://img.shields.io/npm/dt/@irsyadadl/paranoid.svg" alt="Total Downloads"></a>
+    <a href="https://github.com/irsyadadl/paranoid/releases"><img src="https://img.shields.io/npm/v/@irsyadadl/paranoid.svg" alt="Latest Release"></a>
+    <a href="https://github.com/irsyadadl/paranoid/blob/master/LICENSE"><img src="https://img.shields.io/npm/l/@irsyadadl/paranoid.svg" alt="License"></a>
+</p>
 
 [![@irsyadadl/paranoid](preview.jpg)]()
 

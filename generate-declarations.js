@@ -12,8 +12,8 @@ fs.readdir(iconsDir, (err, files) => {
   }
 
   const exports = files
-    .filter(file => file.endsWith(".js"))
-    .map(file => {
+    .filter((file) => file.endsWith(".js"))
+    .map((file) => {
       const iconName = path.basename(file, ".js");
       return `export declare const ${iconName}: React.FC<React.SVGProps<SVGSVGElement>>;`;
     });
