@@ -11,8 +11,9 @@ const SvgIconMinus = (props) => (
     <path
       stroke="currentColor"
       strokeLinecap="round"
+      strokeLinejoin="round"
       strokeWidth={2}
-      d="M4 12h16"
+      d="M5 12h14"
     />
   </svg>
 );

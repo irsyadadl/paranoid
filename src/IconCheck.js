@@ -13,7 +13,7 @@ const SvgIconCheck = (props) => (
       strokeLinecap="round"
       strokeLinejoin="round"
       strokeWidth={2}
-      d="m3 15 6.294 5L21 4"
+      d="M20 6 9 17l-5-5"
     />
   </svg>
 );
