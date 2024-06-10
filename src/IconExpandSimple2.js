@@ -12,8 +12,8 @@ const SvgIconExpandSimple2 = (props) => (
       stroke="currentColor"
       strokeLinecap="round"
       strokeLinejoin="round"
-      strokeWidth={2}
-      d="M13 18h4a1 1 0 0 0 1-1v-4M6 11V7a1 1 0 0 1 1-1h4"
+      strokeWidth={1.5}
+      d="M13 18.5h5.5V13M6 11.5V6h5.5"
     />
   </svg>
 );

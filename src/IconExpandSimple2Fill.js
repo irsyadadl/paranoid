@@ -11,7 +11,7 @@ const SvgIconExpandSimple2Fill = (props) => (
     <path
       fill="currentColor"
       fillRule="evenodd"
-      d="M6 12a1 1 0 0 1-1-1V7a2 2 0 0 1 2-2h4a1 1 0 1 1 0 2H7v4a1 1 0 0 1-1 1m6 6a1 1 0 0 1 1-1h4v-4a1 1 0 1 1 2 0v4a2 2 0 0 1-2 2h-4a1 1 0 0 1-1-1"
+      d="M5.75 12a.75.75 0 0 1-.75-.75v-5.5A.75.75 0 0 1 5.75 5h5.5a.75.75 0 0 1 0 1.5H6.5v4.75a.75.75 0 0 1-.75.75M12 18.25a.75.75 0 0 1 .75-.75h4.75v-4.75a.75.75 0 0 1 1.5 0v5.5a.75.75 0 0 1-.75.75h-5.5a.75.75 0 0 1-.75-.75"
       clipRule="evenodd"
     />
   </svg>
