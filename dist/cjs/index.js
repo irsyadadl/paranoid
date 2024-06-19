@@ -4326,6 +4326,68 @@ const SvgIconChevronUp = props => /*#__PURE__*/React__namespace.createElement("s
   d: "m8 14 4-4 4 4"
 }));
 
+const SvgIconChevronsLgDown = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m4.5 5.25 7.5 7.5 7.5-7.5m-15 6 7.5 7.5 7.5-7.5"
+}));
+
+const SvgIconChevronsLgLeft = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m18.75 4.5-7.5 7.5 7.5 7.5m-6-15L5.25 12l7.5 7.5"
+}));
+
+const SvgIconChevronsLgRight = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m5.25 4.5 7.5 7.5-7.5 7.5m6-15 7.5 7.5-7.5 7.5"
+}));
+
+const SvgIconChevronsLgUp = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m4.5 18.75 7.5-7.5 7.5 7.5"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  stroke: "currentColor",
+  strokeLinecap: "round",
+  strokeLinejoin: "round",
+  strokeWidth: 1.5,
+  d: "m4.5 12.75 7.5-7.5 7.5 7.5"
+}));
+
 const SvgIconChevronsUpDown = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -14740,6 +14802,10 @@ exports.IconChevronLgLeft = SvgIconChevronLgLeft;
 exports.IconChevronLgRight = SvgIconChevronLgRight;
 exports.IconChevronRight = SvgIconChevronRight;
 exports.IconChevronUp = SvgIconChevronUp;
+exports.IconChevronsLgDown = SvgIconChevronsLgDown;
+exports.IconChevronsLgLeft = SvgIconChevronsLgLeft;
+exports.IconChevronsLgRight = SvgIconChevronsLgRight;
+exports.IconChevronsLgUp = SvgIconChevronsLgUp;
 exports.IconChevronsUpDown = SvgIconChevronsUpDown;
 exports.IconChevronsX = SvgIconChevronsX;
 exports.IconChevronsY = SvgIconChevronsY;
