@@ -1,5 +1,12 @@
 
 
+## [1.1.0](https://github.com/irsyadadl/paranoid/compare/1.0.50...1.1.0) (2024-06-20)
+
+
+### Features
+
+* adding aria-hidden to every icon ([cf0746f](https://github.com/irsyadadl/paranoid/commit/cf0746f09e85974a2c81b34f60d6b7c42e0cf4c8))
+
 ## [1.0.50](https://github.com/irsyadadl/paranoid/compare/1.0.49...1.0.50) (2024-06-20)
 
 ## [1.0.49](https://github.com/irsyadadl/paranoid/compare/1.0.48...1.0.49) (2024-06-20)
