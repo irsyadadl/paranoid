@@ -7,7 +7,7 @@ const SvgIconArrowTriangleRightFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-  >
+   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M6.535 4.187C5.388 3.613 4 4.427 4 5.735v12.53c0 1.309 1.388 2.122 2.535 1.547l12.505-6.265c1.28-.64 1.28-2.454 0-3.095z"

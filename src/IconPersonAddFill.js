@@ -7,7 +7,7 @@ const SvgIconPersonAddFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-  >
+   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M12 2a4.5 4.5 0 1 0 0 9 4.5 4.5 0 0 0 0-9m4.508 11.826A2.24 2.24 0 0 0 16 15.25V16h-.75a2.25 2.25 0 1 0 0 4.5H16v.5H5.6c-.999 0-1.908-.888-1.659-1.999C4.77 15.315 8.212 12.5 12 12.5c1.664 0 3.211.48 4.508 1.326"

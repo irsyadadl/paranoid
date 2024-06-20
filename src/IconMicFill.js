@@ -7,7 +7,7 @@ const SvgIconMicFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-  >
+   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path fill="currentColor" d="M7 7a5 5 0 0 1 10 0v4.5a5 5 0 0 1-10 0z" />
     <path
       fill="currentColor"

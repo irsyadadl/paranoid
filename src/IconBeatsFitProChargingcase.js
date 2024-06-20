@@ -7,7 +7,7 @@ const SvgIconBeatsFitProChargingcase = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-  >
+   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
     <g clipPath="url(#icon-beats-fit-pro-chargingcase_svg__a)">
       <path
         fill="currentColor"

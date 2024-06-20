@@ -11,7 +11,7 @@
   "scripts": {
     "format": "npx prettier --write .",
     "prebuild": "rimraf src && rimraf dist",
-    "build": "npm run svgr && node generate-declarations.js && rollup -c",
+    "build": "npm run svgr && node add-custom-attr.js && node generate-declarations.js && rollup -c",
     "svgr": "svgr --icon --replace-attr-values '#000=currentColor'  --replace-attr-values '1em={24}' -d src -- ../icons",
     "release": "release-it"
   },

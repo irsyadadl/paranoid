@@ -7,7 +7,7 @@ const SvgIconArchiveFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-  >
+   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M2.75 3a.75.75 0 0 0-.75.75v2.5c0 .414.336.75.75.75h18.5a.75.75 0 0 0 .75-.75v-2.5a.75.75 0 0 0-.75-.75z"

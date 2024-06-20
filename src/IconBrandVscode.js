@@ -7,7 +7,7 @@ const SvgIconBrandVscode = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-  >
+   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M2.19 8.903s-.486-.352.098-.82L3.65 6.864a.58.58 0 0 1 .8-.052l12.567 9.519v4.566s0 .716-.927.636z"

@@ -7,7 +7,7 @@ const SvgIconNotebookCoverFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-  >
+   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M7 2.5H5.25A1.75 1.75 0 0 0 3.5 4.25v15.5c0 .966.784 1.75 1.75 1.75H7z"
