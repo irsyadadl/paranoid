@@ -9,11 +9,8 @@ const SvgIconInvoice = (props) => (
     {...props}
    className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
-      stroke="currentColor"
-      strokeLinecap="round"
-      strokeLinejoin="round"
-      strokeWidth={1.5}
-      d="M8.75 7.75h6.5m-6.5 4h2.5m8 9.5V3.75a1 1 0 0 0-1-1H5.75a1 1 0 0 0-1 1v17.5L7.333 19l2.334 2.25L12 19l2.333 2.25L16.667 19z"
+      fill="currentColor"
+      d="M2.625 12a.75.75 0 1 1 0-1.5H5.25a.75.75 0 1 0 0-1.5h-1.5a2.25 2.25 0 1 1 0-4.5.75.75 0 0 1 1.5 0H6A.75.75 0 0 1 6 6H3.75a.75.75 0 0 0 0 1.5h1.5a2.25 2.25 0 1 1 0 4.5.75.75 0 1 1-1.5 0zM21.75 5.25V18a1.5 1.5 0 0 1-1.5 1.5H3.75a1.5 1.5 0 0 1-1.5-1.5v-3.75a.75.75 0 1 1 1.5 0V18H15v-3H7.5a.75.75 0 1 1 0-1.5H15v-3H9.75a.75.75 0 1 1 0-1.5h10.5V6H9a.75.75 0 0 1 0-1.5h12a.75.75 0 0 1 .75.75M16.5 13.5h3.75v-3H16.5zm3.75 4.5v-3H16.5v3z"
     />
   </svg>
 );
