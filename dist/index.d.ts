@@ -315,6 +315,7 @@ export declare const IconChevronLeft: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronLgDown: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronLgLeft: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronLgRight: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconChevronLgUp: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronRight: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronUp: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconChevronsLgDown: React.FC<React.SVGProps<SVGSVGElement>>;

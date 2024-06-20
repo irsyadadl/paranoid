@@ -314,6 +314,7 @@ export { default as IconChevronLeft } from "./IconChevronLeft";
 export { default as IconChevronLgDown } from "./IconChevronLgDown";
 export { default as IconChevronLgLeft } from "./IconChevronLgLeft";
 export { default as IconChevronLgRight } from "./IconChevronLgRight";
+export { default as IconChevronLgUp } from "./IconChevronLgUp";
 export { default as IconChevronRight } from "./IconChevronRight";
 export { default as IconChevronUp } from "./IconChevronUp";
 export { default as IconChevronsLgDown } from "./IconChevronsLgDown";
