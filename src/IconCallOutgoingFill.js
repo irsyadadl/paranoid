@@ -7,7 +7,7 @@ const SvgIconCallOutgoingFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M4.721 3c-.943 0-1.765.766-1.72 1.769.125 2.717.9 5.39 2.269 7.75a17.1 17.1 0 0 0 6.195 6.195c2.381 1.382 5.021 2.11 7.729 2.258 1.008.055 1.79-.767 1.79-1.722v-3.502a1.75 1.75 0 0 0-1.256-1.679l-2.95-.867a1.75 1.75 0 0 0-1.756.467l-.877.914c-.083.086-.186.086-.245.052a12.3 12.3 0 0 1-4.55-4.55c-.035-.06-.035-.163.051-.246l.914-.877a1.75 1.75 0 0 0 .467-1.756l-.867-2.95A1.75 1.75 0 0 0 8.235 3H4.722Z"

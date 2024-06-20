@@ -7,7 +7,7 @@ const SvgIconBrandRemix = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <g clipPath="url(#icon-brand-remix_svg__a)">
       <path fill="#212121" d="M22 2H2v20h20z" />
       <path

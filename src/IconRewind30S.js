@@ -7,7 +7,7 @@ const SvgIconRewind30S = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M13 .786a.79.79 0 0 0-.46-.712.81.81 0 0 0-.852.108l-2.4 1.964A.78.78 0 0 0 9 2.75a.78.78 0 0 0 .288.604l2.4 1.964c.238.195.57.237.851.108A.79.79 0 0 0 13 4.714V3.558A8.501 8.501 0 0 1 12 20.5 8.5 8.5 0 0 1 5.801 6.184a.75.75 0 0 0-1.094-1.026A9.97 9.97 0 0 0 2 12c0 5.523 4.477 10 10 10s10-4.477 10-10c0-5.185-3.947-9.449-9-9.95z"

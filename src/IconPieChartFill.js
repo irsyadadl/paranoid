@@ -7,7 +7,7 @@ const SvgIconPieChartFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M21.654 14.617A10 10 0 0 0 22 12c0-5.27-4.078-9.589-9.25-9.972v9.442z"

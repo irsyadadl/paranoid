@@ -7,7 +7,7 @@ const SvgIconPizzaFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path fill="currentColor" d="M14 4.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3" />
     <path
       fill="currentColor"

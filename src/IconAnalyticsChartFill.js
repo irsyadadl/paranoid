@@ -7,7 +7,7 @@ const SvgIconAnalyticsChartFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M3 4.75C3 3.784 3.784 3 4.75 3h14.5c.966 0 1.75.784 1.75 1.75v6.5h-4.298l-2.04-3.85a.75.75 0 0 0-1.34.03L9.96 14.574 8.412 11.65a.75.75 0 0 0-.663-.399H3v-6.5Z"

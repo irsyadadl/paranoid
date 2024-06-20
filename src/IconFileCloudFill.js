@@ -7,7 +7,7 @@ const SvgIconFileCloudFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M12 2H5.75A1.75 1.75 0 0 0 4 3.75v9.549A5.2 5.2 0 0 1 5.75 13c1.494 0 2.84.625 3.794 1.622A4.5 4.5 0 0 1 11.854 22h6.396A1.75 1.75 0 0 0 20 20.25V10h-6.25A1.75 1.75 0 0 1 12 8.25z"

@@ -7,7 +7,7 @@ const SvgIconCryptoFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="m8.625 9.907 3.25-1.876a.25.25 0 0 1 .25 0l3.25 1.876a.25.25 0 0 1 .125.217v3.752a.25.25 0 0 1-.125.217l-3.25 1.876a.25.25 0 0 1-.25 0l-3.25-1.876a.25.25 0 0 1-.125-.217v-3.752a.25.25 0 0 1 .125-.217"

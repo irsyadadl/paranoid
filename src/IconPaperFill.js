@@ -7,7 +7,7 @@ const SvgIconPaperFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M11.25 5.377 4.13 3.79A1.75 1.75 0 0 0 2 5.498v12.388c0 .82.569 1.53 1.37 1.708l7.88 1.757zm1.5 15.974 7.88-1.757A1.75 1.75 0 0 0 22 17.886V5.498a1.75 1.75 0 0 0-2.13-1.708l-7.12 1.587z"

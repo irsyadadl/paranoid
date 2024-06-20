@@ -21,7 +21,7 @@ fs.readdir(dir, (err, files) => {
         // Add className and strokeWidth to the svg element, with conditional default classNames
         let updatedData = data.replace(
           /<svg([^>]+)>/,
-          `<svg$1 className={\`paranoid-ic \${props.className ? props.className : "size-5"}\`} strokeWidth={props.strokeWidth || 1.5}>`
+          `<svg$1 className={\`paranoid-ic \${props.className ? props.className : "size-4"}\`} strokeWidth={props.strokeWidth || 1.5}>`
         );
 
         fs.writeFile(filePath, updatedData, "utf8", err => {

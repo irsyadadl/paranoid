@@ -7,7 +7,7 @@ const SvgIconLayers2Fill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M12.777 3.183a1.74 1.74 0 0 0-1.554 0l-8.25 4.104c-1.297.646-1.297 2.505 0 3.15l8.25 4.106c.49.243 1.065.243 1.554 0l8.25-4.105c1.297-.646 1.297-2.505 0-3.15z"

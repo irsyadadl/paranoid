@@ -7,7 +7,7 @@ const SvgIconBatteryLoadingFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M2.75 5h9.063L6.9 11.55a.75.75 0 0 0 .6 1.2H12L7.312 19H2.75A1.75 1.75 0 0 1 1 17.25V6.75C1 5.784 1.784 5 2.75 5"

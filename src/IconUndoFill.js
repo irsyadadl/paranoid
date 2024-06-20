@@ -7,7 +7,7 @@ const SvgIconUndoFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M7.28 3.78a.75.75 0 0 0-1.06-1.06l-3 3a.75.75 0 0 0 0 1.06l3 3a.75.75 0 0 0 1.06-1.06L5.56 7h8.69a5.5 5.5 0 1 1 0 11h-8.5a.75.75 0 0 0 0 1.5h8.5a7 7 0 1 0 0-14H5.56z"

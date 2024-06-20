@@ -30,7 +30,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -49,7 +49,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -69,7 +69,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -89,7 +89,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -106,7 +106,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -122,7 +122,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -151,7 +151,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -172,7 +172,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -194,7 +194,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -208,7 +208,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -225,7 +225,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -244,7 +244,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -261,7 +261,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -280,7 +280,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -297,7 +297,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -311,7 +311,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -328,7 +328,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -342,7 +342,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -356,7 +356,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -370,7 +370,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -384,7 +384,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -400,7 +400,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -417,7 +417,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -436,7 +436,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -456,7 +456,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -473,7 +473,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -490,7 +490,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -506,7 +506,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -523,7 +523,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -537,7 +537,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -554,7 +554,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -568,7 +568,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -591,7 +591,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -610,7 +610,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -624,7 +624,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -640,7 +640,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -656,7 +656,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -673,7 +673,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -689,7 +689,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -706,7 +706,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -723,7 +723,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -739,7 +739,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -756,7 +756,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -772,7 +772,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -789,7 +789,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -805,7 +805,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -822,7 +822,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -836,7 +836,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -853,7 +853,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -867,7 +867,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -884,7 +884,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -898,7 +898,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -915,7 +915,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -929,7 +929,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -946,7 +946,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -962,7 +962,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -979,7 +979,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -995,7 +995,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1012,7 +1012,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1026,7 +1026,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1042,7 +1042,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1056,7 +1056,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1072,7 +1072,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1086,7 +1086,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1102,7 +1102,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1116,7 +1116,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1132,7 +1132,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1148,7 +1148,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1164,7 +1164,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1181,7 +1181,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1197,7 +1197,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1214,7 +1214,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1231,7 +1231,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1247,7 +1247,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1264,7 +1264,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1280,7 +1280,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1297,7 +1297,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1314,7 +1314,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1331,7 +1331,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1347,7 +1347,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1364,7 +1364,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1380,7 +1380,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1397,7 +1397,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1413,7 +1413,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1430,7 +1430,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1444,7 +1444,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1461,7 +1461,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1477,7 +1477,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1494,7 +1494,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1510,7 +1510,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1526,7 +1526,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1540,7 +1540,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1554,7 +1554,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1568,7 +1568,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1582,7 +1582,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1598,7 +1598,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1615,7 +1615,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1631,7 +1631,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1650,7 +1650,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1666,7 +1666,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1688,7 +1688,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1708,7 +1708,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1722,7 +1722,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1739,7 +1739,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1755,7 +1755,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1772,7 +1772,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1788,7 +1788,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1805,7 +1805,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1821,7 +1821,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1837,7 +1837,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1856,7 +1856,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1873,7 +1873,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1887,7 +1887,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1901,7 +1901,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1920,7 +1920,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1937,7 +1937,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1953,7 +1953,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -1969,7 +1969,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -1985,7 +1985,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2004,7 +2004,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2021,7 +2021,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2038,7 +2038,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2055,7 +2055,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2072,7 +2072,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2089,7 +2089,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2106,7 +2106,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2123,7 +2123,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2139,7 +2139,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2155,7 +2155,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2172,7 +2172,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2188,7 +2188,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2204,7 +2204,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2220,7 +2220,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2237,7 +2237,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2253,7 +2253,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2270,7 +2270,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2289,7 +2289,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2306,7 +2306,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2322,7 +2322,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2339,7 +2339,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2355,7 +2355,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2372,7 +2372,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("g", {
     clipPath: "url(#icon-beats-fit-pro-chargingcase-fill_svg__a)"
@@ -2393,7 +2393,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("g", {
     clipPath: "url(#icon-beats-fit-pro-chargingcase_svg__a)"
@@ -2414,7 +2414,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2428,7 +2428,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2442,7 +2442,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2456,7 +2456,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2470,7 +2470,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2486,7 +2486,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2500,7 +2500,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2516,7 +2516,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2531,7 +2531,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2547,7 +2547,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2564,7 +2564,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2580,7 +2580,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2597,7 +2597,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2613,7 +2613,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2630,7 +2630,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2649,7 +2649,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2666,7 +2666,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2680,7 +2680,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2696,7 +2696,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2713,7 +2713,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2729,7 +2729,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2743,7 +2743,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2757,7 +2757,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2771,7 +2771,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2785,7 +2785,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2802,7 +2802,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2818,7 +2818,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2835,7 +2835,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2849,7 +2849,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2863,7 +2863,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2880,7 +2880,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2896,7 +2896,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2913,7 +2913,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2929,7 +2929,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2946,7 +2946,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2963,7 +2963,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -2982,7 +2982,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -2998,7 +2998,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3012,7 +3012,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -3029,7 +3029,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -3046,7 +3046,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -3063,7 +3063,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3077,7 +3077,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -3093,7 +3093,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3109,7 +3109,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3123,7 +3123,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3139,7 +3139,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3155,7 +3155,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3169,7 +3169,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3183,7 +3183,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3199,7 +3199,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3230,7 +3230,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3244,7 +3244,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3261,7 +3261,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3275,7 +3275,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3291,7 +3291,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3305,7 +3305,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3324,7 +3324,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3338,7 +3338,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3352,7 +3352,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3366,7 +3366,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3380,7 +3380,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3394,7 +3394,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3410,7 +3410,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3427,7 +3427,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3441,7 +3441,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3457,7 +3457,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3473,7 +3473,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3487,7 +3487,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3501,7 +3501,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3517,7 +3517,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3533,7 +3533,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3547,7 +3547,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3561,7 +3561,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3575,7 +3575,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3592,7 +3592,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -3607,7 +3607,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3628,7 +3628,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3642,7 +3642,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3658,7 +3658,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3672,7 +3672,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3691,7 +3691,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3708,7 +3708,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("g", {
     clipPath: "url(#icon-brand-remix_svg__a)"
@@ -3742,7 +3742,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3758,7 +3758,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3774,7 +3774,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3790,7 +3790,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3804,7 +3804,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3818,7 +3818,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3832,7 +3832,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3848,7 +3848,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3862,7 +3862,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3876,7 +3876,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3890,7 +3890,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3911,7 +3911,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3930,7 +3930,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3949,7 +3949,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3963,7 +3963,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3977,7 +3977,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -3991,7 +3991,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4005,7 +4005,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4025,7 +4025,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4041,7 +4041,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4060,7 +4060,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4074,7 +4074,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4090,7 +4090,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4104,7 +4104,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4120,7 +4120,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4134,7 +4134,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4148,7 +4148,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4162,7 +4162,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4176,7 +4176,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4193,7 +4193,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4209,7 +4209,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4228,7 +4228,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4244,7 +4244,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4261,7 +4261,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4277,7 +4277,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4294,7 +4294,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4308,7 +4308,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4322,7 +4322,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4339,7 +4339,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("circle", {
     cx: 12,
@@ -4357,7 +4357,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4373,7 +4373,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4389,7 +4389,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4405,7 +4405,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4427,7 +4427,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4443,7 +4443,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4459,7 +4459,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4473,7 +4473,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4490,7 +4490,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4506,7 +4506,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4523,7 +4523,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4545,7 +4545,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4562,7 +4562,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4576,7 +4576,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4592,7 +4592,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4609,7 +4609,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4625,7 +4625,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4642,7 +4642,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4661,7 +4661,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4678,7 +4678,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4695,7 +4695,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4714,7 +4714,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4731,7 +4731,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4745,7 +4745,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4764,7 +4764,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4783,7 +4783,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4800,7 +4800,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4819,7 +4819,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4836,7 +4836,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4852,7 +4852,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4871,7 +4871,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4888,7 +4888,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4911,7 +4911,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4927,7 +4927,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4944,7 +4944,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -4958,7 +4958,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -4982,7 +4982,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5003,7 +5003,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5026,7 +5026,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5040,7 +5040,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5057,7 +5057,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5071,7 +5071,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5088,7 +5088,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5102,7 +5102,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5116,7 +5116,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5130,7 +5130,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5144,7 +5144,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5158,7 +5158,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5175,7 +5175,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5192,7 +5192,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5209,7 +5209,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5226,7 +5226,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5243,7 +5243,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5260,7 +5260,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5277,7 +5277,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5294,7 +5294,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5311,7 +5311,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5328,7 +5328,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5345,7 +5345,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5362,7 +5362,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5379,7 +5379,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5396,7 +5396,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5413,7 +5413,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5430,7 +5430,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5447,7 +5447,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5464,7 +5464,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5487,7 +5487,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5504,7 +5504,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5521,7 +5521,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5538,7 +5538,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5555,7 +5555,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5571,7 +5571,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5587,7 +5587,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5604,7 +5604,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5620,7 +5620,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5637,7 +5637,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5653,7 +5653,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5669,7 +5669,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5686,7 +5686,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5703,7 +5703,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5719,7 +5719,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5736,7 +5736,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5752,7 +5752,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5768,7 +5768,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5785,7 +5785,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5802,7 +5802,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5818,7 +5818,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5835,7 +5835,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5851,7 +5851,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5868,7 +5868,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5884,7 +5884,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5906,7 +5906,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5922,7 +5922,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5942,7 +5942,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5958,7 +5958,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -5975,7 +5975,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -5991,7 +5991,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6007,7 +6007,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6023,7 +6023,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6049,7 +6049,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6065,7 +6065,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6081,7 +6081,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6097,7 +6097,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6113,7 +6113,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6132,7 +6132,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("circle", {
     cx: 12,
@@ -6152,7 +6152,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6168,7 +6168,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6187,7 +6187,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6203,7 +6203,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6219,7 +6219,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6235,7 +6235,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6259,7 +6259,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6275,7 +6275,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6292,7 +6292,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6308,7 +6308,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6327,7 +6327,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6343,7 +6343,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6359,7 +6359,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6375,7 +6375,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6392,7 +6392,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6408,7 +6408,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6425,7 +6425,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6441,7 +6441,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6458,7 +6458,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6472,7 +6472,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6488,7 +6488,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6504,7 +6504,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6526,7 +6526,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6540,7 +6540,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6556,7 +6556,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6572,7 +6572,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6589,7 +6589,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6603,7 +6603,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6617,7 +6617,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6633,7 +6633,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6649,7 +6649,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6669,7 +6669,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6686,7 +6686,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6702,7 +6702,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6718,7 +6718,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6735,7 +6735,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6752,7 +6752,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6766,7 +6766,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6783,7 +6783,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6800,7 +6800,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6817,7 +6817,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6833,7 +6833,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6852,7 +6852,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6868,7 +6868,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6882,7 +6882,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6898,7 +6898,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6913,7 +6913,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6932,7 +6932,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6946,7 +6946,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -6962,7 +6962,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -6983,7 +6983,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7002,7 +7002,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7016,7 +7016,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7032,7 +7032,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7049,7 +7049,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7065,7 +7065,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7082,7 +7082,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7098,7 +7098,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7117,7 +7117,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7133,7 +7133,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7150,7 +7150,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7169,7 +7169,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7185,7 +7185,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7201,7 +7201,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7218,7 +7218,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7237,7 +7237,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7260,7 +7260,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7274,7 +7274,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7291,7 +7291,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7310,7 +7310,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7326,7 +7326,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7342,7 +7342,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7359,7 +7359,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7375,7 +7375,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7392,7 +7392,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7408,7 +7408,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7425,7 +7425,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7439,7 +7439,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7453,7 +7453,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7470,7 +7470,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7484,7 +7484,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7501,7 +7501,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7515,7 +7515,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7532,7 +7532,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7546,7 +7546,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7562,7 +7562,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7581,7 +7581,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7597,7 +7597,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7614,7 +7614,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7633,7 +7633,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7650,7 +7650,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7667,7 +7667,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7683,7 +7683,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7700,7 +7700,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7714,7 +7714,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7731,7 +7731,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7747,7 +7747,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7764,7 +7764,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7783,7 +7783,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7800,7 +7800,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7816,7 +7816,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7833,7 +7833,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7852,7 +7852,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7868,7 +7868,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7889,7 +7889,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7915,7 +7915,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7929,7 +7929,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -7949,7 +7949,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7966,7 +7966,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -7983,7 +7983,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8000,7 +8000,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8016,7 +8016,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8033,7 +8033,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8049,7 +8049,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8066,7 +8066,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8082,7 +8082,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8099,7 +8099,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8116,7 +8116,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8130,7 +8130,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8146,7 +8146,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8165,7 +8165,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8179,7 +8179,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8195,7 +8195,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8212,7 +8212,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8228,7 +8228,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8245,7 +8245,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8261,7 +8261,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8278,7 +8278,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8294,7 +8294,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8311,7 +8311,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8331,7 +8331,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8348,7 +8348,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8364,7 +8364,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8383,7 +8383,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8397,7 +8397,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8411,7 +8411,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8428,7 +8428,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8445,7 +8445,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8462,7 +8462,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8479,7 +8479,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8501,7 +8501,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8518,7 +8518,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8537,7 +8537,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8554,7 +8554,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8571,7 +8571,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8594,7 +8594,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8611,7 +8611,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8633,7 +8633,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8647,7 +8647,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8666,7 +8666,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8682,7 +8682,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8701,7 +8701,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8716,7 +8716,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8733,7 +8733,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8752,7 +8752,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8769,7 +8769,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8785,7 +8785,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8802,7 +8802,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8818,7 +8818,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8834,7 +8834,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8850,7 +8850,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8867,7 +8867,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8883,7 +8883,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8900,7 +8900,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8914,7 +8914,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8930,7 +8930,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8946,7 +8946,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -8963,7 +8963,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8977,7 +8977,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -8991,7 +8991,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9010,7 +9010,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9026,7 +9026,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9042,7 +9042,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9059,7 +9059,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9075,7 +9075,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9092,7 +9092,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9114,7 +9114,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9131,7 +9131,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9148,7 +9148,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9165,7 +9165,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9186,7 +9186,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9203,7 +9203,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9219,7 +9219,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9233,7 +9233,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9252,7 +9252,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9274,7 +9274,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9295,7 +9295,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9312,7 +9312,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9328,7 +9328,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9345,7 +9345,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9359,7 +9359,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9382,7 +9382,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9399,7 +9399,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9415,7 +9415,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9432,7 +9432,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9448,7 +9448,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9464,7 +9464,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9483,7 +9483,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9500,7 +9500,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9519,7 +9519,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9535,7 +9535,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9549,7 +9549,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9566,7 +9566,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9583,7 +9583,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9599,7 +9599,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9616,7 +9616,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9632,7 +9632,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9652,7 +9652,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9666,7 +9666,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9680,7 +9680,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9697,7 +9697,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9711,7 +9711,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9728,7 +9728,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9744,7 +9744,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9764,7 +9764,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9780,7 +9780,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9797,7 +9797,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9816,7 +9816,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9832,7 +9832,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9848,7 +9848,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9869,7 +9869,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9885,7 +9885,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9904,7 +9904,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9921,7 +9921,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9938,7 +9938,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9954,7 +9954,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -9970,7 +9970,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -9986,7 +9986,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10003,7 +10003,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10019,7 +10019,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10036,7 +10036,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10052,7 +10052,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10069,7 +10069,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10083,7 +10083,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10099,7 +10099,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10115,7 +10115,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10132,7 +10132,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10149,7 +10149,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10166,7 +10166,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10183,7 +10183,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10200,7 +10200,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10216,7 +10216,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10233,7 +10233,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10247,7 +10247,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10264,7 +10264,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10281,7 +10281,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10297,7 +10297,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10314,7 +10314,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10333,7 +10333,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10353,7 +10353,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10372,7 +10372,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10394,7 +10394,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10408,7 +10408,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10422,7 +10422,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10439,7 +10439,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10455,7 +10455,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10472,7 +10472,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10486,7 +10486,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10502,7 +10502,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10516,7 +10516,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10530,7 +10530,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10547,7 +10547,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10564,7 +10564,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10578,7 +10578,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10594,7 +10594,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10610,7 +10610,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10626,7 +10626,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10642,7 +10642,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10663,7 +10663,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10679,7 +10679,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10696,7 +10696,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10713,7 +10713,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10727,7 +10727,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10741,7 +10741,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10755,7 +10755,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10771,7 +10771,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10785,7 +10785,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10801,7 +10801,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10818,7 +10818,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10834,7 +10834,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10851,7 +10851,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10867,7 +10867,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10884,7 +10884,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10900,7 +10900,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10917,7 +10917,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10933,7 +10933,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10949,7 +10949,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10966,7 +10966,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -10983,7 +10983,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -10999,7 +10999,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11016,7 +11016,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11030,7 +11030,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11044,7 +11044,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11058,7 +11058,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11075,7 +11075,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11091,7 +11091,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11112,7 +11112,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11128,7 +11128,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11150,7 +11150,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11169,7 +11169,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11191,7 +11191,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11210,7 +11210,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11232,7 +11232,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11248,7 +11248,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11269,7 +11269,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11288,7 +11288,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11304,7 +11304,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11326,7 +11326,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11348,7 +11348,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11365,7 +11365,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11382,7 +11382,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11399,7 +11399,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11413,7 +11413,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11430,7 +11430,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11444,7 +11444,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11461,7 +11461,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11478,7 +11478,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11495,7 +11495,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11512,7 +11512,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11526,7 +11526,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11540,7 +11540,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11556,7 +11556,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11572,7 +11572,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11588,7 +11588,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11605,7 +11605,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11624,7 +11624,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11640,7 +11640,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11661,7 +11661,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11677,7 +11677,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11694,7 +11694,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11710,7 +11710,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11727,7 +11727,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11741,7 +11741,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11758,7 +11758,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11774,7 +11774,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11791,7 +11791,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11810,7 +11810,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11824,7 +11824,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11841,7 +11841,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11860,7 +11860,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11877,7 +11877,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11899,7 +11899,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11915,7 +11915,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11932,7 +11932,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11946,7 +11946,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11963,7 +11963,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -11979,7 +11979,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -11996,7 +11996,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12012,7 +12012,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12035,7 +12035,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12051,7 +12051,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12068,7 +12068,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12084,7 +12084,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12101,7 +12101,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12118,7 +12118,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12132,7 +12132,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12149,7 +12149,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12166,7 +12166,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12182,7 +12182,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12199,7 +12199,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12215,7 +12215,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12232,7 +12232,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12252,7 +12252,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12269,7 +12269,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12286,7 +12286,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12300,7 +12300,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12316,7 +12316,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12330,7 +12330,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12347,7 +12347,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12366,7 +12366,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12380,7 +12380,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12396,7 +12396,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12413,7 +12413,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12427,7 +12427,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12444,7 +12444,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12458,7 +12458,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12474,7 +12474,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12488,7 +12488,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12507,7 +12507,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12521,7 +12521,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12538,7 +12538,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12557,7 +12557,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12574,7 +12574,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12590,7 +12590,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12607,7 +12607,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12623,7 +12623,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12640,7 +12640,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12656,7 +12656,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12673,7 +12673,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12687,7 +12687,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12704,7 +12704,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12720,7 +12720,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12737,7 +12737,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12753,7 +12753,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12776,7 +12776,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12790,7 +12790,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12806,7 +12806,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12822,7 +12822,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12839,7 +12839,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12855,7 +12855,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12872,7 +12872,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12886,7 +12886,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12900,7 +12900,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12914,7 +12914,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12931,7 +12931,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12948,7 +12948,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12964,7 +12964,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -12980,7 +12980,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -12999,7 +12999,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13016,7 +13016,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13030,7 +13030,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13046,7 +13046,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13065,7 +13065,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13079,7 +13079,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13093,7 +13093,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13110,7 +13110,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13127,7 +13127,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13144,7 +13144,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13161,7 +13161,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13178,7 +13178,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13192,7 +13192,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13209,7 +13209,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13226,7 +13226,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13242,7 +13242,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13259,7 +13259,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13276,7 +13276,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13297,7 +13297,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13320,7 +13320,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13337,7 +13337,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13353,7 +13353,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13367,7 +13367,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13384,7 +13384,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13398,7 +13398,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13415,7 +13415,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13429,7 +13429,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13446,7 +13446,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13469,7 +13469,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13486,7 +13486,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13500,7 +13500,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13516,7 +13516,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13530,7 +13530,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13547,7 +13547,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13564,7 +13564,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13578,7 +13578,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13594,7 +13594,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13610,7 +13610,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13631,7 +13631,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13647,7 +13647,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13664,7 +13664,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13678,7 +13678,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13695,7 +13695,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13714,7 +13714,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13733,7 +13733,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13747,7 +13747,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13764,7 +13764,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13778,7 +13778,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13795,7 +13795,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13809,7 +13809,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13823,7 +13823,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13839,7 +13839,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13856,7 +13856,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13870,7 +13870,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13884,7 +13884,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13900,7 +13900,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13916,7 +13916,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13935,7 +13935,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -13952,7 +13952,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13968,7 +13968,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -13987,7 +13987,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14001,7 +14001,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14018,7 +14018,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14032,7 +14032,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14049,7 +14049,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14068,7 +14068,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14088,7 +14088,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14102,7 +14102,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14119,7 +14119,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14136,7 +14136,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14150,7 +14150,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14167,7 +14167,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14181,7 +14181,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14197,7 +14197,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14213,7 +14213,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14230,7 +14230,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14246,7 +14246,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14263,7 +14263,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14279,7 +14279,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14296,7 +14296,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14318,7 +14318,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14335,7 +14335,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14357,7 +14357,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14374,7 +14374,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14390,7 +14390,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14407,7 +14407,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14429,7 +14429,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14446,7 +14446,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14460,7 +14460,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14477,7 +14477,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14491,7 +14491,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14508,7 +14508,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14522,7 +14522,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14539,7 +14539,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14555,7 +14555,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14572,7 +14572,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14586,7 +14586,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14600,7 +14600,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14616,7 +14616,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14657,7 +14657,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14673,7 +14673,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14690,7 +14690,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14706,7 +14706,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14723,7 +14723,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14742,7 +14742,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14763,7 +14763,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14780,7 +14780,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14797,7 +14797,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14811,7 +14811,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14828,7 +14828,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14842,7 +14842,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14858,7 +14858,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14872,7 +14872,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14889,7 +14889,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14908,7 +14908,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14927,7 +14927,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14944,7 +14944,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14961,7 +14961,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -14975,7 +14975,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -14991,7 +14991,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15007,7 +15007,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15028,7 +15028,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15044,7 +15044,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15061,7 +15061,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15077,7 +15077,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15094,7 +15094,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15108,7 +15108,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15124,7 +15124,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15141,7 +15141,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15158,7 +15158,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15175,7 +15175,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15194,7 +15194,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15216,7 +15216,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15230,7 +15230,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15247,7 +15247,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15263,7 +15263,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15280,7 +15280,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15296,7 +15296,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15313,7 +15313,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15330,7 +15330,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15346,7 +15346,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15363,7 +15363,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15379,7 +15379,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15396,7 +15396,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15410,7 +15410,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15429,7 +15429,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15443,7 +15443,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15460,7 +15460,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15474,7 +15474,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15491,7 +15491,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15507,7 +15507,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15524,7 +15524,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15540,7 +15540,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15557,7 +15557,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15573,7 +15573,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15590,7 +15590,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15606,7 +15606,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15629,7 +15629,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15645,7 +15645,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15659,7 +15659,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15675,7 +15675,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15692,7 +15692,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15708,7 +15708,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15722,7 +15722,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15738,7 +15738,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15752,7 +15752,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15766,7 +15766,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15780,7 +15780,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15797,7 +15797,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15814,7 +15814,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15830,7 +15830,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15847,7 +15847,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15863,7 +15863,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15885,7 +15885,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15901,7 +15901,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15918,7 +15918,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15934,7 +15934,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15950,7 +15950,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15966,7 +15966,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -15983,7 +15983,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -15999,7 +15999,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16016,7 +16016,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16032,7 +16032,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16049,7 +16049,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16066,7 +16066,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16085,7 +16085,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16102,7 +16102,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16116,7 +16116,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16133,7 +16133,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16147,7 +16147,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16164,7 +16164,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16180,7 +16180,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16197,7 +16197,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16211,7 +16211,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16228,7 +16228,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16244,7 +16244,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16261,7 +16261,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16277,7 +16277,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16294,7 +16294,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16310,7 +16310,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16327,7 +16327,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16343,7 +16343,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16360,7 +16360,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16374,7 +16374,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16391,7 +16391,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16405,7 +16405,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16422,7 +16422,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16438,7 +16438,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16454,7 +16454,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16470,7 +16470,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16487,7 +16487,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16503,7 +16503,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16520,7 +16520,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16536,7 +16536,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16550,7 +16550,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16566,7 +16566,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16580,7 +16580,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16597,7 +16597,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16611,7 +16611,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16628,7 +16628,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16645,7 +16645,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16662,7 +16662,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16679,7 +16679,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16696,7 +16696,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16712,7 +16712,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16733,7 +16733,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16749,7 +16749,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16765,7 +16765,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16781,7 +16781,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16797,7 +16797,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16811,7 +16811,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("g", {
     clipPath: "url(#icon-umbrella_svg__a)"
@@ -16835,7 +16835,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16849,7 +16849,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16866,7 +16866,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16882,7 +16882,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16899,7 +16899,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16913,7 +16913,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16930,7 +16930,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16947,7 +16947,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16963,7 +16963,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -16980,7 +16980,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -16999,7 +16999,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17016,7 +17016,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17032,7 +17032,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17049,7 +17049,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17065,7 +17065,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17084,7 +17084,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17101,7 +17101,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17117,7 +17117,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17136,7 +17136,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17152,7 +17152,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17168,7 +17168,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17185,7 +17185,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17201,7 +17201,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17218,7 +17218,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17237,7 +17237,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17254,7 +17254,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17268,7 +17268,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17285,7 +17285,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17301,7 +17301,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17315,7 +17315,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17332,7 +17332,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17346,7 +17346,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17363,7 +17363,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17377,7 +17377,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17391,7 +17391,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17405,7 +17405,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17422,7 +17422,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17438,7 +17438,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17454,7 +17454,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17470,7 +17470,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17486,7 +17486,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17502,7 +17502,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17519,7 +17519,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17538,7 +17538,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17555,7 +17555,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17569,7 +17569,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17586,7 +17586,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17610,7 +17610,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17627,7 +17627,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17646,7 +17646,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17666,7 +17666,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17682,7 +17682,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17698,7 +17698,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17714,7 +17714,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17731,7 +17731,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17750,7 +17750,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17767,7 +17767,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17783,7 +17783,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
@@ -17799,7 +17799,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",
@@ -17816,7 +17816,7 @@
     fill: "none",
     viewBox: "0 0 24 24"
   }, props, {
-    className: `paranoid-ic ${props.className ? props.className : "size-5"}`,
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     strokeWidth: props.strokeWidth || 1.5
   }), /*#__PURE__*/React__namespace.createElement("path", {
     stroke: "currentColor",

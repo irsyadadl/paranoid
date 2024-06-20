@@ -7,7 +7,7 @@ const SvgIconCupHotFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M7.75 2.75a.75.75 0 0 0-1.5 0v2.5a.75.75 0 0 0 1.5 0zm4 0a.75.75 0 0 0-1.5 0v2.5a.75.75 0 0 0 1.5 0zm4 0a.75.75 0 0 0-1.5 0v2.5a.75.75 0 0 0 1.5 0z"

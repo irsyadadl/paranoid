@@ -7,7 +7,7 @@ const SvgIconRocketFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M4.56 21.85c.14.14.33.21.52.21.2 0 .39-.08.54-.23l1.67-1.71c.29-.3.29-.77-.01-1.06a.755.755 0 0 0-1.06.02l-1.67 1.71c-.29.3-.29.77.01 1.06m7.186.21h.004-.01z"

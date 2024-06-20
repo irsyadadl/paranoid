@@ -7,7 +7,7 @@ const SvgIconCameraDotFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-5"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
     <path fill="currentColor" d="M14 9.5a2.5 2.5 0 1 0 0 5 2.5 2.5 0 0 0 0-5" />
     <path
       fill="currentColor"
