@@ -7,7 +7,7 @@ const SvgIconExpandWindowFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M10.25 13c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 22h-6.5A1.75 1.75 0 0 1 2 20.25v-5.5c0-.966.784-1.75 1.75-1.75z"

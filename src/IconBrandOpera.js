@@ -7,7 +7,7 @@ const SvgIconBrandOpera = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M22 12.012a10.05 10.05 0 0 1-3.334 7.472c-2.562 1.246-4.95.374-5.746-.174 2.513-.548 4.428-3.611 4.428-7.298s-1.915-6.75-4.428-7.297c.796-.548 3.184-1.42 5.746-.175A10.05 10.05 0 0 1 22 12.012"

@@ -7,7 +7,7 @@ const SvgIconArrowWall2RightFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M21 4.75a.75.75 0 0 0-1.5 0v14.5a.75.75 0 0 0 1.5 0z"

@@ -7,7 +7,7 @@ const SvgIconCropFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M15.75 8H8v7.75c0 .138.112.25.25.25H16V8.25a.25.25 0 0 0-.25-.25"

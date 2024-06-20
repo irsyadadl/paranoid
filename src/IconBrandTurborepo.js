@@ -7,7 +7,7 @@ const SvgIconBrandTurborepo = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="M11.992 5.496C8.41 5.496 5.494 8.414 5.494 12s2.915 6.503 6.498 6.503 6.499-2.917 6.499-6.503-2.915-6.504-6.499-6.504m0 9.87A3.364 3.364 0 0 1 8.63 12a3.364 3.364 0 1 1 6.726 0 3.364 3.364 0 0 1-3.363 3.366Z"

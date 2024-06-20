@@ -7,7 +7,7 @@ const SvgIconGraduateCapFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
     <path
       fill="currentColor"
       d="m5 13.193 5.974 3.06a2.25 2.25 0 0 0 2.052 0L19 13.193v3.213c0 .64-.35 1.23-.914 1.537l-5.25 2.856a1.75 1.75 0 0 1-1.672 0l-5.25-2.856A1.75 1.75 0 0 1 5 16.406z"
