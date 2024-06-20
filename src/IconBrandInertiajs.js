@@ -7,7 +7,7 @@ const SvgIconBrandInertiajs = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" aria-hidden="true">
     <path
       fill="currentColor"
       d="M8.101 6.743H2.35L7.907 12.3 2.35 17.857H8.1l5.557-5.557L8.1 6.743Z"

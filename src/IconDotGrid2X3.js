@@ -7,7 +7,7 @@ const SvgIconDotGrid2X3 = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" aria-hidden="true">
     <path
       fill="currentColor"
       d="M7.5 5.75a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0m5.5 0a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0m-5.5 12.5a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0m5.5 0a1.75 1.75 0 1 1 3.5 0 1.75 1.75 0 0 1-3.5 0M7.5 11.9a1.75 1.75 0 1 1 3.5 0v.1a1.75 1.75 0 1 1-3.5 0zm5.5 0a1.75 1.75 0 1 1 3.5 0v.1a1.75 1.75 0 1 1-3.5 0z"

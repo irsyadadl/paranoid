@@ -7,7 +7,7 @@ const SvgIconArrowPathUpFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" aria-hidden="true">
     <path
       fill="currentColor"
       d="M4.393 8.934C3.695 9.744 4.271 11 5.34 11H8v9.25c0 .966.783 1.75 1.75 1.75h4.5A1.75 1.75 0 0 0 16 20.25V11h2.66c1.069 0 1.645-1.256.947-2.066L13.326 1.64a1.75 1.75 0 0 0-2.652 0z"

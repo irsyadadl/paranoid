@@ -7,7 +7,7 @@ const SvgIconBrandProducthunt = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" aria-hidden="true">
     <path fill="currentColor" d="M10.5 12h2.833a1.5 1.5 0 0 0 0-3H10.5z" />
     <path
       fill="currentColor"

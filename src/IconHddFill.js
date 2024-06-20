@@ -7,7 +7,7 @@ const SvgIconHddFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" aria-hidden="true">
     <path
       fill="currentColor"
       d="M16 17a1 1 0 1 0 0 2 1 1 0 0 0 0-2m-4 1a1 1 0 1 1 2 0 1 1 0 0 1-2 0"

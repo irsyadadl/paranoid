@@ -7,7 +7,7 @@ const SvgIconInboxFill = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" aria-hidden="true">
     <path
       fill="currentColor"
       d="M4.75 3h14.5c.966 0 1.75.784 1.75 1.75V12h-5.07a.75.75 0 0 0-.737.61 3.251 3.251 0 0 1-6.386 0A.75.75 0 0 0 8.07 12H3V4.75C3 3.784 3.784 3 4.75 3"

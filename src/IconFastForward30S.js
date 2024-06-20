@@ -7,7 +7,7 @@ const SvgIconFastForward30S = (props) => (
     fill="none"
     viewBox="0 0 24 24"
     {...props}
-   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" strokeWidth={props.strokeWidth || 1.5}>
+   className={`paranoid-ic ${props.className ? props.className : "size-4"}`} data-slot="icon" aria-hidden="true">
     <path
       fill="currentColor"
       d="M11.46.074a.79.79 0 0 0-.46.712v1.263C5.947 2.551 2 6.815 2 12c0 5.523 4.477 10 10 10s10-4.477 10-10a9.97 9.97 0 0 0-2.707-6.842.75.75 0 1 0-1.094 1.026A8.5 8.5 0 1 1 11 3.558v1.156c0 .305.18.582.46.712.282.13.614.087.852-.108l2.4-1.964A.78.78 0 0 0 15 2.75a.78.78 0 0 0-.288-.604l-2.4-1.964a.81.81 0 0 0-.851-.108Z"
