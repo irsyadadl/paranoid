@@ -3669,7 +3669,7 @@ const SvgIconBrandKarteil = props => /*#__PURE__*/React__namespace.createElement
   x: 0.141,
   y: 12,
   stroke: "#fff",
-  strokeOpacity: 0.1,
+  strokeOpacity: 0.2,
   strokeWidth: 0.2,
   rx: 1.899,
   transform: "rotate(-45 .141 12)"
