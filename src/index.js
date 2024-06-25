@@ -206,6 +206,7 @@ export { default as IconBrandGoogle } from "./IconBrandGoogle";
 export { default as IconBrandGumroad } from "./IconBrandGumroad";
 export { default as IconBrandInertiajs } from "./IconBrandInertiajs";
 export { default as IconBrandInstagram } from "./IconBrandInstagram";
+export { default as IconBrandKarteil } from "./IconBrandKarteil";
 export { default as IconBrandLaravel } from "./IconBrandLaravel";
 export { default as IconBrandLemonsqueezy } from "./IconBrandLemonsqueezy";
 export { default as IconBrandLinkedin } from "./IconBrandLinkedin";
