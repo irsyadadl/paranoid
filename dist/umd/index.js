@@ -3653,27 +3653,33 @@
     "data-slot": "icon",
     "aria-hidden": "true"
   }), /*#__PURE__*/React__namespace.createElement("g", {
-    className: "icon-brand-karteil_svg__icon-brand-karteil"
+    className: "icon-brand-karteil_svg__icon-brand-karteil",
+    clipPath: "url(#icon-brand-karteil_svg__a)"
   }, /*#__PURE__*/React__namespace.createElement("g", {
     className: "icon-brand-karteil_svg__Rectangle icon-brand-karteil_svg__7"
   }, /*#__PURE__*/React__namespace.createElement("rect", {
-    width: 16,
-    height: 16,
-    x: 1,
+    width: 17,
+    height: 17,
     y: 12,
     fill: "#0E0E10",
     rx: 1.999,
-    transform: "rotate(-45 1 12)"
+    transform: "rotate(-45 0 12)"
   }), /*#__PURE__*/React__namespace.createElement("rect", {
-    width: 15.8,
-    height: 15.8,
-    x: 1.141,
+    width: 16.8,
+    height: 16.8,
+    x: 0.141,
     y: 12,
     stroke: "#fff",
     strokeOpacity: 0.1,
     strokeWidth: 0.2,
     rx: 1.899,
-    transform: "rotate(-45 1.141 12)"
+    transform: "rotate(-45 .141 12)"
+  }))), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("clipPath", {
+    id: "icon-brand-karteil_svg__a",
+    className: "icon-brand-karteil_svg__a"
+  }, /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#fff",
+    d: "M0 0h24v24H0z"
   }))));
 
   const SvgIconBrandLaravel = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
