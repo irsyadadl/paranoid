@@ -3651,12 +3651,16 @@ const SvgIconBrandKarteil = props => /*#__PURE__*/React__namespace.createElement
   className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
   "data-slot": "icon",
   "aria-hidden": "true"
-}), /*#__PURE__*/React__namespace.createElement("rect", {
+}), /*#__PURE__*/React__namespace.createElement("g", {
+  className: "icon-brand-karteil_svg__icon-brand-karteil"
+}, /*#__PURE__*/React__namespace.createElement("g", {
+  className: "icon-brand-karteil_svg__Rectangle icon-brand-karteil_svg__7"
+}, /*#__PURE__*/React__namespace.createElement("rect", {
   width: 16,
   height: 16,
   x: 1,
   y: 12,
-  fill: "currentColor",
+  fill: "#0E0E10",
   rx: 1.999,
   transform: "rotate(-45 1 12)"
 }), /*#__PURE__*/React__namespace.createElement("rect", {
@@ -3664,12 +3668,12 @@ const SvgIconBrandKarteil = props => /*#__PURE__*/React__namespace.createElement
   height: 15.8,
   x: 1.141,
   y: 12,
-  stroke: "currentColor",
+  stroke: "#fff",
   strokeOpacity: 0.1,
   strokeWidth: 0.2,
   rx: 1.899,
   transform: "rotate(-45 1.141 12)"
-}));
+}))));
 
 const SvgIconBrandLaravel = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
