@@ -209,12 +209,14 @@ export declare const IconBrandInertiajs: React.FC<React.SVGProps<SVGSVGElement>>
 export declare const IconBrandInstagram: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandKarteil: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLaravel: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBrandLayers: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLemonsqueezy: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLinkedin: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLinktree: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLottielab: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandMastadon: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandMedium: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBrandNextjs: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandNotion: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandOpenai: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandOpera: React.FC<React.SVGProps<SVGSVGElement>>;
