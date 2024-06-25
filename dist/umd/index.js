@@ -3655,26 +3655,18 @@
   }), /*#__PURE__*/React__namespace.createElement("g", {
     className: "icon-brand-karteil_svg__icon-brand-karteil",
     clipPath: "url(#icon-brand-karteil_svg__a)"
-  }, /*#__PURE__*/React__namespace.createElement("g", {
-    className: "icon-brand-karteil_svg__Rectangle icon-brand-karteil_svg__7"
   }, /*#__PURE__*/React__namespace.createElement("rect", {
-    width: 17,
-    height: 17,
+    width: 16.5,
+    height: 16.5,
+    x: 0.354,
     y: 12,
     fill: "#0E0E10",
-    rx: 1.999,
-    transform: "rotate(-45 0 12)"
-  }), /*#__PURE__*/React__namespace.createElement("rect", {
-    width: 16.8,
-    height: 16.8,
-    x: 0.141,
-    y: 12,
-    stroke: "#fff",
-    strokeOpacity: 0.2,
-    strokeWidth: 0.2,
-    rx: 1.899,
-    transform: "rotate(-45 .141 12)"
-  }))), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("clipPath", {
+    stroke: "#3F3F46",
+    strokeWidth: 0.5,
+    className: "icon-brand-karteil_svg__Rectangle icon-brand-karteil_svg__7",
+    rx: 1.749,
+    transform: "rotate(-45 .354 12)"
+  })), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("clipPath", {
     id: "icon-brand-karteil_svg__a",
     className: "icon-brand-karteil_svg__a"
   }, /*#__PURE__*/React__namespace.createElement("path", {
