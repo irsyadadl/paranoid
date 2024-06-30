@@ -185,6 +185,7 @@ export declare const IconBrackets: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrackets2: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrain: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrainFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBrandAdobe: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandApple: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandAppleMusic: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandAppstore: React.FC<React.SVGProps<SVGSVGElement>>;

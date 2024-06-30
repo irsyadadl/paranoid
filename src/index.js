@@ -184,6 +184,7 @@ export { default as IconBrackets2 } from "./IconBrackets2";
 export { default as IconBrackets } from "./IconBrackets";
 export { default as IconBrainFill } from "./IconBrainFill";
 export { default as IconBrain } from "./IconBrain";
+export { default as IconBrandAdobe } from "./IconBrandAdobe";
 export { default as IconBrandAppleMusic } from "./IconBrandAppleMusic";
 export { default as IconBrandApple } from "./IconBrandApple";
 export { default as IconBrandAppstore } from "./IconBrandAppstore";
