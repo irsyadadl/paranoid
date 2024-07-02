@@ -3832,14 +3832,14 @@ const SvgIconBrandNextjs = props => /*#__PURE__*/React.createElement("svg", _ext
 }, /*#__PURE__*/React.createElement("g", {
   className: "icon-brand-nextjs_svg__Group"
 }, /*#__PURE__*/React.createElement("path", {
-  fill: "currentColor",
+  fill: "none",
   d: "M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10",
   className: "icon-brand-nextjs_svg__Vector"
 }))), /*#__PURE__*/React.createElement("g", {
   className: "icon-brand-nextjs_svg__Group",
   mask: "url(#icon-brand-nextjs_svg__a)"
 }, /*#__PURE__*/React.createElement("path", {
-  fill: "currentColor",
+  fill: "none",
   stroke: "#fff",
   strokeWidth: 0.8,
   d: "M12 21.667A9.667 9.667 0 0 0 21.667 12 9.667 9.667 0 0 0 12 2.334C6.66 2.334 2.333 6.66 2.333 12S6.661 21.667 12 21.667Z",

@@ -1,7 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const dir = path.join(__dirname, "src"); // Path to your generated components
+const dir = path.join(__dirname, "../src"); // Path to your generated components
 
 fs.readdir(dir, (err, files) => {
   if (err) {

@@ -1,8 +1,8 @@
 const fs = require("fs");
 const path = require("path");
 
-const iconsDir = path.join(__dirname, "src");
-const outputDir = path.join(__dirname, "dist");
+const iconsDir = path.join(__dirname, "../src");
+const outputDir = path.join(__dirname, "../dist");
 const outputFile = path.join(outputDir, "index.d.ts");
 
 fs.readdir(iconsDir, (err, files) => {
