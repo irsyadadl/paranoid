@@ -3942,17 +3942,17 @@ const SvgIconBrandParanoid = props => /*#__PURE__*/React.createElement("svg", _e
   "aria-hidden": "true"
 }), /*#__PURE__*/React.createElement("path", {
   fill: "url(#icon-brand-paranoid_svg__a)",
-  d: "M17 2H7a5 5 0 0 0-5 5v10a5 5 0 0 0 5 5h10a5 5 0 0 0 5-5V7a5 5 0 0 0-5-5"
+  d: "M17.5 1h-11A5.5 5.5 0 0 0 1 6.5v11A5.5 5.5 0 0 0 6.5 23h11a5.5 5.5 0 0 0 5.5-5.5v-11A5.5 5.5 0 0 0 17.5 1"
 }), /*#__PURE__*/React.createElement("path", {
   stroke: "#fff",
   strokeWidth: 0.825,
-  d: "M7.646 7.36h-.344v3.323h6.477v6.53h3.377V7.36z"
+  d: "M7.21 6.895h-.378v3.657h7.125v7.183h3.715V6.895z"
 }), /*#__PURE__*/React.createElement("defs", null, /*#__PURE__*/React.createElement("radialGradient", {
   id: "icon-brand-paranoid_svg__a",
   cx: 0,
   cy: 0,
   r: 1,
-  gradientTransform: "translate(1002 1002)scale(2000)",
+  gradientTransform: "translate(1101 1101)scale(2200)",
   gradientUnits: "userSpaceOnUse"
 }, /*#__PURE__*/React.createElement("stop", {
   stopColor: "#3F3F46"
