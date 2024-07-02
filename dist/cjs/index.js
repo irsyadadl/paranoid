@@ -3976,9 +3976,10 @@ const SvgIconBrandParanoid = props => /*#__PURE__*/React__namespace.createElemen
   gradientTransform: "translate(1101 1101)scale(2200)",
   gradientUnits: "userSpaceOnUse"
 }, /*#__PURE__*/React__namespace.createElement("stop", {
-  stopColor: "#3F3F46"
+  stopColor: "#A1A1AA"
 }), /*#__PURE__*/React__namespace.createElement("stop", {
-  offset: 1
+  offset: 1,
+  stopColor: "#3F3F46"
 }))));
 
 const SvgIconBrandParsinta = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({

@@ -26,8 +26,8 @@ const SvgIconBrandParanoid = (props) => (
         gradientTransform="translate(1101 1101)scale(2200)"
         gradientUnits="userSpaceOnUse"
       >
-        <stop stopColor="#3F3F46" />
-        <stop offset={1} />
+        <stop stopColor="#A1A1AA" />
+        <stop offset={1} stopColor="#3F3F46" />
       </radialGradient>
     </defs>
   </svg>
