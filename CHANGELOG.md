@@ -1,5 +1,12 @@
 
 
+## [1.2.0](https://github.com/irsyadadl/paranoid/compare/1.1.11...1.2.0) (2024-07-06)
+
+
+### Features
+
+* add icon brand d ([fc79862](https://github.com/irsyadadl/paranoid/commit/fc798623a3a3829e52333621823972920342e319))
+
 ## [1.1.11](https://github.com/irsyadadl/paranoid/compare/1.1.10...1.1.11) (2024-07-02)
 
 ## [1.1.10](https://github.com/irsyadadl/paranoid/compare/1.1.9...1.1.10) (2024-07-02)
