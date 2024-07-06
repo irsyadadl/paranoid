@@ -195,6 +195,7 @@ export { default as IconBrandCash } from "./IconBrandCash";
 export { default as IconBrandChrome } from "./IconBrandChrome";
 export { default as IconBrandCodepen } from "./IconBrandCodepen";
 export { default as IconBrandCopilot } from "./IconBrandCopilot";
+export { default as IconBrandD } from "./IconBrandD";
 export { default as IconBrandDiscord } from "./IconBrandDiscord";
 export { default as IconBrandDuolingo } from "./IconBrandDuolingo";
 export { default as IconBrandFacebook } from "./IconBrandFacebook";

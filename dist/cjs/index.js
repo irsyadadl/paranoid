@@ -3464,6 +3464,31 @@ const SvgIconBrandCopilot = props => /*#__PURE__*/React__namespace.createElement
   d: "M9.758 13.308a.97.97 0 0 1 .96.961v1.926a.97.97 0 0 1-.96.961.97.97 0 0 1-.961-.961v-1.926a.97.97 0 0 1 .96-.961Zm5.445.961v1.926a.97.97 0 0 1-.96.961.97.97 0 0 1-.962-.961v-1.926a.97.97 0 0 1 .961-.961.97.97 0 0 1 .961.961"
 }));
 
+const SvgIconBrandD = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "currentColor",
+  viewBox: "0 0 24 24"
+}, props, {
+  className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
+  "data-slot": "icon",
+  "aria-hidden": "true"
+}), /*#__PURE__*/React__namespace.createElement("rect", {
+  width: 24,
+  height: 24,
+  fill: "#27272A",
+  rx: 5.34
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "#fff",
+  fillRule: "evenodd",
+  d: "M16.14 5h-4.78c-.421 0-.761 0-1.036.022-.284.024-.533.073-.763.19a1.94 1.94 0 0 0-.85.85c-.117.23-.166.479-.19.762C8.5 7.1 8.5 7.44 8.5 7.861v.25h-.639c-.421 0-.761 0-1.036.023-.284.023-.533.072-.763.189a1.94 1.94 0 0 0-.85.85c-.117.23-.166.48-.19.763C5 10.21 5 10.55 5 10.972v5.167c0 .421 0 .761.023 1.037.023.283.072.532.19.762.186.366.483.664.849.85.23.117.48.166.763.19C7.1 19 7.44 19 7.86 19h5.167c.421 0 .761 0 1.037-.023.283-.023.532-.072.762-.189a1.94 1.94 0 0 0 .85-.85c.118-.23.167-.479.19-.762.022-.276.022-.616.022-1.037v-.25h.25c.422 0 .762 0 1.037-.023.283-.023.532-.072.763-.189a1.95 1.95 0 0 0 .85-.85c.117-.23.166-.48.189-.762.022-.276.022-.616.022-1.037V7.86c0-.421 0-.761-.022-1.037-.023-.283-.072-.532-.19-.762a1.95 1.95 0 0 0-.85-.85c-.23-.117-.479-.166-.762-.19C16.9 5 16.56 5 16.139 5Zm-.25 10.111h.232c.442 0 .75 0 .99-.02.236-.019.371-.055.474-.107a1.17 1.17 0 0 0 .51-.51c.052-.102.087-.238.107-.473.02-.24.02-.548.02-.99V7.878c0-.442 0-.75-.02-.99-.02-.236-.055-.37-.108-.473a1.17 1.17 0 0 0-.51-.51c-.102-.052-.237-.088-.473-.107-.24-.02-.547-.02-.99-.02h-4.744c-.442 0-.75 0-.99.02-.235.019-.37.055-.473.107-.22.112-.398.29-.51.51-.052.102-.088.237-.107.473-.02.24-.02.548-.02.99v.233h3.75c.421 0 .761 0 1.037.023.283.023.532.072.762.189.366.186.664.484.85.85.118.23.167.48.19.763.022.275.022.615.022 1.036z",
+  clipRule: "evenodd"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "#27272A",
+  d: "M8.5 17q-.616 0-1.059-.442A1.44 1.44 0 0 1 7 15.5q0-.617.441-1.058A1.44 1.44 0 0 1 8.5 14q.616 0 1.058.442.442.441.442 1.058 0 .408-.209.75a1.56 1.56 0 0 1-.541.55 1.43 1.43 0 0 1-.75.2"
+}));
+
 const SvgIconBrandDiscord = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -19255,6 +19280,7 @@ exports.IconBrandCash = SvgIconBrandCash;
 exports.IconBrandChrome = SvgIconBrandChrome;
 exports.IconBrandCodepen = SvgIconBrandCodepen;
 exports.IconBrandCopilot = SvgIconBrandCopilot;
+exports.IconBrandD = SvgIconBrandD;
 exports.IconBrandDiscord = SvgIconBrandDiscord;
 exports.IconBrandDuolingo = SvgIconBrandDuolingo;
 exports.IconBrandFacebook = SvgIconBrandFacebook;
