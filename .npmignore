@@ -1,7 +1,0 @@
-/node_modules
-
-tsconfig.json
-
-.env
-.env.local
-.DS_Store
