@@ -1,5 +1,14 @@
 
 
+## [1.3.3](https://github.com/irsyadadl/paranoid/compare/1.3.1...1.3.3) (2024-07-12)
+
+
+### Bug Fixes
+
+* again ([82f8214](https://github.com/irsyadadl/paranoid/commit/82f821423d7699c7317cd3538aa0f33b56776240))
+* fix the brand d ([d2f6dab](https://github.com/irsyadadl/paranoid/commit/d2f6dab6453e44b287e2717b08bbbde71325a166))
+* refactor the d icon ([48d1a44](https://github.com/irsyadadl/paranoid/commit/48d1a44df86ca9177a564702eff333049b8193a9))
+
 ## [1.3.2](https://github.com/irsyadadl/paranoid/compare/1.3.1...1.3.2) (2024-07-12)
 
 
