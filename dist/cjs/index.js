@@ -3282,7 +3282,7 @@ const SvgIconBrandAdobe = props => /*#__PURE__*/React__namespace.createElement("
   "data-slot": "icon",
   "aria-hidden": "true"
 }), /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "#E1251B",
+  fill: "currentColor",
   d: "M14.667 1.733H22v17.333zm-5.267 0H2v17.334zm2.6 6.4 4.733 10.933h-3.066l-1.4-3.466H8.8z"
 }));
 
