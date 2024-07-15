@@ -1,5 +1,12 @@
 
 
+## [1.3.4](https://github.com/irsyadadl/paranoid/compare/1.3.3...1.3.4) (2024-07-15)
+
+
+### Bug Fixes
+
+* fix adobe icon to adapt background ([8a797f3](https://github.com/irsyadadl/paranoid/commit/8a797f33209c55cd915e6ee40375e4cb4a23a25c))
+
 ## [1.3.3](https://github.com/irsyadadl/paranoid/compare/1.3.1...1.3.3) (2024-07-12)
 
 
