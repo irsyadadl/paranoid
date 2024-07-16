@@ -1,5 +1,12 @@
 
 
+## [1.3.5](https://github.com/irsyadadl/paranoid/compare/1.3.4...1.3.5) (2024-07-16)
+
+
+### Bug Fixes
+
+* fix icon for paranoid ([198508c](https://github.com/irsyadadl/paranoid/commit/198508cdd38e35101fff7941a76473e6ced76fca))
+
 ## [1.3.4](https://github.com/irsyadadl/paranoid/compare/1.3.3...1.3.4) (2024-07-15)
 
 
