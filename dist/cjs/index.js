@@ -3979,25 +3979,10 @@ const SvgIconBrandParanoid = props => /*#__PURE__*/React__namespace.createElemen
   "data-slot": "icon",
   "aria-hidden": "true"
 }), /*#__PURE__*/React__namespace.createElement("path", {
-  fill: "url(#icon-brand-paranoid_svg__a)",
-  d: "M17.5 1h-11A5.5 5.5 0 0 0 1 6.5v11A5.5 5.5 0 0 0 6.5 23h11a5.5 5.5 0 0 0 5.5-5.5v-11A5.5 5.5 0 0 0 17.5 1"
-}), /*#__PURE__*/React__namespace.createElement("path", {
   stroke: "#fff",
-  strokeWidth: 0.825,
-  d: "M7.21 6.895h-.378v3.657h7.125v7.183h3.715V6.895z"
-}), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("radialGradient", {
-  id: "icon-brand-paranoid_svg__a",
-  cx: 0,
-  cy: 0,
-  r: 1,
-  gradientTransform: "translate(1101 1101)scale(2200)",
-  gradientUnits: "userSpaceOnUse"
-}, /*#__PURE__*/React__namespace.createElement("stop", {
-  stopColor: "#A1A1AA"
-}), /*#__PURE__*/React__namespace.createElement("stop", {
-  offset: 1,
-  stopColor: "#3F3F46"
-}))));
+  strokeWidth: 1.091,
+  d: "M5.667 5.25h-.5v4.835h9.42v9.498H19.5V5.25z"
+}));
 
 const SvgIconBrandParsinta = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
