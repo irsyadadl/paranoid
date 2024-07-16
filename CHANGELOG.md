@@ -1,5 +1,12 @@
 
 
+## [1.3.6](https://github.com/irsyadadl/paranoid/compare/1.3.5...1.3.6) (2024-07-16)
+
+
+### Bug Fixes
+
+* fix paranoid brand icon ([ff1714a](https://github.com/irsyadadl/paranoid/commit/ff1714abf951c8bb1ae03386a2413412989466e7))
+
 ## [1.3.5](https://github.com/irsyadadl/paranoid/compare/1.3.4...1.3.5) (2024-07-16)
 
 
