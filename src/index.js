@@ -280,6 +280,8 @@ export { default as IconCalendarCheckFill } from "./IconCalendarCheckFill";
 export { default as IconCalendarCheck } from "./IconCalendarCheck";
 export { default as IconCalendarClockFill } from "./IconCalendarClockFill";
 export { default as IconCalendarClock } from "./IconCalendarClock";
+export { default as IconCalendarDaysFill } from "./IconCalendarDaysFill";
+export { default as IconCalendarDays } from "./IconCalendarDays";
 export { default as IconCalendarFill } from "./IconCalendarFill";
 export { default as IconCalendarPlusFill } from "./IconCalendarPlusFill";
 export { default as IconCalendarPlus } from "./IconCalendarPlus";

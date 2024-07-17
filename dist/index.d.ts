@@ -282,6 +282,8 @@ export declare const IconCalendarCheck: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCalendarCheckFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCalendarClock: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCalendarClockFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconCalendarDays: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconCalendarDaysFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCalendarFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCalendarPlus: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCalendarPlusFill: React.FC<React.SVGProps<SVGSVGElement>>;

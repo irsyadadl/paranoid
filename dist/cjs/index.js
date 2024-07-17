@@ -4997,6 +4997,38 @@ const SvgIconCalendarClock = props => /*#__PURE__*/React__namespace.createElemen
   d: "M8.75 20.25h-4a1 1 0 0 1-1-1V5.75a1 1 0 0 1 1-1h14.5a1 1 0 0 1 1 1v3m-12.5-4v-2m8.5 2v-2m.75 12V17l1.75 1.75m-3.758-6.6a5.248 5.248 0 1 1 4.016 9.699 5.248 5.248 0 0 1-4.016-9.698Z"
 }));
 
+const SvgIconCalendarDaysFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props, {
+  className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
+  "data-slot": "icon",
+  "aria-hidden": "true"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  fillRule: "evenodd",
+  d: "M3.75 3a.75.75 0 0 0-.75.75v16.5c0 .414.336.75.75.75h16.5a.75.75 0 0 0 .75-.75V3.75a.75.75 0 0 0-.75-.75zM8 11a1 1 0 1 0 0 2 1 1 0 0 0 0-2m0 4a1 1 0 1 0 0 2 1 1 0 0 0 0-2m3 1a1 1 0 1 1 2 0 1 1 0 0 1-2 0m1-5a1 1 0 1 0 0 2 1 1 0 0 0 0-2m3 1a1 1 0 1 1 2 0 1 1 0 0 1-2 0m4.5-7.5h-15V7h15z",
+  clipRule: "evenodd"
+}));
+
+const SvgIconCalendarDays = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+  xmlns: "http://www.w3.org/2000/svg",
+  width: 24,
+  height: 24,
+  fill: "none",
+  viewBox: "0 0 24 24"
+}, props, {
+  className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
+  "data-slot": "icon",
+  "aria-hidden": "true"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "currentColor",
+  d: "M3.75 3.75V3a.75.75 0 0 0-.75.75zm16.5 0H21a.75.75 0 0 0-.75-.75zm0 16.5V21a.75.75 0 0 0 .75-.75zm-16.5 0H3c0 .414.336.75.75.75zM7.25 12a.75.75 0 0 0 1.5 0zm1.5-.01a.75.75 0 0 0-1.5 0zm2.5.01a.75.75 0 0 0 1.5 0zm1.5-.01a.75.75 0 0 0-1.5 0zM7.25 16a.75.75 0 0 0 1.5 0zm1.5-.01a.75.75 0 0 0-1.5 0zm2.5.01a.75.75 0 0 0 1.5 0zm1.5-.01a.75.75 0 0 0-1.5 0zm2.5-3.99a.75.75 0 0 0 1.5 0zm1.5-.01a.75.75 0 0 0-1.5 0zm-13-7.49h16.5V3H3.75zm15.75-.75v4H21v-4zm0 4v12.5H21V7.75zm.75 11.75H3.75V21h16.5zm-15.75.75V7.75H3v12.5zm0-12.5v-4H3v4zm-.75.75h16.5V7H3.75zM7.5 12a.5.5 0 0 1 .5-.5V13a1 1 0 0 0 1-1zm.5-.5a.5.5 0 0 1 .5.5H7a1 1 0 0 0 1 1zm.5.5a.5.5 0 0 1-.5.5V11a1 1 0 0 0-1 1zm-.5.5a.5.5 0 0 1-.5-.5H9a1 1 0 0 0-1-1zm.75-.5v-.01h-1.5V12zm2.75 0a.5.5 0 0 1 .5-.5V13a1 1 0 0 0 1-1zm.5-.5a.5.5 0 0 1 .5.5H11a1 1 0 0 0 1 1zm.5.5a.5.5 0 0 1-.5.5V11a1 1 0 0 0-1 1zm-.5.5a.5.5 0 0 1-.5-.5H13a1 1 0 0 0-1-1zm.75-.5v-.01h-1.5V12zM7.5 16a.5.5 0 0 1 .5-.5V17a1 1 0 0 0 1-1zm.5-.5a.5.5 0 0 1 .5.5H7a1 1 0 0 0 1 1zm.5.5a.5.5 0 0 1-.5.5V15a1 1 0 0 0-1 1zm-.5.5a.5.5 0 0 1-.5-.5H9a1 1 0 0 0-1-1zm.75-.5v-.01h-1.5V16zm2.75 0a.5.5 0 0 1 .5-.5V17a1 1 0 0 0 1-1zm.5-.5a.5.5 0 0 1 .5.5H11a1 1 0 0 0 1 1zm.5.5a.5.5 0 0 1-.5.5V15a1 1 0 0 0-1 1zm-.5.5a.5.5 0 0 1-.5-.5H13a1 1 0 0 0-1-1zm.75-.5v-.01h-1.5V16zm2.75-4a.5.5 0 0 1 .5-.5V13a1 1 0 0 0 1-1zm.5-.5a.5.5 0 0 1 .5.5H15a1 1 0 0 0 1 1zm.5.5a.5.5 0 0 1-.5.5V11a1 1 0 0 0-1 1zm-.5.5a.5.5 0 0 1-.5-.5H17a1 1 0 0 0-1-1zm.75-.5v-.01h-1.5V12z"
+}));
+
 const SvgIconCalendarFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
   width: 24,
@@ -19343,6 +19375,8 @@ exports.IconCalendarCheck = SvgIconCalendarCheck;
 exports.IconCalendarCheckFill = SvgIconCalendarCheckFill;
 exports.IconCalendarClock = SvgIconCalendarClock;
 exports.IconCalendarClockFill = SvgIconCalendarClockFill;
+exports.IconCalendarDays = SvgIconCalendarDays;
+exports.IconCalendarDaysFill = SvgIconCalendarDaysFill;
 exports.IconCalendarFill = SvgIconCalendarFill;
 exports.IconCalendarPlus = SvgIconCalendarPlus;
 exports.IconCalendarPlusFill = SvgIconCalendarPlusFill;
