@@ -3683,27 +3683,17 @@ const SvgIconBrandKarteil = props => /*#__PURE__*/React__namespace.createElement
   className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
   "data-slot": "icon",
   "aria-hidden": "true"
-}), /*#__PURE__*/React__namespace.createElement("g", {
-  className: "icon-brand-karteil_svg__icon-brand-karteil",
-  clipPath: "url(#icon-brand-karteil_svg__a)"
-}, /*#__PURE__*/React__namespace.createElement("rect", {
-  width: 16.5,
-  height: 16.5,
-  x: 0.354,
-  y: 12,
-  fill: "#0E0E10",
-  stroke: "#3F3F46",
-  strokeWidth: 0.5,
-  className: "icon-brand-karteil_svg__Rectangle icon-brand-karteil_svg__7",
-  rx: 1.749,
-  transform: "rotate(-45 .354 12)"
-})), /*#__PURE__*/React__namespace.createElement("defs", null, /*#__PURE__*/React__namespace.createElement("clipPath", {
-  id: "icon-brand-karteil_svg__a",
-  className: "icon-brand-karteil_svg__a"
-}, /*#__PURE__*/React__namespace.createElement("path", {
+}), /*#__PURE__*/React__namespace.createElement("path", {
   fill: "#fff",
-  d: "M0 0h24v24H0z"
-}))));
+  fillOpacity: 0.2,
+  d: "M12 2c-.31 0-.58.077-.836.181-.233.095-.496.232-.787.382l-6.372 3.3c-.5.259-.951.492-1.27.722-.331.238-.733.62-.735 1.223-.001.603.398.987.727 1.227.319.231.77.468 1.267.729l6.372 3.343c.29.153.555.291.79.388.257.106.53.185.844.185s.587-.079.845-.185c.236-.098.502-.237.795-.39l6.366-3.341c.498-.261.948-.498 1.267-.73.33-.239.729-.623.727-1.226s-.403-.985-.734-1.223c-.32-.23-.771-.463-1.27-.722l-6.373-3.3c-.29-.15-.553-.287-.787-.382A2.2 2.2 0 0 0 12 2"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "#fff",
+  d: "M3.275 11.616a.87.87 0 0 0-1.17.346.845.845 0 0 0 .352 1.155l7.87 4.167c.292.154.56.296.798.396.264.11.548.192.875.192s.611-.083.874-.192c.24-.1.507-.242.798-.396l7.87-4.167a.845.845 0 0 0 .353-1.155.87.87 0 0 0-1.17-.346l-7.841 4.152a10 10 0 0 1-.682.343.6.6 0 0 1-.202.058c-.017 0-.063 0-.202-.058a9 9 0 0 1-.682-.343z"
+}), /*#__PURE__*/React__namespace.createElement("path", {
+  fill: "#fff",
+  d: "M3.275 15.744a.87.87 0 0 0-1.17.346.845.845 0 0 0 .352 1.154l7.87 4.168c.292.154.56.296.798.396.264.11.548.192.875.192s.611-.083.874-.192c.24-.1.507-.242.798-.396l7.87-4.168a.845.845 0 0 0 .353-1.154.87.87 0 0 0-1.17-.346l-7.841 4.152a9 9 0 0 1-.682.342c-.14.058-.186.059-.202.059s-.063 0-.202-.059a9 9 0 0 1-.682-.342z"
+}));
 
 const SvgIconBrandLaravel = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
