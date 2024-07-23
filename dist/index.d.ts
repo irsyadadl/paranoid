@@ -209,6 +209,7 @@ export declare const IconBrandGooglePlayStore: React.FC<React.SVGProps<SVGSVGEle
 export declare const IconBrandGumroad: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandInertiajs: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandInstagram: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBrandJustd: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandKarteil: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLaravel: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandLayers: React.FC<React.SVGProps<SVGSVGElement>>;
