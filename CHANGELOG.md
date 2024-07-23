@@ -1,5 +1,12 @@
 
 
+## [1.3.9](https://github.com/irsyadadl/paranoid/compare/1.3.8...1.3.9) (2024-07-23)
+
+
+### Bug Fixes
+
+* fix brand justd ([77defc9](https://github.com/irsyadadl/paranoid/commit/77defc92454ae40c3e7c0070456ec4d09322c522))
+
 ## [1.3.8](https://github.com/irsyadadl/paranoid/compare/1.3.7...1.3.8) (2024-07-23)
 
 
