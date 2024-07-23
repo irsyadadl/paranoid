@@ -1,5 +1,12 @@
 
 
+## [1.3.10](https://github.com/irsyadadl/paranoid/compare/1.3.9...1.3.10) (2024-07-23)
+
+
+### Bug Fixes
+
+* brand karteil fix ([42523fb](https://github.com/irsyadadl/paranoid/commit/42523fb37704b17cee2c06beac6de3389c084ff5))
+
 ## [1.3.9](https://github.com/irsyadadl/paranoid/compare/1.3.8...1.3.9) (2024-07-23)
 
 
