@@ -981,6 +981,7 @@ export { default as IconStrikeThroughFill } from "./IconStrikeThroughFill";
 export { default as IconStrikeThrough } from "./IconStrikeThrough";
 export { default as IconSuitcaseFill } from "./IconSuitcaseFill";
 export { default as IconSuitcase } from "./IconSuitcase";
+export { default as IconSunFill } from "./IconSunFill";
 export { default as IconSun } from "./IconSun";
 export { default as IconSunriseArrowUpFill } from "./IconSunriseArrowUpFill";
 export { default as IconSunriseArrowUp } from "./IconSunriseArrowUp";

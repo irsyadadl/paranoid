@@ -983,6 +983,7 @@ export declare const IconStrikeThroughFill: React.FC<React.SVGProps<SVGSVGElemen
 export declare const IconSuitcase: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSuitcaseFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSun: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconSunFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSunrise: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSunriseArrowUp: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconSunriseArrowUpFill: React.FC<React.SVGProps<SVGSVGElement>>;
