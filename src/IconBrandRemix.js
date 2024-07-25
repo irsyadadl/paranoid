@@ -21,7 +21,7 @@ const SvgIconBrandRemix = (props) => (
         d="M6.875 17.9v-1.836h3.342c.559 0 .68.414.68.661V17.9z"
       />
       <path
-        stroke="currentColor"
+        stroke="#fff"
         strokeOpacity={0.8}
         strokeWidth={0.025}
         d="M6.863 17.9v.012h4.046v-1.187a.73.73 0 0 0-.132-.43c-.103-.139-.277-.244-.56-.244H6.863z"
