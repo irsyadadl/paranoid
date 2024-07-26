@@ -1,5 +1,12 @@
 
 
+## [1.4.4](https://github.com/irsyadadl/paranoid/compare/1.4.3...1.4.4) (2024-07-26)
+
+
+### Bug Fixes
+
+* fix brand ([e62f392](https://github.com/irsyadadl/paranoid/commit/e62f39235fb53c52f7be73e5bda5b678c1c2039f))
+
 ## [1.4.3](https://github.com/irsyadadl/paranoid/compare/1.4.2...1.4.3) (2024-07-26)
 
 
