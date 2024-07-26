@@ -1,5 +1,12 @@
 
 
+## [1.4.5](https://github.com/irsyadadl/paranoid/compare/1.4.4...1.4.5) (2024-07-26)
+
+
+### Bug Fixes
+
+* fix brand nextjs and layers ([b5e80bc](https://github.com/irsyadadl/paranoid/commit/b5e80bc9d8a03ce60cbbd1f638392409ab656bea))
+
 ## [1.4.4](https://github.com/irsyadadl/paranoid/compare/1.4.3...1.4.4) (2024-07-26)
 
 
