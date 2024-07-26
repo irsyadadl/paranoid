@@ -4339,6 +4339,27 @@
     d: "M12 2C6.475 2 2 6.477 2 12s4.476 10 10 10c5.523 0 10-4.477 10-10S17.523 2 12 2m4.585 14.423a.623.623 0 0 1-.857.207c-2.348-1.435-5.304-1.76-8.785-.964a.624.624 0 0 1-.277-1.216c3.81-.87 7.077-.495 9.713 1.116.293.18.387.563.206.857M17.81 13.7a.78.78 0 0 1-1.072.257c-2.688-1.653-6.786-2.131-9.965-1.166a.78.78 0 0 1-.453-1.492c3.632-1.102 8.147-.568 11.234 1.329a.78.78 0 0 1 .256 1.072m.105-2.836c-3.223-1.914-8.54-2.09-11.617-1.156a.935.935 0 1 1-.543-1.79c3.532-1.072 9.404-.865 13.115 1.338a.934.934 0 1 1-.954 1.608Z"
   }));
 
+  const SvgIconBrandTailwindVariants = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 25"
+  }, props, {
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
+    "data-slot": "icon",
+    "aria-hidden": "true"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M16.521 3.161H7.479a5.08 5.08 0 0 0-5.086 5.077v9.024a5.08 5.08 0 0 0 5.086 5.077h9.042a5.08 5.08 0 0 0 5.086-5.076V8.237a5.08 5.08 0 0 0-5.086-5.077Z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    d: "M11.89 7.11 7.198 9.945l2.347 1.321-2.347 4.158 4.694 2.966 4.566-2.837-2.251-1.386 2.315-4.222-4.63-2.837Z"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "#fff",
+    d: "m16.521 9.946.34.204a.42.42 0 0 0-.141-.559zm-4.63 2.643-.187.362a.38.38 0 0 0 .375-.002zM7.197 9.946 7 9.59a.42.42 0 0 0-.196.362.41.41 0 0 0 .206.356zm4.694-2.837.198-.354a.38.38 0 0 0-.395-.001zm0 11.282-.203.351c.124.079.279.08.404.002zm-4.694-2.966-.339-.209a.42.42 0 0 0 .135.561zm9.26.13.2.352a.42.42 0 0 0 .193-.354.42.42 0 0 0-.194-.353l-.2.354ZM7.479 3.571h9.042V2.75H7.479zm9.042 0c2.61 0 4.693 2.107 4.693 4.666H22a5.483 5.483 0 0 0-5.479-5.488zm4.693 4.666v9.024H22V8.239h-.786Zm0 9.024c0 2.56-2.084 4.666-4.693 4.666v.822A5.483 5.483 0 0 0 22 17.262h-.786Zm-4.693 4.666H7.479v.822h9.042zm-9.042 0c-2.61 0-4.693-2.107-4.693-4.666H2a5.483 5.483 0 0 0 5.48 5.488v-.822Zm-4.693-4.666V8.239H2v9.024h.786Zm0-9.024c0-2.56 2.084-4.666 4.693-4.666V2.75A5.483 5.483 0 0 0 2 8.238zm13.547 1.347-4.63 2.643.376.722 4.63-2.643zm-8.94.717 4.695-2.837-.394-.711L7 9.59zm4.3-2.838 4.63 2.836.397-.709-4.63-2.836zm.401 10.575L7.4 15.073l-.407.704 4.695 2.965.406-.703Zm-.017-5.812L9.73 10.905l-.373.724 2.348 1.322zM9.73 10.905l-2.347-1.32-.373.724 2.347 1.321.373-.723Zm-2.195 4.73 2.347-4.159-.677-.418-2.347 4.158zm4.557 3.109 4.565-2.837-.401-.706-4.566 2.836zM16.18 9.74l-2.315 4.223.682.409 2.315-4.223zm-2.315 4.223-2.315 4.222.682.409 2.315-4.222zm2.791 1.236-2.25-1.386-.4.708 2.251 1.386z"
+  }));
+
   const SvgIconBrandTailwindcss = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -19571,6 +19592,7 @@
   exports.IconBrandSlack = SvgIconBrandSlack;
   exports.IconBrandSnapchat = SvgIconBrandSnapchat;
   exports.IconBrandSpotify = SvgIconBrandSpotify;
+  exports.IconBrandTailwindVariants = SvgIconBrandTailwindVariants;
   exports.IconBrandTailwindcss = SvgIconBrandTailwindcss;
   exports.IconBrandTelegram = SvgIconBrandTelegram;
   exports.IconBrandThreads = SvgIconBrandThreads;

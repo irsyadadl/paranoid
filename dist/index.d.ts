@@ -247,6 +247,7 @@ export declare const IconBrandSketch: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandSlack: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandSnapchat: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandSpotify: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconBrandTailwindVariants: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandTailwindcss: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandTelegram: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconBrandThreads: React.FC<React.SVGProps<SVGSVGElement>>;

@@ -246,6 +246,7 @@ export { default as IconBrandSketch } from "./IconBrandSketch";
 export { default as IconBrandSlack } from "./IconBrandSlack";
 export { default as IconBrandSnapchat } from "./IconBrandSnapchat";
 export { default as IconBrandSpotify } from "./IconBrandSpotify";
+export { default as IconBrandTailwindVariants } from "./IconBrandTailwindVariants";
 export { default as IconBrandTailwindcss } from "./IconBrandTailwindcss";
 export { default as IconBrandTelegram } from "./IconBrandTelegram";
 export { default as IconBrandThreads } from "./IconBrandThreads";
