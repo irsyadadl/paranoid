@@ -4025,20 +4025,16 @@
     width: 24,
     height: 24,
     fill: "none",
-    viewBox: "0 0 24 24"
+    viewBox: "0 0 24 25"
   }, props, {
     className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
     "data-slot": "icon",
     "aria-hidden": "true"
   }), /*#__PURE__*/React__namespace.createElement("path", {
     fill: "currentColor",
-    d: "M12 21.667A9.667 9.667 0 0 0 21.667 12 9.667 9.667 0 0 0 12 2.334C6.66 2.334 2.333 6.66 2.333 12S6.661 21.667 12 21.667"
-  }), /*#__PURE__*/React__namespace.createElement("path", {
-    fill: "#fff",
-    d: "M18.612 19.502 9.682 8H8v7.997h1.346V9.709l8.21 10.607q.556-.373 1.056-.814"
-  }), /*#__PURE__*/React__namespace.createElement("path", {
-    fill: "#fff",
-    d: "M16.111 8h-1.333v8h1.333z"
+    fillRule: "evenodd",
+    d: "M12 2.75c-5.523 0-10 4.477-10 10s4.477 10 10 10c2.088 0 4.026-.64 5.63-1.734L9.846 10.959v6.288H8.5V9.25h1.682l5.096 6.539V9.25h1.333v8h-.195l2.28 2.927A9.98 9.98 0 0 0 22 12.75c0-5.523-4.477-10-10-10",
+    clipRule: "evenodd"
   }));
 
   const SvgIconBrandNotion = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
