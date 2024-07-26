@@ -3888,24 +3888,19 @@ const SvgIconBrandLayers = props => /*#__PURE__*/React.createElement("svg", _ext
   className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
   "data-slot": "icon",
   "aria-hidden": "true"
-}), /*#__PURE__*/React.createElement("g", {
-  className: "icon-brand-layers_svg__icon-brand-layers"
-}, /*#__PURE__*/React.createElement("g", {
-  fill: "#fff",
-  className: "icon-brand-layers_svg__Group icon-brand-layers_svg__8"
-}, /*#__PURE__*/React.createElement("path", {
+}), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   fillOpacity: 0.2,
-  d: "m2 13.644.05-7.5c.009-1.357.958-2.52 2.269-2.78L11.56 1.93c1.74-.345 3.355 1.017 3.343 2.818l-.05 7.5c-.009 1.357-.958 2.52-2.269 2.78l-7.242 1.436c-1.74.345-3.355-1.017-3.343-2.82Z",
-  className: "icon-brand-layers_svg__Vector"
+  d: "m2 13.644.05-7.5c.009-1.357.958-2.52 2.269-2.78L11.56 1.93c1.74-.345 3.355 1.017 3.343 2.818l-.05 7.5c-.009 1.357-.958 2.52-2.269 2.78l-7.242 1.436c-1.74.345-3.355-1.017-3.343-2.82Z"
 }), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   fillOpacity: 0.5,
-  d: "m5.548 16.636.05-7.5c.008-1.357.958-2.52 2.269-2.78l7.242-1.435c1.74-.345 3.355 1.016 3.343 2.819l-.05 7.5c-.009 1.357-.958 2.52-2.269 2.78l-7.242 1.436c-1.74.344-3.355-1.017-3.343-2.82",
-  className: "icon-brand-layers_svg__Vector"
+  d: "m5.548 16.636.05-7.5c.008-1.357.958-2.52 2.269-2.78l7.242-1.435c1.74-.345 3.355 1.016 3.343 2.819l-.05 7.5c-.009 1.357-.958 2.52-2.269 2.78l-7.242 1.436c-1.74.344-3.355-1.017-3.343-2.82"
 }), /*#__PURE__*/React.createElement("path", {
+  fill: "currentColor",
   fillOpacity: 0.8,
-  d: "m9.096 19.627.05-7.5c.009-1.357.958-2.52 2.269-2.78l7.242-1.435c1.74-.345 3.355 1.017 3.343 2.819l-.05 7.5c-.009 1.357-.958 2.52-2.269 2.78l-7.242 1.435c-1.74.345-3.355-1.017-3.343-2.819",
-  className: "icon-brand-layers_svg__Vector"
-}))));
+  d: "m9.096 19.627.05-7.5c.009-1.357.958-2.52 2.269-2.78l7.242-1.435c1.74-.345 3.355 1.017 3.343 2.819l-.05 7.5c-.009 1.357-.958 2.52-2.269 2.78l-7.242 1.435c-1.74.345-3.355-1.017-3.343-2.819"
+}));
 
 const SvgIconBrandLemonsqueezy = props => /*#__PURE__*/React.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
@@ -4013,73 +4008,16 @@ const SvgIconBrandNextjs = props => /*#__PURE__*/React.createElement("svg", _ext
   className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
   "data-slot": "icon",
   "aria-hidden": "true"
-}), /*#__PURE__*/React.createElement("g", {
-  className: "icon-brand-nextjs_svg__icon-brand-nextjs"
-}, /*#__PURE__*/React.createElement("g", {
-  className: "icon-brand-nextjs_svg__Mask icon-brand-nextjs_svg__group"
-}, /*#__PURE__*/React.createElement("mask", {
-  id: "icon-brand-nextjs_svg__a",
-  width: 20,
-  height: 20,
-  x: 2,
-  y: 2,
-  className: "icon-brand-nextjs_svg__a",
-  maskUnits: "userSpaceOnUse",
-  style: {
-    maskType: "alpha"
-  }
-}, /*#__PURE__*/React.createElement("g", {
-  className: "icon-brand-nextjs_svg__Group"
-}, /*#__PURE__*/React.createElement("path", {
-  fill: "none",
-  d: "M12 22c5.523 0 10-4.477 10-10S17.523 2 12 2 2 6.477 2 12s4.477 10 10 10",
-  className: "icon-brand-nextjs_svg__Vector"
-}))), /*#__PURE__*/React.createElement("g", {
-  className: "icon-brand-nextjs_svg__Group",
-  mask: "url(#icon-brand-nextjs_svg__a)"
-}, /*#__PURE__*/React.createElement("path", {
-  fill: "none",
-  stroke: "#fff",
-  strokeWidth: 0.8,
-  d: "M12 21.667A9.667 9.667 0 0 0 21.667 12 9.667 9.667 0 0 0 12 2.334C6.66 2.334 2.333 6.66 2.333 12S6.661 21.667 12 21.667Z",
-  className: "icon-brand-nextjs_svg__Vector"
 }), /*#__PURE__*/React.createElement("path", {
-  fill: "url(#icon-brand-nextjs_svg__b)",
-  d: "M18.612 19.503 9.682 8H8v7.997h1.346V9.71l8.21 10.606q.556-.372 1.056-.813",
-  className: "icon-brand-nextjs_svg__Vector"
+  fill: "currentColor",
+  d: "M12 21.667A9.667 9.667 0 0 0 21.667 12 9.667 9.667 0 0 0 12 2.334C6.66 2.334 2.333 6.66 2.333 12S6.661 21.667 12 21.667"
 }), /*#__PURE__*/React.createElement("path", {
-  fill: "url(#icon-brand-nextjs_svg__c)",
-  d: "M16.111 8h-1.333v8h1.333z",
-  className: "icon-brand-nextjs_svg__Vector"
-})))), /*#__PURE__*/React.createElement("defs", null, /*#__PURE__*/React.createElement("linearGradient", {
-  id: "icon-brand-nextjs_svg__b",
-  x1: 14.111,
-  x2: 18.056,
-  y1: 14.945,
-  y2: 19.834,
-  className: "icon-brand-nextjs_svg__b",
-  gradientUnits: "userSpaceOnUse"
-}, /*#__PURE__*/React.createElement("stop", {
-  stopColor: "#fff"
-}), /*#__PURE__*/React.createElement("stop", {
-  offset: 1,
-  stopColor: "#fff",
-  stopOpacity: 0
-})), /*#__PURE__*/React.createElement("linearGradient", {
-  id: "icon-brand-nextjs_svg__c",
-  x1: 15.444,
-  x2: 15.422,
-  y1: 8,
-  y2: 13.875,
-  className: "icon-brand-nextjs_svg__c",
-  gradientUnits: "userSpaceOnUse"
-}, /*#__PURE__*/React.createElement("stop", {
-  stopColor: "#fff"
-}), /*#__PURE__*/React.createElement("stop", {
-  offset: 1,
-  stopColor: "#fff",
-  stopOpacity: 0
-}))));
+  fill: "#fff",
+  d: "M18.612 19.502 9.682 8H8v7.997h1.346V9.709l8.21 10.607q.556-.373 1.056-.814"
+}), /*#__PURE__*/React.createElement("path", {
+  fill: "#fff",
+  d: "M16.111 8h-1.333v8h1.333z"
+}));
 
 const SvgIconBrandNotion = props => /*#__PURE__*/React.createElement("svg", _extends({
   xmlns: "http://www.w3.org/2000/svg",
