@@ -1,5 +1,12 @@
 
 
+## [1.4.8](https://github.com/irsyadadl/paranoid/compare/1.4.7...1.4.8) (2024-07-26)
+
+
+### Bug Fixes
+
+* fix brand tw variants ([d5052ce](https://github.com/irsyadadl/paranoid/commit/d5052ce673663207bbd33e30584301fc0e8af191))
+
 ## [1.4.7](https://github.com/irsyadadl/paranoid/compare/1.4.6...1.4.7) (2024-07-26)
 
 ## [1.4.6](https://github.com/irsyadadl/paranoid/compare/1.4.5...1.4.6) (2024-07-26)
