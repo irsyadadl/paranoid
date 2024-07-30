@@ -1,5 +1,12 @@
 
 
+## [1.4.10](https://github.com/irsyadadl/paranoid/compare/1.4.9...1.4.10) (2024-07-30)
+
+
+### Bug Fixes
+
+* fix actions ([f237d51](https://github.com/irsyadadl/paranoid/commit/f237d5129fb5c85e5005220f04d41cbe5fe01202))
+
 ## [1.4.9](https://github.com/irsyadadl/paranoid/compare/1.4.8...1.4.9) (2024-07-30)
 
 
