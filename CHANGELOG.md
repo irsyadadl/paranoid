@@ -1,5 +1,12 @@
 
 
+## [1.4.9](https://github.com/irsyadadl/paranoid/compare/1.4.8...1.4.9) (2024-07-30)
+
+
+### Bug Fixes
+
+* fix permissions ([fd6cbe5](https://github.com/irsyadadl/paranoid/commit/fd6cbe5f0a3edee376e7bb3a7b058e4f1ee30994))
+
 ## [1.4.8](https://github.com/irsyadadl/paranoid/compare/1.4.7...1.4.8) (2024-07-26)
 
 
