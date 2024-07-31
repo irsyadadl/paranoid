@@ -434,6 +434,8 @@ export { default as IconColorSwatch } from "./IconColorSwatch";
 export { default as IconColorsFill } from "./IconColorsFill";
 export { default as IconColors } from "./IconColors";
 export { default as IconCommandFill } from "./IconCommandFill";
+export { default as IconCommandRegularFill } from "./IconCommandRegularFill";
+export { default as IconCommandRegular } from "./IconCommandRegular";
 export { default as IconCommand } from "./IconCommand";
 export { default as IconCompassFill } from "./IconCompassFill";
 export { default as IconCompass } from "./IconCompass";

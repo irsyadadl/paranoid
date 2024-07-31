@@ -436,6 +436,8 @@ export declare const IconColors: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconColorsFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCommand: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCommandFill: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconCommandRegular: React.FC<React.SVGProps<SVGSVGElement>>;
+export declare const IconCommandRegularFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCompass: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconCompassFill: React.FC<React.SVGProps<SVGSVGElement>>;
 export declare const IconComputer: React.FC<React.SVGProps<SVGSVGElement>>;

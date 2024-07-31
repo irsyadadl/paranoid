@@ -7671,6 +7671,40 @@
     clipRule: "evenodd"
   }));
 
+  const SvgIconCommandRegularFill = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 25"
+  }, props, {
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
+    "data-slot": "icon",
+    "aria-hidden": "true"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    fill: "currentColor",
+    fillRule: "evenodd",
+    d: "M3 7.25a3.5 3.5 0 1 1 7 0v2h4v-2a3.5 3.5 0 1 1 3.5 3.5h-2v4h2a3.5 3.5 0 1 1-3.5 3.5v-2h-4v2a3.5 3.5 0 1 1-3.5-3.5h2v-4h-2A3.5 3.5 0 0 1 3 7.25m5.5 2v-2a2 2 0 1 0-2 2zm1.5 1.5v4h4v-4zm-1.5 5.5h-2a2 2 0 1 0 2 2zm7 0v2a2 2 0 1 0 2-2zm0-7h2a2 2 0 1 0-2-2z",
+    clipRule: "evenodd"
+  }));
+
+  const SvgIconCommandRegular = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
+    xmlns: "http://www.w3.org/2000/svg",
+    width: 24,
+    height: 24,
+    fill: "none",
+    viewBox: "0 0 24 25"
+  }, props, {
+    className: `paranoid-ic ${props.className ? props.className : "size-4"}`,
+    "data-slot": "icon",
+    "aria-hidden": "true"
+  }), /*#__PURE__*/React__namespace.createElement("path", {
+    stroke: "currentColor",
+    strokeLinecap: "square",
+    strokeWidth: 1.5,
+    d: "M9.25 10V7.25A2.75 2.75 0 1 0 6.5 10zm0 0h5.5m-5.5 0v5.5m5.5-5.5V7.25A2.75 2.75 0 1 1 17.5 10zm0 0v5.5m-5.5 0h5.5m-5.5 0v2.75A2.75 2.75 0 1 1 6.5 15.5zm5.5 0v2.75a2.75 2.75 0 1 0 2.75-2.75z"
+  }));
+
   const SvgIconCommand = props => /*#__PURE__*/React__namespace.createElement("svg", _extends({
     xmlns: "http://www.w3.org/2000/svg",
     width: 24,
@@ -19775,6 +19809,8 @@
   exports.IconColorsFill = SvgIconColorsFill;
   exports.IconCommand = SvgIconCommand;
   exports.IconCommandFill = SvgIconCommandFill;
+  exports.IconCommandRegular = SvgIconCommandRegular;
+  exports.IconCommandRegularFill = SvgIconCommandRegularFill;
   exports.IconCompass = SvgIconCompass;
   exports.IconCompassFill = SvgIconCompassFill;
   exports.IconComputer = SvgIconComputer;
