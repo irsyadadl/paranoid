@@ -1,5 +1,5 @@
 {
-  "name": "@irsyadadl/paranoid",
+  "name": "justd-icons",
   "version": "1.4.12",
   "description": "A library of beautifully crafted react icons, perfect for enhancing the visual appeal and user experience of your web applications.",
   "author": "Irsyad A. Panjaitan",
@@ -12,7 +12,7 @@
     "format": "npx prettier --write .",
     "prebuild": "rimraf src && rimraf dist",
     "build": "npm run svgr && node scripts/add-custom-attr.js && node scripts/generate-declarations.js && rollup -c",
-    "svgr": "svgr --icon --replace-attr-values '#000=none'  --replace-attr-values '1em={24}' -d src -- ../icons",
+    "svgr": "svgr --icon --replace-attr-values '#000=none'  --replace-attr-values '1em={24}' -d src -- ../svg",
     "pr": "npm run build && git commit -a",
     "release": "release-it"
   },
@@ -100,7 +100,7 @@
     }
   },
   "peerDependencies": {
-    "react": "^16 || ^17 || ^18"
+    "react": "^16 || ^17 || ^18 || ^19"
   },
   "dependencies": {
     "@babel/runtime": "^7.24.7"
